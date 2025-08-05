@@ -14,7 +14,7 @@ Overview over the services:
  
 ### 2.1 Local deployment
 
-1. Create a `docs` folder:
+1. Create a `docs` folder: TODO change this to "documents" folder or something, docs is now the documentation!
    ```bash
    mkdir -p private/docs  private/output
    ```
