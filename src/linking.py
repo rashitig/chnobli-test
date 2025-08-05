@@ -1,11 +1,4 @@
 #! /usr/bin/python3
-import re
-import unicodedata
-from utility.linking_utils import search_person_wikidata, search_person_gnd
-import logging
-from datetime import datetime
-from multiprocessing import Pool
-from utility.utils import save_data_intermediate
 """
 principles of this script:
 The main point of connection is (obviously) the lastname.
@@ -15,6 +8,13 @@ Also Titles (if applicable, in the database, the field for biographical infos
 sometimes contains that information.)
 Ultimately, and maybe most importantly, we are interested in the occupations.
 """
+import re
+import unicodedata
+import logging
+from datetime import datetime
+from multiprocessing import Pool
+from utility.utils import save_data_intermediate
+from utility.linking_utils import search_person_wikidata, search_person_gnd
 
 
 def prep_word(word: str) -> str:
@@ -31,16 +31,16 @@ def prep_word(word: str) -> str:
 
 
 def remove_obsolete_abbrevs(fnames: list, abbr_firstnames: list) -> list:
-    """Removes abbreviated firstnames that are already covered by full
+    """Removes abbreviated firstnames that are already covered by full\
     firstnames.
 
     Args:
-        fnames (list): List of firstnames
-        abbr_firstnames (list): List of abbreviated firstnames
+        fnames (list): List of firstnames\n
+        abbr_firstnames (list): List of abbreviated firstnames\n
 
     Returns:
-        list: List of firstnames where the obsolete abbreviated firstnames
-        have been removed.
+        list: List of firstnames where the obsolete abbreviated firstnames\
+            have been removed.
 
     Example:
         fnames = ["R.", "Richard"] => fnames = ["Richard"]
@@ -64,17 +64,16 @@ def get_candidates(person: dict, gnd_limit: int, wikidata_limit: int) -> dict:
     """Searches the GND and Wikidata index for candidates of a given person.
 
     Args:
-        person (dict): A dictionary with various information on the given
-            person entity.
-        gnd_limit (int):
-            The number of candidates to truncate our GND candidate list to.
-        wikidata_limit (int):
-            The number of candidates to truncate out wikidata
-            candidate list to
+        person (dict): A dictionary with various information on the given\
+            person entity.\n
+        gnd_limit (int): The number of candidates to truncate our GND\
+            candidate list to.\n
+        wikidata_limit (int): The number of candidates to truncate our\
+            wikidata candidate list to.
 
     Returns:
-        dict: Dictionary of candidates for the given person, containing
-        information on the candidates themselves.
+        dict: Dictionary of candidates for the given person, containing\
+            information on the candidates themselves.
     """
     if (
         len(person["lastname"]) == 0
@@ -99,7 +98,7 @@ def get_candidates(person: dict, gnd_limit: int, wikidata_limit: int) -> dict:
             abbr_fnames.append(name)
 
     lastname = person["lastname"]
-    if (len(lastname) > 1):
+    if len(lastname) > 1:
         lastname = " ".join(lastname)
     else:
         lastname = lastname[0]
@@ -107,7 +106,7 @@ def get_candidates(person: dict, gnd_limit: int, wikidata_limit: int) -> dict:
     full_name = " ".join(fnames) + " " + lastname
 
     candidate_dict = dict()
-    if abbr_fnames != []:
+    if abbr_fnames:
         full_name_abbr = " ".join(abbr_fnames) + " " + lastname
         candidate_dict.update(
             search_person_gnd(abbr_fnames, lastname, gnd_limit)
@@ -125,8 +124,9 @@ def get_candidates(person: dict, gnd_limit: int, wikidata_limit: int) -> dict:
     res_dict_fullname = {}
     res_dict_fullname.update(search_person_gnd(fnames, lastname, gnd_limit))
     res_dict_fullname.update(search_person_wikidata(full_name, wikidata_limit))
-    res_dict_fullname = {k: v for k, v in sorted(res_dict_fullname.items(),
-                         key=lambda item: item[1]["score"], reverse=True)}
+    res_dict_fullname = dict(
+        sorted(res_dict_fullname.items(), key=lambda item: item[1]['score'], reverse=True)
+    )
     candidate_dict.update(res_dict_fullname)
 
     return candidate_dict
@@ -136,7 +136,7 @@ def prep_person_entry(person: dict) -> None:
     """Normalizes and cleans up proper names in the given person dictionary.
 
     Args:
-        person (dict): A person dictionary containing at least the keys
+        person (dict): A person dictionary containing at least the keys\
             "firstname", "abbr_firstname", "lastname", and "profession".
     """
     person["firstname"] = [
@@ -151,11 +151,11 @@ def prep_person_entry(person: dict) -> None:
 
 
 def prep_person_out(person: dict) -> None:
-    """For a given dictionary, joins the fields "firstname", "abbr_firstname"
+    """For a given dictionary, joins the fields "firstname", "abbr_firstname"\
     and "lastname" repectively to make them strings.
 
     Args:
-        person (dict): A person dictionary containing at least the keys
+        person (dict): A person dictionary containing at least the keys\
             "firstname", "abbr_firstname", and "lastname".
     """
     person["firstname"] = [" ".join(x) for x in person["firstname"]]
@@ -164,35 +164,37 @@ def prep_person_out(person: dict) -> None:
 
 
 def link_person(data_in) -> None:
-    """Searches GND and Wikidata for candidates, sets a field "gnd_ids" in the
+    """Searches GND and Wikidata for candidates, sets a field "gnd_ids" in the\
     person dictionary with at most `linked_persons_limit` candidates.
 
-    Args
-        data_in: This is a 4 tuple containing:
-            - person (dict): A dictionary with keys "lastname", "firstname",
-                "abbr_firstname", "address", "titles", "profession", "other",
-                "references", "type" and "id".
-                -- fields up until "references" are lists, except for lastname
-                which is a string
-                -- references is a defaultdict(list), a list of page_names
-                where each page_name has coords and sentences associated with
-                it where the candidate was mentioned
-                -- type is a string denoting the entity type
-                -- id is an internal id
-            - gnd_limit (int):
-                The number of candidates to truncate our GND candidate list to.
-                Defaults to 15.
-            - wikidata_limit (int):
-                The number of candidates to truncate out wikidata
-                candidate list to. Defaults to 5.
-            - linked_persons_limit (int, optional):
-                The number of candidates to truncate our combined gnd and
-                wikidata candidates list to. Defaults to 10.
+    Args:
+        data_in: This is a 4 tuple containing:\n
+            - person (dict): A dictionary with keys "lastname", "firstname",\
+                "abbr_firstname", "address", "titles", "profession", "other",\
+                "references", "type" and "id".\n
+                -- fields up until "references" are lists, except for lastname\
+                which is a string\n
+                -- references is a defaultdict(list), a list of page_names\
+                where each page_name has coords and sentences associated with\
+                it where the candidate was mentioned\n
+                -- type is a string denoting the entity type\n
+                -- id is an internal id\n
+            - gnd_limit (int):\n
+                The number of candidates to truncate our GND candidate list to.\
+                Defaults to 15.\n
+            - wikidata_limit (int):\n
+                The number of candidates to truncate out wikidata\
+                candidate list to. Defaults to 5.\n
+            - linked_persons_limit (int, optional):\n
+                The number of candidates to truncate our combined gnd and\
+                wikidata candidates list to. Defaults to 10.\n
+
     Notes:
-        - If the list of candidates is longer than `linked_persons_limit`,
-          we check if the first letters of the firstnames match the abbreviated
-          firstnames. If not, those candidates are deleted first, before we
+        - If the list of candidates is longer than `linked_persons_limit`,\
+          we check if the first letters of the firstnames match the abbreviated\
+          firstnames. If not, those candidates are deleted first, before we\
           truncate to `linked_persons_limit`.
+
     Returns:
         dict: The changed person dictionary, now containing the gnd_ids.
     """
@@ -229,18 +231,17 @@ def link_person(data_in) -> None:
 def find_links(data_in) -> list:
     """Links all the people in the given data
 
-    Args
-        data_in (3-tuple)
-            - mag_year (tuple): A tuple contaning the magazine shortname and
-                year of the journal we're currently processing in that order.
-            - data (list): The list of dictionaries created through
-                aggregating PER entities in our magazine-year tuple.
-            - conf (dict): configurations
+    Args:
+        data_in (3-tuple):\n
+            - mag_year (tuple): A tuple contaning the magazine shortname and\
+                year of the journal we're currently processing in that order.\n
+            - data (list): The list of dictionaries created through\
+                aggregating PER entities in our magazine-year tuple.\n
+            - conf (dict): configurations\n
 
     Returns:
-        list: An ordered list of person entity dictionaries containing a
-        "gnd_ids"
-        key with the candidates list.
+        list: An ordered list of person entity dictionaries containing a\
+            "gnd_ids" key with the candidates list.
     """
     mag_year, data, conf = data_in
 
@@ -261,7 +262,7 @@ def find_links(data_in) -> list:
 
     person_list = [link_person(x) for x in person_list]
 
-    logging.info("Finished {} {}".format(magazine, str(year)))
+    logging.info("Finished %s %s", magazine, str(year))
     #print("Finished {} {}".format(magazine, str(year)))
     save_data_intermediate(mag_year, person_list, conf, "link")
     return person_list
@@ -271,30 +272,30 @@ def execute_linking_timed(aggregated_data: list,
                           conf: dict,
                           tasks: list) -> None:
     """
-    Links the aggregated data based on the given configuration and tasks,
+    Links the aggregated data based on the given configuration and tasks,\
     and logs the time it took to run the linking.
 
     Args:
-        aggregated_data (list): The data that has been aggregated and is ready
-            for linking.
-        conf (dict): Configuration dictionary containing various settings
-            and paths.
+        aggregated_data (list): The data that has been aggregated and is ready\
+            for linking.\n
+        conf (dict): Configuration dictionary containing various settings\
+            and paths.\n
         tasks (list): List of tasks to be performed during linking.
 
     Raises:
-        Exception: If the tasks list doesn't include 'finish' or if 'agg' and
-                   'post' is not included in the tasks list, an exception is
-                   raised indicating that 'post,agg,link' or 'finish' must be
+        Exception: If the tasks list doesn't include 'finish' or if 'agg' and\
+                   'post' is not included in the tasks list, an exception is\
+                   raised indicating that 'post,agg,link' or 'finish' must be\
                    called together.
 
     Returns:
         None
     """
     start_time = datetime.now()
-    logging.info("Starting Linking at", start_time, ":")
+    logging.info("Starting Linking at %s :", start_time)
     #print("Starting Linking at", start_time, ":")
     execute_linking(aggregated_data, conf, tasks)
-    logging.info("Linking took: ", datetime.now() - start_time)
+    logging.info("Linking took: %s", datetime.now() - start_time)
     #print("Linking took: ", datetime.now() - start_time)
 
 
@@ -303,17 +304,17 @@ def execute_linking(data: dict, conf: dict, tasks: list) -> None:
     Links the aggregated data based on the given configuration and tasks.
 
     Args:
-        data (dict): The data that has been aggregated and is ready for
-            linking. The keys are the magazine-year shortnames, the values
-            are the aggregated entities.
-        conf (dict): Configuration dictionary containing various settings and
-            paths.
+        data (dict): The data that has been aggregated and is ready for\
+            linking. The keys are the magazine-year shortnames, the values\
+            are the aggregated entities.\n
+        conf (dict): Configuration dictionary containing various settings and\
+            paths.\n
         tasks (list): List of tasks to be performed during linking.
 
     Raises:
-        Exception: If the tasks list doesn't include 'finish' or if 'agg' and
-                   'post' is not included in the tasks list, an exception is
-                   raised indicating that 'post,agg,link' or 'finish' must be
+        Exception: If the tasks list doesn't include 'finish' or if 'agg' and\
+                   'post' is not included in the tasks list, an exception is\
+                   raised indicating that 'post,agg,link' or 'finish' must be\
                    called together.
 
     Returns:
@@ -327,22 +328,21 @@ def execute_linking(data: dict, conf: dict, tasks: list) -> None:
         raise Exception(
             "'post,agg,link' must be called together, or call 'finish' instead."
         )
-    else:
-        # NOTE this cannot be called seperately after the aggregation step,
-        # "post,agg,link" need to be called together after "tag",
-        # or you could just call "finish"
-        logging.info("executeLinking reached")
-        logging.info(
-            "Linking now: " + ", ".join(["-".join(x) for x in data.keys()])
-        )
+    # NOTE this cannot be called seperately after the aggregation step,
+    # "post,agg,link" need to be called together after "tag",
+    # or you could just call "finish"
+    logging.info("executeLinking reached")
+    logging.info(
+        "Linking now: %s", ", ".join(["-".join(x) for x in data.keys()])
+    )
 
-        links = [
-            (
-                k,  # tuple of (mag, year) like ("cmt", "1998_076")
-                v,  # list of person dictionaries
-                conf
-            ) for (k, v) in data.items()
-        ]
+    links = [
+        (
+            k,  # tuple of (mag, year) like ("cmt", "1998_076")
+            v,  # list of person dictionaries
+            conf
+        ) for (k, v) in data.items()
+    ]
 
-        with Pool(len(links)) as p:
-            links = p.map(find_links, links)
+    with Pool(len(links)) as p:
+        links = p.map(find_links, links)

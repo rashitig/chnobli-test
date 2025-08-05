@@ -4,5 +4,9 @@ chnobli-test
 .. toctree::
    :maxdepth: 4
 
-   main
-   src
+   tag_flair
+   aggregation
+   postprocess
+   linking
+   evaluation
+   utility

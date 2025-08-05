@@ -6,30 +6,29 @@ from utility.evaluation_utils import Paths, Scores, evaluate_person
 
 def execute_evaluation(conf: dict, eval_level: str, fuzziness: bool) -> None:
     """
-    Evaluates the F1-score of the data based on the given configuration,
+    Evaluates the F1-score of the data based on the given configuration,\
     evaluation level, and fuzziness.
 
-    At eval_level "ent", this is done on entity level. At eval_level "ref",
-    this is done on reference level, which weighs the entities more that occur
+    At eval_level "ent", this is done on entity level. At eval_level "ref",\
+    this is done on reference level, which weighs the entities more that occur\
     more, thus should be linked correctly, since we have more context on them.
 
-    Evaluation is done for all magazines in our ground-truth folder to make the
-    evaluations straightforward to compare. If you would like to evaluate only
-    one magazine, you need to create a new directory with only that magazine's
+    Evaluation is done for all magazines in our ground-truth folder to make the\
+    evaluations straightforward to compare. If you would like to evaluate only\
+    one magazine, you need to create a new directory with only that magazine's\
     ground-truth in it, change that path in the config, and then run eval.
 
     Args:
-        conf (dict): Configuration dictionary containing various settings and
-         paths.
-        eval_level (str): Evaluation level to be used ("ent" or "ref").
+        conf (dict): Configuration dictionary containing various settings and\
+            paths.\n
+        eval_level (str): Evaluation level to be used ("ent" or "ref").\n
         fuzzy (str): Whether to use fuzzy matching.
 
     Raises:
         NotImplementedError: _description_
 
     Returns:
-        None.
-        It creates several directories and json files in the output directory
+        None. It creates several directories and json files in the output directory\
         specified in the config.
     """
     gt_fuzziness = "with_fuzzy" if fuzziness else "without_fuzzy"
@@ -81,19 +80,19 @@ def execute_evaluation(conf: dict, eval_level: str, fuzziness: bool) -> None:
 
 def execute_evaluation_timed(conf: dict, eval_level: str, fuzzy: bool) -> None:
     """
-    Evaluates the data based on the given configuration, evaluation level, and
+    Evaluates the data based on the given configuration, evaluation level, and\
     fuzziness, and logs the time it took for the evaluation.
 
     Args:
-        conf (dict): Configuration dictionary containing various settings and
-         paths.
-        eval_level (str): Evaluation level to be used.
+        conf (dict): Configuration dictionary containing various settings and\
+            paths.\n
+        eval_level (str): Evaluation level to be used.\n
         fuzzy (str): Whether to use fuzzy matching.
 
     Returns:
         None
     """
     start_time = datetime.now()
-    logging.info("Starting Evaluation at", start_time, ":")
+    logging.info("Starting Evaluation at %s:", start_time)
     execute_evaluation(conf, eval_level, fuzzy)
-    logging.info("Evaluation took: ", datetime.now() - start_time)
+    logging.info("Evaluation took: %s", datetime.now() - start_time)

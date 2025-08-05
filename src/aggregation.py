@@ -1,12 +1,4 @@
 #! /usr/bin/python3
-
-from collections import defaultdict
-from germalemma import GermaLemma
-import re
-import pprint as pp
-from datetime import datetime
-import logging
-from utility.utils import save_data
 """
 TODO: Aggregate HANS FUCHS with Hans Fuchs.
 TODO: Do not aggregate entities with each other where "other"-Info is given,
@@ -15,24 +7,30 @@ TODO: Check if entities with multiple candidates should also
 check for candidates on previous pages and not only the same page.
 TODO: Remove multiple mentions of jobs in "profession"-info
 """
+from collections import defaultdict
+import re
+import pprint as pp
+from datetime import datetime
+import logging
+from germalemma import GermaLemma
+from utility.utils import save_data
 
 PREPATTERN = re.compile(r"^[\W_]+", flags=re.UNICODE)
 POSTPATTERN = re.compile(r"[\W_]+$", flags=re.UNICODE)
 # TODO don't we want to remove these characters from within a word as well?
 
-
 def create_new_aggregated_unit(reference: dict) -> dict:
     """
-    Creates a new aggregated unit for a person entity based on the provided
+    Creates a new aggregated unit for a person entity based on the provided\
     reference.
 
     Args:
-        reference (dict): A dictionary containing information about the person
-         entity and where the person appeared in the journal.
+        reference (dict): A dictionary containing information about the person\
+            entity and where the person appeared in the journal.
 
     Returns:
-        dict: A dictionary representing the new aggregated unit where we
-         changed the values to sets of tuples.
+        dict: A dictionary representing the new aggregated unit where we\
+            changed the values to sets of tuples.
     """
     info = reference["info"]
     return {
@@ -54,19 +52,18 @@ def create_new_aggregated_unit(reference: dict) -> dict:
 
 
 def merge_to_existing_aggregated_unit(match: dict, reference: dict) -> None:
-    """Merges the information from a reference into an existing aggregated
+    """Merges the information from a reference into an existing aggregated\
     unit.
 
     Args:
-        match (dict): The existing aggregated unit to which the reference
-         will be merged.
-
-        reference (dict): A dictionary containing information about the person
-         entity and where the person appeared in the journal.
+        match (dict): The existing aggregated unit to which the reference\
+            will be merged.\n
+        reference (dict): A dictionary containing information about the person\
+            entity and where the person appeared in the journal.
 
     Returns:
-        None: The function modifies the `match` dictionary in place by adding
-        the information from the `reference`.
+        None: The function modifies the `match` dictionary in place by adding\
+            the information from the `reference`.
     """
     # TODO making these tuples is quite inconvenient.
     # all of this should be rewritten.
@@ -96,28 +93,26 @@ def decide_candidates(reference: dict,
                       aggregated_names: list,
                       verbose=False) -> None:
     """
-    Determines the best candidate from a list of candidates to merge with the
-    given reference. If no suitable candidate is found, creates a new
+    Determines the best candidate from a list of candidates to merge with the\
+    given reference. If no suitable candidate is found, creates a new\
     aggregated unit for the reference.
 
     Args:
-        reference (dict): A dictionary containing information about the person
-         entity and where the person appeared in the journal.
+        reference (dict): A dictionary containing information about the person\
+            entity and where the person appeared in the journal.\n
 
-        candidates (list): A list of dictionaries representing existing
-         aggregated units that are potential matches for the reference.
-
-        aggregated_names (list): A list of all aggregated units.
-         If no suitable candidate is found, a new aggregated unit will be
-         added to this list.
-
-        verbose (bool, optional): If True, prints detailed information about
-         the reference and the selected candidate. Defaults to False.
+        candidates (list): A list of dictionaries representing existing\
+            aggregated units that are potential matches for the reference.\n
+        aggregated_names (list): A list of all aggregated units.\
+            If no suitable candidate is found, a new aggregated unit will be\
+            added to this list.\n
+        verbose (bool, optional): If True, prints detailed information about\
+            the reference and the selected candidate. Defaults to False.
 
     Returns:
-        None: The function modifies the `aggregated_names` list in place by
-         either merging the reference into an existing aggregated unit or
-         creating a new one.
+        None: The function modifies the `aggregated_names` list in place by\
+            either merging the reference into an existing aggregated unit or\
+            creating a new one.
     """
     if verbose:
         pp.pprint(reference)
@@ -164,18 +159,17 @@ def decide_candidates(reference: dict,
 
 def full_firstname_match(ref: dict, aggregated_names: list) -> dict:
     """
-    Finds a match in the aggregated names for a reference based on the
+    Finds a match in the aggregated names for a reference based on the\
     full firstname and lastname.
 
     Args:
-        ref (dict): A dictionary containing information about the reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units.
+        ref (dict): A dictionary containing information about the reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        dict: The matching aggregated unit if a match is found,
-         otherwise `None`.
+        dict: The matching aggregated unit if a match is found,\
+            otherwise `None`.
     """
     for entry in aggregated_names:
         if ref["info"]["lastnames"] == entry["lastname"]:
@@ -193,27 +187,25 @@ def aggregate_with(namepart_dict: dict,
                    aggregated_names: list,
                    namepart: str) -> None:
     """
-    Aggregates references from a dictionary into existing aggregated units
+    Aggregates references from a dictionary into existing aggregated units\
     or creates new aggregated units based on the specified name part.
 
     Args:
-        namepart_dict (dict): A dictionary where keys are name parts
-         (e.g., last names) and values are lists of references (dictionaries)
-         containing information about person entities.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units. This list will be updated with new or merged
-         aggregated units.
-
+        namepart_dict (dict): A dictionary where keys are name parts\
+            (e.g., last names) and values are lists of references (dictionaries)\
+            containing information about person entities.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units. This list will be updated with new or merged\
+            aggregated units.\n
         namepart (str): Specifies the type of name part to use for aggregation.
 
     Raises:
         Exception: If the provided `namepart` is not recognized.
 
     Returns:
-        None: The function modifies the `aggregated_names` list in place by
-         either merging references into existing aggregated units or creating
-         new ones.
+        None: The function modifies the `aggregated_names` list in place by\
+            either merging references into existing aggregated units or creating\
+            new ones.
     """
     for key, value in namepart_dict.items():
         for reference in value:
@@ -261,18 +253,17 @@ def aggregate_with(namepart_dict: dict,
 
 def abbrev_firstname_match(reference: dict, aggregated_names: list) -> list:
     """
-    Finds matches in the aggregated names for a reference based on the
+    Finds matches in the aggregated names for a reference based on the\
     abbreviated first and lastname.
 
     Args:
-        reference (dict): A dictionary containing information about the
-         reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
+        reference (dict): A dictionary containing information about the\
+         reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
          aggregated units.
 
     Returns:
-        list: A list of matching aggregated units where the abbreviated first-
+        list: A list of matching aggregated units where the abbreviated first-\
          and lastname match the reference.
     """
     matches = []
@@ -301,19 +292,18 @@ def abbrev_firstname_match(reference: dict, aggregated_names: list) -> list:
 
 def only_lastname_match(reference: dict, aggregated_names: list) -> list:
     """
-    Finds matches in the aggregated names for a reference based on the
-     lastname only.
+    Finds matches in the aggregated names for a reference based on the\
+    lastname only.
 
     Args:
-        reference (dict): A dictionary containing information about the
-         reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units.
+        reference (dict): A dictionary containing information about the\
+            reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        list: A list of matching aggregated units where the lastname matches
-         the reference.
+        list: A list of matching aggregated units where the lastname matches\
+        the reference.
     """
     matches = []
     for entry in aggregated_names:
@@ -324,19 +314,18 @@ def only_lastname_match(reference: dict, aggregated_names: list) -> list:
 
 def only_firstname_match(reference: dict, aggregated_names: list) -> list:
     """
-    Finds matches in the aggregated names for a reference based on the
-     firstname only.
+    Finds matches in the aggregated names for a reference based on the\
+    firstname only.
 
     Args:
-        reference (dict): A dictionary containing information about the
-         reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units.
+        reference (dict): A dictionary containing information about the\
+            reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        list: A list of matching aggregated units where the firstname matches
-         the reference.
+        list: A list of matching aggregated units where the firstname matches\
+            the reference.
     """
     matches = []
     for entry in aggregated_names:
@@ -352,19 +341,18 @@ def only_firstname_match(reference: dict, aggregated_names: list) -> list:
 def only_abbrev_firstname_match(reference: dict,
                                 aggregated_names: list) -> list:
     """
-    Finds matches in the aggregated names for a reference based on the
-     abbreviated firstname only.
+    Finds matches in the aggregated names for a reference based on the\
+    abbreviated firstname only.
 
     Args:
-        reference (dict): A dictionary containing information about the
-         reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units.
+        reference (dict): A dictionary containing information about the\
+            reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        list: A list of matching aggregated units where the abbreviated
-         firstname matches the reference.
+        list: A list of matching aggregated units where the abbreviated\
+            firstname matches the reference.
     """
     matches = []
     for entry in aggregated_names:
@@ -379,19 +367,18 @@ def only_abbrev_firstname_match(reference: dict,
 
 def others_match(reference: dict, aggregated_names: list) -> list:
     """
-    Finds matches in the aggregated names for a reference based on the
-     others field only.
+    Finds matches in the aggregated names for a reference based on the\
+    others field only.
 
     Args:
-        reference (dict): A dictionary containing information about the
-         reference.
-
-        aggregated_names (list): A list of dictionaries representing existing
-         aggregated units.
+        reference (dict): A dictionary containing information about the\
+            reference.\n
+        aggregated_names (list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        list: A list of matching aggregated units where the others field
-         matches the reference.
+        list: A list of matching aggregated units where the others field\
+            matches the reference.
     """
     matches = []
     for entry in aggregated_names:
@@ -402,7 +389,7 @@ def others_match(reference: dict, aggregated_names: list) -> list:
 
 
 def clean_up_aggregation(aggregated_names: list) -> list:
-    """Cleans up the given aggregated person list by sorting and re-writing
+    """Cleans up the given aggregated person list by sorting and re-writing\
     the datastructure of the references.
 
     Args:
@@ -452,12 +439,12 @@ def clean_up_aggregation(aggregated_names: list) -> list:
 def map_genitive_versions(all_names: list,
                           lastname_dict: dict,
                           key: str) -> None:
-    """Maps the person names to a non-genitive version by removing the last "s"
+    """Maps the person names to a non-genitive version by removing the last "s"\
     from their lastnames in certain cases.
 
     Args:
-        all_names (list): A list of person names mentioned in the journal.
-        lastname_dict (dict): A dict of lastnames to map the genitive to.
+        all_names (list): A list of person names mentioned in the journal.\n
+        lastname_dict (dict): A dict of lastnames to map the genitive to.\n
         key (str): What namepart to map.
 
     Returns:
@@ -475,11 +462,11 @@ def map_genitive_versions(all_names: list,
 
 
 def map_genitive_places(all_names: list, place_list: list) -> None:
-    """Maps the place names to a non-genitive version by removing the last "s"
+    """Maps the place names to a non-genitive version by removing the last "s"\
     in certain cases.
 
     Args:
-        all_names (list): A list of place names mentioned in the journal.
+        all_names (list): A list of place names mentioned in the journal.\n
         place_list (list): A list of places to map the genitive to.
 
     Returns:
@@ -505,20 +492,18 @@ def find_place_match(place_name: str,
                      place_type: str,
                      aggregated_places: list) -> dict:
     """
-    Finds matches in the aggregated placenames for the given placename based on
-     full matches only.
+    Finds matches in the aggregated placenames for the given placename based on\
+    full matches only.
 
     Args:
-        place_name (str): The placename as a string.
-
-        place_type (str): The type value of the place entity (GPE, LOC, etc.)
-
-        aggregated_places(list): A list of dictionaries representing existing
-         aggregated units.
+        place_name (str): The placename as a string.\n
+        place_type (str): The type value of the place entity (GPE, LOC, etc.)\n
+        aggregated_places(list): A list of dictionaries representing existing\
+            aggregated units.
 
     Returns:
-        dict: A dict of a matching aggregated unit where the placenames
-         match.
+        dict: A dict of a matching aggregated unit where the placenames\
+            match.
     """
     for entry in aggregated_places:
         if (
@@ -530,19 +515,18 @@ def find_place_match(place_name: str,
 
 
 def aggregate_places(all_places: list, aggregated_places: list):
-    """Merges the information from a reference list into an existing aggregated
+    """Merges the information from a reference list into an existing aggregated\
     unit in a list of aggregated places.
 
     Args:
-        all_places (list): A list of dictionaries containing information about
-         the place entities and where they appeared in the journal.
-
-        aggregated_places (list):  A list of dictionaries of existing
-         aggregated units to which the reference will be merged.
+        all_places (list): A list of dictionaries containing information about\
+            the place entities and where they appeared in the journal.\n
+        aggregated_places (list):  A list of dictionaries of existing\
+            aggregated units to which the reference will be merged.
 
     Returns:
-        None: The function modifies the `match` dictionary in place by adding
-        the information from the `reference`.
+        None: The function modifies the `match` dictionary in place by adding\
+            the information from the `reference`.
     """
     for place in all_places:
         place_name = " ".join(place["tokens"]).lower()
@@ -556,19 +540,18 @@ def aggregate_places(all_places: list, aggregated_places: list):
 
 
 def aggregate_place(found: dict, place: dict) -> None:
-    """Merges the information from a reference into an existing aggregated
+    """Merges the information from a reference into an existing aggregated\
     unit.
 
     Args:
-        found (dict): The existing aggregated unit to which the reference
-         will be merged.
-
-        place (dict): A dictionary containing information about the place
+        found (dict): The existing aggregated unit to which the reference\
+         will be merged.\n
+        place (dict): A dictionary containing information about the place\
          entity and where the place appeared in the journal.
 
     Returns:
-        None: The function modifies the `found` dictionary in place by adding
-        the information from the `place` reference.
+        None: The function modifies the `found` dictionary in place by adding\
+            the information from the `place` reference.
     """
 
     # type needs no aggregation
@@ -598,16 +581,16 @@ def aggregate_place(found: dict, place: dict) -> None:
 
 def create_new_aggregated_place(reference: dict) -> dict:
     """
-    Creates a new aggregated place for a place entity based on the provided
+    Creates a new aggregated place for a place entity based on the provided\
     reference.
 
     Args:
-        reference (dict): A dictionary containing information about the place
-         entity and where the place appeared in the journal.
+        reference (dict): A dictionary containing information about the place\
+            entity and where the place appeared in the journal.
 
     Returns:
-        dict: A dictionary representing the new aggregated place unit where we
-         changed the values to sets of tuples.
+        dict: A dictionary representing the new aggregated place unit where we\
+            changed the values to sets of tuples.
     """
     return {
         "name": " ".join([x.title() if x.isupper else x for x in
@@ -626,11 +609,11 @@ def create_new_aggregated_place(reference: dict) -> dict:
 
 def clean_up_aggregation_places(aggregated_places: list,
                                 last_index: int) -> list:
-    """Cleans up the given aggregated places list by sorting and re-writing
+    """Cleans up the given aggregated places list by sorting and re-writing\
     the datastructure of the references.
 
     Args:
-        aggregated_places (list): List of dictionaries of places.
+        aggregated_places (list): List of dictionaries of places.\n
         last_index (int): Index of the last places entity we processed.
 
     Returns:
@@ -667,7 +650,7 @@ def clean_lastname(word: str) -> str:
 
 
 def aggregate_names(data: list) -> list:
-    """Given a list of person entities, aggregate the mentions depending on
+    """Given a list of person entities, aggregate the mentions depending on\
     the person information and where they appear in the journal.
 
     Args:
@@ -774,23 +757,23 @@ def aggregate_and_save_data_timed(postprocessed_data,
                                   conf: dict,
                                   tasks: list):
     """
-    Aggregates the postprocessed data based on the given configuration and
+    Aggregates the postprocessed data based on the given configuration and\
     tasks and logs the time it took to execute.
 
     Args:
-        postprocessed_data : The data that has been postprocessed and is ready
-            for aggregation.
-        conf (dict): Configuration dictionary containing various settings
-            and paths.
+        postprocessed_data: The data that has been postprocessed and is ready\
+            for aggregation.\n
+        conf (dict): Configuration dictionary containing various settings\
+            and paths.\n
         tasks (list): List of tasks to be performed during aggregation.
 
     Raises:
-        Exception: If 'post' is not included in the tasks list, an exception
-                   is raised indicating that 'post,agg,link' must be called
-                   together.
+        Exception: If 'post' is not included in the tasks list, an exception\
+            is raised indicating that 'post,agg,link' must be called\
+            together.
 
     Returns:
-        Generator object containing the aggregated data as a list of
+        Generator object containing the aggregated data as a list of\
         dictionaries. Each dict contains the tagged people (and places)
     """
     start_time = datetime.now()
@@ -805,15 +788,15 @@ def aggregate_and_save_data_timed(postprocessed_data,
 
 
 def execute_aggregation(data) -> dict:
-    """Given the data we agggregate the person and place entities in said data
+    """Given the data we agggregate the person and place entities in said data\
     based on their names and positions in the journal.
 
     Args:
         data: Tagged data of the magazine to be aggregated.
 
     Returns:
-        dict: Dictionary of aggregated entities where each key is the mag-year
-         and the values are the entities.
+        dict: Dictionary of aggregated entities where each key is the mag-year\
+            and the values are the entities.
     """
     aggDict = {}
     for year, d in data:

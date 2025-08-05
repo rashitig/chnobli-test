@@ -6,13 +6,12 @@
 Welcome to the chnobli-test documentation
 =========================================
 **Chnobli** (/xnoʊˈbli/) is a Python library for named entity recognition and linking
-that links the tagged persons to the `GND database <https://explore.gnd.network/>`.
+that links the tagged persons to the `GND database <https://explore.gnd.network/>`_.
 
 .. Check out the :doc:`usage` section for further information, including
    how to :ref:`installation` the project.
 
 .. note::
-
    This project is under active development.
 
 Contents

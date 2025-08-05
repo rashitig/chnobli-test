@@ -14,10 +14,10 @@ article information from the xml.
 import json
 import glob
 from multiprocessing import Pool
-from lxml import etree
 import os
 from datetime import datetime
 import logging
+from lxml import etree
 from utility.utils import save_data_intermediate
 
 DATA2_MNT = "/mnt/data2/"
@@ -67,33 +67,33 @@ def add_info_to_entity(entity: dict,
                        articles: list,
                        pid: int) -> None:
     """
-    Adds information to a person entity based on the provided token dictionary
+    Adds information to a person entity based on the provided token dictionary\
     and metadata about the page.
 
     Args:
-        entity (dict): The person entity dictionary to update.
-        tag (str): The type of the entity information (e.g., "LN" for last
-         name, "FN" for first name).
-        token (dict): A dictionary containing token information, including
-            - "token" (str): The token text.
-            - "coord" (tuple): The coordinates of the token.
-        pageNo (str): The page number where the entity is located.
-        sentNo (str): The sentence number where the entity is located.
-        pageName (str): The name of the page where the entity is located.
-        articles (list): A list of articles associated with the page.
+        entity (dict): The person entity dictionary to update.\n
+        tag (str): The type of the entity information (e.g., "LN" for last\
+            name, "FN" for first name).\n
+        token (dict): A dictionary containing token information, including\n
+            - "token" (str): The token text.\n
+            - "coord" (tuple): The coordinates of the token.\n
+        pageNo (str): The page number where the entity is located.\n
+        sentNo (str): The sentence number where the entity is located.\n
+        pageName (str): The name of the page where the entity is located.\n
+        articles (list): A list of articles associated with the page.\n
         pid (int): The physical ID of the page.
 
     Returns:
         None
 
     Notes:
-        - Updates the `info` dictionary in the entity with the token text
-        based on the tag.
-        - Appends metadata such as `pid`, `pageNames`, `positions`, `pageNo`,
-        and `sentenceNo` to the entity.
+        - Updates the `info` dictionary in the entity with the token text\
+            based on the tag.
+        - Appends metadata such as `pid`, `pageNames`, `positions`, `pageNo`,\
+            and `sentenceNo` to the entity.
         - Sets the `type` of the entity to "PER" (person).
-        - Processes and adds article information to the entity if not already
-        present.
+        - Processes and adds article information to the entity if not already\
+            present.
         - Logs a warning if an unknown tag is encountered.
     """
     if tag == "LN":
@@ -137,19 +137,19 @@ def add_info_to_place_entity(entity: dict,
                              articles: list,
                              pid: int) -> None:
     """
-    Adds information to a place entity based on the provided token dict and
+    Adds information to a place entity based on the provided token dict and\
     metadata about the page.
 
     Args:
-        entity (dict): The place entity dictionary to update.
-        tag (str): The type of the place entity (e.g., "LOC").
-        token (dict): A dictionary containing token information, including
-            - "token" (str): The token text.
-            - "coord" (tuple): The coordinates of the token.
-        pageNo (str): The page number where the entity is located.
-        sentNo (str): The sentence number where the entity is located.
-        pageName (str): The name of the page where the entity is located.
-        articles (list): A list of articles associated with the page.
+        entity (dict): The place entity dictionary to update.\n
+        tag (str): The type of the place entity (e.g., "LOC").\n
+        token (dict): A dictionary containing token information, including\n
+            - "token" (str): The token text.\n
+            - "coord" (tuple): The coordinates of the token.\n
+        pageNo (str): The page number where the entity is located.\n
+        sentNo (str): The sentence number where the entity is located.\n
+        pageName (str): The name of the page where the entity is located.\n
+        articles (list): A list of articles associated with the page.\n
         pid (int): The physical ID of the page.
 
     Returns:
@@ -158,9 +158,9 @@ def add_info_to_place_entity(entity: dict,
     Notes:
         - Updates the `tokens` list in the entity with the token text.
         - Sets the `type` of the entity to the provided tag.
-        - Appends metadata such as `pid`, `pageNames`, `positions`, `pageNo`,
+        - Appends metadata such as `pid`, `pageNames`, `positions`, `pageNo`,\
         and `sentenceNo` to the entity.
-        - Processes and adds article information to the entity if not already
+        - Processes and adds article information to the entity if not already\
         present.
     """
 
@@ -178,7 +178,7 @@ def add_info_to_place_entity(entity: dict,
 
 
 def decide_articles(articles: list) -> list:
-    """Given a list of lists, only keeps the entries that are exactly length 2.
+    """Given a list of lists, only keeps the entries that are exactly length 2.\
     Or, if the input is only length one, keeps it unchanged.
     TODO why?
 
@@ -186,8 +186,8 @@ def decide_articles(articles: list) -> list:
         articles (list): List of articles
 
     Returns:
-        list: Cleaned list of pages where we only keep the articles with
-         exactly two pages.
+        list: Cleaned list of pages where we only keep the articles with\
+            exactly two pages.
     """
     if len(articles) == 1:
         return articles
@@ -197,14 +197,14 @@ def decide_articles(articles: list) -> list:
 
 
 def adjust_information(entitylist: list) -> None:
-    """Adjusts page information in the given entity list.
-    Only keeps first value in "pageNames", "pageNo", "sentenceNo", and "pid".
-    Logs a warning if there are several values for these entries.
+    """Adjusts page information in the given entity list.\
+    Only keeps first value in "pageNames", "pageNo", "sentenceNo", and "pid".\
+    Logs a warning if there are several values for these entries.\
     If an entity has no "pid", this entry is removed.
 
     Args:
-        entitylist (list): List of entity dictionaries, where each dict
-         contains page information on where this entity appears.
+        entitylist (list): List of entity dictionaries, where each dict\
+            contains page information on where this entity appears.
     """
     for entity in entitylist:
         for key in ["pageNames", "pageNo", "sentenceNo", "pid"]:
@@ -229,28 +229,29 @@ def get_structure_info(year: tuple, custom_path=None) -> dict:
     Retrieves structural information for a given year from an XML file.
 
     Args:
-        year (tuple): A tuple containing
-            - short (str): The shortname of the journal (e.g., "bse").
+        year (tuple): A tuple containing\n
+            - short (str): The shortname of the journal (e.g., "bse").\n
             - year (str): The year of the journal (e.g., "2025").
-        custom_path (str, optional): Path to a custom XML file for debugging.
-         Defaults to None.
+
+        custom_path (str, optional): Path to a custom XML file for debugging.\
+            Defaults to None.
 
     Returns:
-        dict: A dictionary where keys are page filenames (e.g., "page1.txt")
-         and values are tuples
+        dict: A dictionary where keys are page filenames (e.g., "page1.txt")\
+            and values are tuples\n
             - pid (str): The physical ID of the page (e.g., "doc123:page1").
             - articles (list): A list of article IDs associated with the page.
             - pagenum (str): The physical page number.
 
     Notes:
         - If `custom_path` is provided, it is used to parse the XML file.
-        - If `custom_path` is not provided, the function constructs the path
+        - If `custom_path` is not provided, the function constructs the path\
         to the XML file based on the `year` tuple.
-        - Handles cases where the XML file is missing or inaccessible by
+        - Handles cases where the XML file is missing or inaccessible by\
         returning an empty dictionary.
-        - Skips journal-level connections and focuses on article-level
+        - Skips journal-level connections and focuses on article-level\
         connections.
-        - Extracts the filename for each page by replacing the `.jpg`
+        - Extracts the filename for each page by replacing the `.jpg`\
         extension with `.txt`.
     """
     short, year = year
@@ -264,14 +265,14 @@ def get_structure_info(year: tuple, custom_path=None) -> dict:
                 DATA2_MNT,
                 "xml.cache.prod01",
                 short,
-                "{0}-{1}.xml".format(short.upper(), year)
+                f"{short.upper()}-{year}.xml"
             )
         else:
             xml_storage = os.path.join(
                 DATA2_MNT,
                 "xml.cache.prod01",
                 short,
-                "{0}_{1}.xml".format(short, year)
+                f"{short}_{year}.xml"
             )
 
         try:
@@ -293,16 +294,16 @@ def get_structure_info(year: tuple, custom_path=None) -> dict:
         articles = []
         idx = page_elem.get("ID")
         pagenum = page_elem.find("./attr[@type='Agora:PhysicalNo']").text
-        links = root.findall("./link-list/link[@to='{0}']".format(idx))
+        links = root.findall(f"./link-list/link[@to='{idx}']")
         for link in links:
             article_idx = link.get("from")
             # NOTE: Journal-level connections should usually be uninteresting,
             # so we skip them specifically. For completeness sake, we might
             # take them in as well though.
-            is_journal = root.find("./element-list/element[@type='Journal'][@ID='{0}']".format(article_idx))
+            is_journal = root.find("./element-list/element[@type='Journal'][@ID='{article_idx}']")
             if is_journal is not None:
                 continue
-            article = root.find("./element-list/element[@type='Journal']//element[@ID='{0}']".format(article_idx))
+            article = root.find("./element-list/element[@type='Journal']//element[@ID='{article_idx}']")
             articles.append(article_idx)
 
             # if the first element found was not an article
@@ -320,7 +321,7 @@ def get_structure_info(year: tuple, custom_path=None) -> dict:
             articles.append(ancestor_idx)
 
         resource_id = page_elem.find("./resource-id").text
-        path = root.find("./resource-list/resource[@ID='{0}']/attr[@type='Agora:Path']".format(resource_id)).text
+        path = root.find("./resource-list/resource[@ID='{resource_id}']/attr[@type='Agora:Path']").text
         filename = os.path.basename(path).replace(".jpg", ".txt").lower()
         pages_to_articles[filename] = (
             document_id + ":" + idx,
@@ -341,29 +342,29 @@ def process_page(page: str,
     Processes a single page of tagged sentences to extract entity information.
 
     Args:
-        page (str): The name of the page being processed.
-        sentences (list): A list of sentences, where each sentence is a list
-            of tokens. Each token is a dictionary containing information such
-            as "tag", "token", and "coord".
-        entitylist (list): A list to store extracted person entities.
-        placeEntitylist (list): A list to store extracted place entities.
-        structure_info (dict): A dictionary containing structural information
-            for the page. Keys are page names, and values are tuples of
-            (pid, articles, pagenum).
-        i (int): A fallback page number to use if no structural information is
+        page (str): The name of the page being processed.\n
+        sentences (list): A list of sentences, where each sentence is a list\
+            of tokens. Each token is a dictionary containing information such\
+            as "tag", "token", and "coord".\n
+        entitylist (list): A list to store extracted person entities.\n
+        placeEntitylist (list): A list to store extracted place entities.\n
+        structure_info (dict): A dictionary containing structural information\
+            for the page. Keys are page names, and values are tuples of\
+            (pid, articles, pagenum).\n
+        i (int): A fallback page number to use if no structural information is\
             available.
 
     Returns:
         None
 
     Notes:
-        - Extracts person entities (tagged with "PER") and place entities
+        - Extracts person entities (tagged with "PER") and place entities\
         (tagged with other tags).
-        - Uses BIO tagging format to identify the beginning ("B-") and
+        - Uses BIO tagging format to identify the beginning ("B-") and\
         continuation ("I-") of entities.
-        - Updates the `entitylist` and `placeEntitylist` with extracted
+        - Updates the `entitylist` and `placeEntitylist` with extracted\
         entities.
-        - Handles cases where structural information is missing by using the
+        - Handles cases where structural information is missing by using the\
         fallback page number.
         - Logs warnings for unknown tags encountered during processing.
     """
@@ -411,7 +412,7 @@ def process_page(page: str,
                         entity, tagend, token, i, j, page, articles, pid
                     )
                 else:
-                    logging.info("UNKNOWN TAG ENCOUNTERED: "+tag)
+                    logging.info("UNKNOWN TAG ENCOUNTERED: %s", tag)
                 current_tag = "PER"
             elif tag == "O" or tag.endswith("adj"):
                 # ADJ tags will be ignored for the moment
@@ -446,7 +447,7 @@ def process_page(page: str,
                         entity, tagend, token, i, j, page, articles, pid
                     )
                 else:
-                    logging.info("UNKNOWN TAG ENCOUNTERED: "+tag)
+                    logging.info("UNKNOWN TAG ENCOUNTERED: %s", tag)
                 current_tag = tagend
         if entity:
             if current_tag == "PER":
@@ -457,37 +458,37 @@ def process_page(page: str,
 
 def get_found_names(items: tuple) -> list:
     """
-    Extracts and processes entity information (person and place names) from
+    Extracts and processes entity information (person and place names) from\
     tagged files.
 
     Args:
-        items (tuple): A tuple containing
-            - year (tuple): A tuple of journal shortname and year as strings
-            (e.g., ("abc", "2025")).
-            - pages (dict): OrderedDict where the keys are filenames and the
+        items (tuple): A tuple containing\n
+            - year (tuple): A tuple of journal shortname and year as strings\
+            (e.g., ("abc", "2025")).\n
+            - pages (dict): OrderedDict where the keys are filenames and the\
             values are lists of sentences.
 
     Returns:
-        tuple (list, tuple): The first entry is a list of all found entities
-         (person and place names) with their associated metadata. The second
-         is the year information (journal shortname and year).
+        tuple (list, tuple): The first entry is a list of all found entities\
+            (person and place names) with their associated metadata. The second\
+            is the year information (journal shortname and year).
 
     Notes:
-        - Person names and place names are written in the same file but are
+        - Person names and place names are written in the same file but are\
         sorted before printing (person names first).
-        - When looking up the structure information for the pages, we use the
-        information given by the raw data folder structure at the moment.
-        This means that in rare cases two actually different volumes might have
-        the same short-year combination and thus there will be problems
-        when trying to link pages to structure elements. This will only change
-        when using the structure files as initial information for the
-        pipeline, but that requires a rework of a lot of stuff.
+        - When looking up the structure information for the pages, we use the\
+        information given by the raw data folder structure at the moment.\
+        This means that in rare cases two actually different volumes might have\
+        the same short-year combination and thus there will be problems\
+        when trying to link pages to structure elements. This will only change\
+        when using the structure files as initial information for the\
+        pipeline, but that requires a rework of a lot of stuff.\
         So we will just be missing some information for the start.
-        - Handles cases where tagged files are split into multiple lines for
+        - Handles cases where tagged files are split into multiple lines for\
         efficiency.
-        - Adjusts entity information to remove duplicates and ensure
+        - Adjusts entity information to remove duplicates and ensure\
         consistency.
-        - Missing structure information may result in incomplete metadata for
+        - Missing structure information may result in incomplete metadata for\
         some entities.
     """
 
@@ -548,15 +549,15 @@ def populate_year_dict(year_dict: dict, file_list: list) -> None:
     Populates a dictionary with year-wise data paths for processing.
 
     Args:
-        year_dict (dict): A dictionary to be populated. Keys are tuples of
-            (magazine shortname, year), and values are file paths or lists of
-            file paths.
-        file_list (list): A list of file paths to be processed. The files can
+        year_dict (dict): A dictionary to be populated. Keys are tuples of\
+            (magazine shortname, year), and values are file paths or lists of\
+            file paths.\n
+        file_list (list): A list of file paths to be processed. The files can\
             be in `.json` or `.jsonl` format.
 
     Notes:
         - For `.json` files, the file path is directly added to the dictionary.
-        - For `.jsonl` files, all matching files are globbed and added as a
+        - For `.jsonl` files, all matching files are globbed and added as a\
         list.
         - Unsupported file types are ignored.
     """
@@ -577,23 +578,22 @@ def populate_year_dict(year_dict: dict, file_list: list) -> None:
 
 
 def get_data_paths_iterative(conf: dict):
-    """Generates year-wise data paths for processing based on the given
+    """Generates year-wise data paths for processing based on the given\
     configuration.
 
     Args:
-        conf (dict): Configuration dictionary containing various paths and
-         settings.
-
+        conf (dict): Configuration dictionary containing various paths and\
+            settings.
 
     Raises:
-        Exception: If no valid data paths are found in the configuration.
-        Exception: If an input path generated with the configuration is
-         neither a valid directory nor a valid file. This means the data paths
-         are valid, but nothing useful is in there.
+        Exception: If no valid data paths are found in the configuration.\n
+        Exception: If an input path generated with the configuration is\
+            neither a valid directory nor a valid file. This means the data paths\
+            are valid, but nothing useful is in there.
 
     Yields:
-        dict: A dictionary where keys are tuples of (magazine shortname, year)
-         and values are file paths or lists of file paths.
+        dict: A dictionary where keys are tuples of (magazine shortname, year)\
+            and values are file paths or lists of file paths.
     """
     if "CUSTOM_PATHS" in conf:
         inputs = conf["CUSTOM_PATHS"]
@@ -661,8 +661,8 @@ def postprocess_data(conf: dict, tasks: list) -> None:
     Postprocesses data based on the given configuration and tasks.
 
     Args:
-        conf (dict): Configuration dictionary containing various settings and
-            paths.
+        conf (dict): Configuration dictionary containing various settings and\
+            paths.\n
         tasks (list): List of tasks to be performed during postprocessing.
 
     Returns:
@@ -677,7 +677,7 @@ def postprocess_data(conf: dict, tasks: list) -> None:
         - Saves intermediate data if "agg" is not in the tasks list.
     """
     start_time = datetime.now()
-    logging.info("Starting Postprocessing at", start_time, ":")
+    logging.info("Starting Postprocessing at %s :", start_time)
     if "CUSTOM_PATH" not in conf:
         conf["PATH_TO_INPUT_FOLDERS"] = conf["PATH_TO_OUTFILE_FOLDER"] + "tag"
     magazines = get_data_paths_iterative(conf)
@@ -685,7 +685,7 @@ def postprocess_data(conf: dict, tasks: list) -> None:
     if "agg" not in tasks:
         for year, data in postprocessed_data:
             save_data_intermediate(year, data, conf, "post")
-    logging.info("Postprocessing took: ", datetime.now() - start_time)
+    logging.info("Postprocessing took: %s", datetime.now() - start_time)
     return postprocessed_data
 
 
@@ -693,15 +693,15 @@ def execute_postprocessing(magazines: dict, batch_size: int):
     """Postprocess the magazines given.
 
     Args:
-        magazines (dict): Keys are years, values is the data after
-         tagging / aggregation.
+        magazines (dict): Keys are years, values is the data after\
+            tagging / aggregation.\n
         batch_size (int): Batch size for years to process together.
 
     Yields:
-        tuple ((year,magazine), dict): The first value of the tuple is another
-         tuple, consisting of the year of the magazine and the shortname of
-         the magazine. The second value of the tuple is a dictionary
-         describing the data.
+        tuple ((year,magazine), dict): The first value of the tuple is another\
+            tuple, consisting of the year of the magazine and the shortname of\
+            the magazine. The second value of the tuple is a dictionary\
+            describing the data.
     """
     for data in magazines:
         with Pool(batch_size) as p:
