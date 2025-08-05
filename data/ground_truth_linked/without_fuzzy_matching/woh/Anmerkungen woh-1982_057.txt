@@ -1,0 +1,25 @@
+38/38
+ID 0: Typo firstname Ernst Illi nicht Uli
+ID 1: Kein Name sondern Körperschaft (Meier + Steinauer Partner)
+ID 2: nicht other sondern lastname
+*ID 3: Obwohl klar ist wer gemeint ist, wir suchen nicht wenn kein Nachname existiert.
+ID 4: Kein Name sondern Körperschaft (Graenicher AG)
+ID 6: Kein Name sondern Körperschaft (J. Bosshard Ing. Zürich)
+ID 7: Kein Name sondern Körperschaft (Büchler AG)
+ID 9: Kein Name sondern Adjektiv (Dürstende)
+ID 10: Kein Name sondern Körperschaft (Scheiwiller + Eichenberger)
+ID 11: Kein Name sondern Körperschaft (FURRER, J. Furrer AG)
+ID 16: Kein Name sondern Körperschaft (AG Heinr. Hatt-Haller)
+ID 17: Kein Name sondern Körperschaft (Hans Hassler AG)
+ID 25: Kein Name sondern Ortsbezeichnung
+ID 29: Kein Name sondern Körperschaft (Paul Petrocchi)
+ID 32: Kein Name sondern Körperschaft (Scheiwiller + Eichenberger)
+ID 34: Kein Name sondern Körperschaft (Otto Schneider Zürich)
+ID 36: Kein Name sondern Körperschaft (Stössel + Co. AG)
+ID 37: Kein Name sondern Produkt (Mirella Wyss Waschmaschine)
+ID 38: Kein Name sondern Körperschaft (R. Willisch AG)
+
+
+
+
+

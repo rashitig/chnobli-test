@@ -1,0 +1,1 @@
+python main.py --tasks finish --config_file ./configs/configurations.json

@@ -1,0 +1,16 @@
+ID 10: Nachname falsch: Birch statt Bircher, nicht gelinkt
+ID 12: Bircher-Benners (also Genitiv) statt Bircher-Benner, nicht gelinkt 
+ID 18: Gabarell statt Gabarel, nicht gelinkt
+ID 32: Keine Person sondern Firmennamen, nicht gelinkt
+
+---- merge ...
+ID 11: wurde in fsi-1930_000 verlinkt aber in fsi-1930_000_CS nicht, nicht verlinkt da die gegebenen infos nicht reichen würden
+       Wenn es keinen OCR Fehler gegeben hätte, hätten wir ihn mit ID 10 aggregiert und so gefunden.
+ID 12: wurde in fsi-1930_000 verlinkt aber in fsi-1930_000_CS nicht (Grund: ohne fuzzy matching)
+ID 17: wurde in fsi-1930_000 verlinkt aber in fsi-1930_000_CS nicht,
+       GR: obwohl ganz klar Thomas Edison gemeint ist (im Satz steht auch "Edison, der geniale Erfinder), nicht verlinken,
+       weil es die Entität "A.K. Edison" einfach nicht gibt. A.K. ist der Author des vorherigen Artikels. Es ist kein OCR Fehler. 
+ID 22: wurde in fsi-1930_000 verlinkt aber in fsi-1930_000_CS nicht, nicht verlinkt, Infos reichen nicht aus.
+ID 30: wurde in fsi-1930_000_CS verlinkt aber in fsi-1930_000 nicht
+ID 37: wurde in fsi-1930_000_CS verlinkt aber in fsi-1930_000 nicht
+ID 41: wurde in fsi-1930_000_CS verlinkt aber in fsi-1930_000 nicht

@@ -1,0 +1,7074 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Georges"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "587,1749,112,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Roland"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "808,1770,100,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+        
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Jehan"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "107,809,76,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Arthur"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "422,966,94,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Marie"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "916,1086,73,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Stace"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "384,1245,69,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Pierre"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1062,1610,86,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Baatard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1032,1300,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "G."
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1188,921,29,22:main",
+                            "1229,921,27,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Napol\u00e9on"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "385,879,150,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "David"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "704,879,92,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "507,622,76,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "M.",
+                "le",
+                "professeur",
+                "B\u00ce\u0153sch"
+            ],
+            [
+                "M.",
+                "W."
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "246,1126,30,21:main",
+                            "289,1126,22,21:main",
+                            "323,1127,137,26:main",
+                            "470,1121,94,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1068,967,30,21:main",
+                            "1110,966,36,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Roland"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "151,385,97,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Lancelot"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "826,1056,107,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "d'Arthur"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "580,1116,115,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Jacob"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "964,319,88,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Joseph"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "956,350,107,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Mo\u00efse"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "369,381,73,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Brockhaus"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "965,306,179,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Fridjof",
+                "Nansen"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "792,835,96,28:main",
+                            "896,836,95,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Abadie",
+        "firstname": [
+            "Michel"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "982,640,86,22:main",
+                            "1080,640,98,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Allaman",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "686,632,120,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "BALSIGER",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. Ed."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "356,599,28,22:main",
+                            "400,599,46,22:main",
+                            "462,599,163,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id":"103160345"
+    },
+    {
+        "lastname": "BAUMGARTNER",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "723,989,31,21:main",
+                            "770,990,28,20:main",
+                            "814,989,233,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "BGNNETON",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. Ph."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "448,570,28,21:main",
+                            "486,569,45,22:main",
+                            "543,569,172,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Baumgartner",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "438,471,229,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "400,1644,22,21:main",
+                            "435,1644,159,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Besson",
+        "firstname": [
+            "Martial"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0175.txt": {
+                "pid": "edu-001:1897:33:e204",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "761,1799,133,26:main",
+                            "913,1799,120,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "717,640,96,22:main",
+                            "831,641,91,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Bodel",
+        "firstname": [
+            "Jean"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1153,1588,59,22:main",
+                            "1223,1588,72,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id":"118660454"
+    },
+    {
+        "lastname": "Bossard",
+        "firstname": [
+            "Alois"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "245,1579,68,22:main",
+                            "324,1580,111,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Bossard",
+        "firstname": [
+            "Jacques"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "435,1610,100,27:main",
+                            "547,1610,109,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Bu\u00ebche",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "489,1612,195,28:main",
+                            "691,1615,90,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "B\u0153gli",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "744,1645,21,20:main",
+                            "777,1645,72,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Clerc",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Directeur"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "356,1451,69,26:main",
+                            "356,1451,69,26:rpunc",
+                            "440,1449,129,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Constant Guignard",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "874,1657,30,22:main",
+                            "917,1656,113,23:main",
+                            "1044,1656,129,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Cornamusaz",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "950,1331,21,20:main",
+                            "983,1331,148,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "DUF\u00d6\u00dcR",
+        "firstname": [
+            "G\u00c9K\u00c9RAL"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "290,2064,147,29:main",
+                            "445,2069,134,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Duportai",
+        "firstname": [
+            "Henriette"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "836,1344,137,21:main",
+                            "990,1344,136,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Durville",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "836,999,28,23:main",
+                            "875,1001,118,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id":"126346526"
+    },
+    {
+        "lastname": "Durville",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "462,1764,30,22:main",
+                            "504,1764,118,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id":"126346526"
+    },
+    {
+        "lastname": "Duvoisin",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "364,1512,22,21:main",
+                            "398,1511,103,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Favre",
+        "firstname": [
+            "Louis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1080,1615,71,22:main",
+                            "1168,1615,89,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "863,1300,62,22:main",
+                            "936,1300,73,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gt_gnd_id":"1254566058"
+    },
+    {
+        "lastname": "Flagy",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "235,809,76,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Fridelance",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1074,1286,27,22:main",
+                            "1113,1286,154,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 42,
+        "gt_gnd_id":"1117592324"
+    },
+    {
+        "lastname": "Fritschi",
+        "firstname": [],
+        "abbr_firstname": [
+            "Fr."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "559,1543,33,21:main",
+                            "603,1543,97,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 43,
+        "gt_gnd_id":"1051598893"
+    
+    },
+    {
+        "lastname": "Frossard",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0190.txt": {
+                "pid": "edu-001:1897:33:e219",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "472,1814,32,22:main",
+                            "522,1814,117,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 44,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "GOBAT",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "148,989,31,22:main",
+                            "195,990,30,21:main",
+                            "241,990,106,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 45,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "GRASSI",
+        "firstname": [
+            "LUIGI"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof."
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "748,1500,66,23:main",
+                            "826,1502,108,22:main",
+                            "950,1503,142,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 46,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gavard",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "552,1314,31,21:main",
+                            "595,1314,101,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 47,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Germiquet",
+        "firstname": [],
+        "abbr_firstname": [
+            "E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "339,1674,21,22:main",
+                            "372,1674,126,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 48,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gobai",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "786,1613,258,28:main",
+                            "1050,1614,73,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 49,
+        "gt_gnd_id":""
+        },
+    {
+        "lastname": "Gob\u00e2t",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "290,1428,88,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "546,1584,35,21:main",
+                            "590,1584,22,21:main",
+                            "623,1583,73,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 50,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Grandjean",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "872,1451,125,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 51,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Guex",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "663,501,36,27:main",
+                            "715,501,90,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 52,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Guex",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "819,1361,20,22:main",
+                            "855,1361,63,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 53,
+        "gt_gnd_id":"1049998103"
+    },
+    {
+        "lastname": "Guignard",
+        "firstname": [
+            "Constant"
+        ],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "274,1808,114,22:main",
+                            "401,1809,122,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "170,424,31,23:main",
+                            "213,424,114,22:main",
+                            "338,424,123,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 54,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gylam",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "183,1615,57,21:main",
+                            "249,1615,76,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 55,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "HUBER",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "255,631,29,22:main",
+                            "295,631,22,22:main",
+                            "326,630,113,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 56,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Henchoz",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "771,1391,103,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 57,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Hugo",
+        "firstname": [
+            "Victor"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "108,537,82,22:main",
+                            "201,537,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 58,
+        "gt_gnd_id":"118554654"
+    },
+    {
+        "lastname": "Jonescu",
+        "firstname": [],
+        "abbr_firstname": [
+            "S."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1113,409,22,22:main",
+                            "1146,409,109,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 59,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Jordi",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "803,342,30,21:main",
+                            "843,341,75,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 60,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "J\u00e9sus-Christ",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1076,906,82,22;108,935,80,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 61,
+        "gt_gnd_id":"118557513"
+    },
+    {
+        "lastname": "KUHN",
+        "firstname": [
+            "CHARLES"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "264,1659,244,95:main",
+                            "555,1659,136,93:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 62,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Koller",
+        "firstname": [
+            "Jean"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "810,1207,65,16:main",
+                            "880,1207,99,16:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 63,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Latour",
+        "firstname": [],
+        "abbr_firstname": [
+            "L."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "941,1422,22,21:main",
+                            "972,1422,85,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 64,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Leuba",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0190.txt": {
+                "pid": "edu-001:1897:33:e219",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1162,369,29,21:main",
+                            "1203,369,89,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "506,550,31,22:main",
+                            "546,550,87,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 65,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "L\u00e9on Genoud",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "372,1479,33,22:main",
+                            "415,1481,57,22:main",
+                            "483,1481,90,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 66,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "MEYERS",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "220,774,269,78:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 67,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Maillefer",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "142,787,30,22:main",
+                            "183,787,125,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "700,818,31,20:main",
+                            "742,817,117,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 68,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Mathieu",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1258,803,48,23;258,835,66,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 69,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Meyer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "452,1273,93,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1243,307,89,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 70,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Mise",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "158,792,60,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 71,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Moser",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "957,886,84,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "351,1187,30,21:main",
+                            "393,1187,78,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 72,
+        "gt_gnd_id":"116937211"
+    },
+    {
+        "lastname": "Mo\u00efse",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "933,842,106,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 73,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Niederer",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "918,246,52,22:main",
+                            "918,246,52,22:main",
+                            "981,246,123,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 74,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Niederer",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "550,428,30,22:main",
+                            "592,428,121,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 75,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Nisio",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Professeur"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "322,351,166,34:main",
+                            "509,351,89,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 76,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "PR\u00caTRE",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "368,1220,32,21:main",
+                            "410,1220,32,20:main",
+                            "451,1212,125,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 77,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Paroz",
+        "firstname": [],
+        "abbr_firstname": [
+            "J.",
+            "M. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "1088,1869,25,28:main",
+                            "1126,1869,103,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "564,333,30,23:main",
+                            "604,334,21,22:main",
+                            "637,334,80,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 78,
+        "gt_gnd_id":"1021430498"
+    },
+    {
+        "lastname": "Pelet",
+        "firstname": [
+            "Louis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "936,675,88,25:main",
+                            "1041,674,106,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 79,
+        "gt_gnd_id":"111658364X"
+    },
+    {
+        "lastname": "Perroy",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "682,723,96,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 80,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Progymnase",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Ma\u00eetre",
+            "Au"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "618,1117,77,20:main",
+                            "718,1124,27,13:main",
+                            "765,1118,154,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 81,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Pr\u00eatre",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "184,1675,24,22:main",
+                            "218,1676,75,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 82,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "P\u00c9QUEGiSAT",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "281,1118,31,21:main",
+                            "332,1118,27,21:main",
+                            "379,1112,215,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 83,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "P\u00e9quegnat",
+        "firstname": [],
+        "abbr_firstname": [
+            "E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "1050,1644,20,21:main",
+                            "1083,1643,127,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 84,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Quayzin",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0179.txt": {
+                "pid": "edu-001:1897:33:e208",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "908,393,37,26:main",
+                            "961,394,134,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 85,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Rochat",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "362,1422,84,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 86,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Romieux",
+        "firstname": [
+            "Charles"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Professeur"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "465,1759,140,22:main",
+                            "616,1759,101,23:main",
+                            "170,1790,126,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 87,
+        "gt_gnd_id":"1089467168"
+    },
+    {
+        "lastname": "Rosier",
+        "firstname": [],
+        "abbr_firstname": [
+            "M.",
+            "M. W.",
+            "W."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof."
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "735,1072,31,22:main",
+                            "776,1071,38,23:main",
+                            "833,1072,92,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1135,1162,29,21:main",
+                            "1175,1162,85,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "644,1300,29,21:main",
+                            "684,1300,81,28:main",
+                            "684,1300,81,28:rpunc",
+                            "773,1299,70,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 88,
+        "gt_gnd_id":"116627441"
+    },
+    {
+        "lastname": "SAHLI",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "329,1551,141,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 89,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "SCHWEIZER",
+        "firstname": [],
+        "abbr_firstname": [
+            "C."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "378,1102,27,27:main",
+                            "425,1103,179,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "764,1470,40,66:main",
+                            "842,1470,291,70:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 35,
+                        "coords": [
+                            "510,1988,27,23:main",
+                            "560,1987,231,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 90,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Salomon",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "de"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "853,879,33,27:main",
+                            "902,879,151,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 91,
+        "gt_gnd_id":"118605100"
+    },
+    {
+        "lastname": "Schaller",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Directeur"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "828,1512,104,26:main",
+                            "828,1512,104,26:rpunc",
+                            "943,1510,127,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 92,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schweizer",
+        "firstname": [
+            "Charles"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "M."
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1049,473,29,21:main",
+                            "1095,473,96,22:main",
+                            "143,503,139,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 93, 
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schweizer",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "144,965,30,21:main",
+                            "187,964,132,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 94,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Siegwart",
+        "firstname": [],
+        "abbr_firstname": [
+            "E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "978,944,34,21:main",
+                            "1029,945,160,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 95,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Spillmann",
+        "firstname": [
+            "Martin"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "880,1580,87,22:main",
+                            "980,1581,141,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 96,
+        "gt_gnd_id":"1155502914"
+    },
+    {
+        "lastname": "Thorens",
+        "firstname": [],
+        "abbr_firstname": [
+            "Ch."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "335,1331,36,21:main",
+                            "385,1331,101,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 97,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Uttinger",
+        "firstname": [
+            "Fran\u00e7ois"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Colonel"
+        ],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "872,1611,113,26:main",
+                            "997,1611,118,29:main",
+                            "997,1611,118,29:rpunc",
+                            "1127,1611,102,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "319,1791,92,23:main",
+                            "425,1791,110,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 98,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Veiller",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1097,1105,92,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 99,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Virgile",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "269,1245,100,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 100,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Vuillemin",
+        "firstname": [
+            "Amiel"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1171,437,110,25;233,470,72,31:main",
+                            "1171,437,110,25;233,470,72,31:rpunc",
+                            "319,471,105,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 101,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Wagner",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "allemand"
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "821,1184,120,23:main",
+                            "953,1184,111,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 102,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Walt",
+        "firstname": [
+            "Samuel"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "405,277,95,22:main",
+                            "512,277,71,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 103,
+        "gt_gnd_id":"128124628"
+    },
+    {
+        "lastname": "Winkelried",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "137,1428,136,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 104,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "ZAHN",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "355,75,34,23:main",
+                            "407,75,126,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 105,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "ZAHN",
+        "firstname": [],
+        "abbr_firstname": [
+            "F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "203,598,63,47:main",
+                            "300,595,266,57:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 106,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Zwyssig",
+        "firstname": [
+            "Alb\u00e9ric"
+        ],
+        "abbr_firstname": [
+            "P."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "441,1429,25,21:main",
+                            "477,1429,96,22:main",
+                            "585,1429,112,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "524,1671,25,21:main",
+                            "560,1670,105,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "481,1822,24,21:main",
+                            "519,1822,112,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "454,1308,112,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 107,
+        "gt_gnd_id":"118821628"
+    },
+    {
+        "lastname": "Zwyssig Chatelanat",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                ","
+            ]
+        ],
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "726,436,141,35:main",
+                            "726,436,141,35:rpunc",
+                            "890,437,180,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 108,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "d'Erlach",
+        "firstname": [
+            "Rodolphe"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1008,1068,125,27:main",
+                            "1151,1068,108,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 109,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "de",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "196,808,28,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 110,
+        "gt_gnd_id":""
+    },
+    {
+        "name": "Aigle",
+        "tokens": [
+            "Aigle"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "588,663,77,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 111
+    },
+    {
+        "name": "Allemagne",
+        "tokens": [
+            "Allemagne"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "977,365,139,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1065,147,185,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 112
+    },
+    {
+        "name": "Allemand",
+        "tokens": [
+            "Allemand"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "437,1429,136,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 113
+    },
+    {
+        "name": "Allemande",
+        "tokens": [
+            "allemande"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "394,1547,154,16:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 114
+    },
+    {
+        "name": "Alpes",
+        "tokens": [
+            "Alpes"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0179.txt": {
+                "pid": "edu-001:1897:33:e208",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "413,870,87,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "764,1836,80,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 115
+    },
+    {
+        "name": "Andermatt",
+        "tokens": [
+            "Andermatt"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "1085,1564,92,22;131,1596,65,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 116
+    },
+    {
+        "name": "Appenzell",
+        "tokens": [
+            "APPENZELL"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "1063,873,128,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 117
+    },
+    {
+        "name": "Bade",
+        "tokens": [
+            "Bade"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "961,147,85,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 118
+    },
+    {
+        "name": "Baden",
+        "tokens": [
+            "Baden"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "764,1822,89,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 119
+    },
+    {
+        "name": "Berne",
+        "tokens": [
+            "BERNE"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "505,1603,77,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1016,1007,85,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "875,1560,79,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "703,1383,92,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "320,1720,83,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 120
+    },
+    {
+        "name": "Berne:Del\u00e9mont",
+        "tokens": [
+            "Berne:Del\u00e9mont"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "173,572,228,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 121
+    },
+    {
+        "name": "Berneck",
+        "tokens": [
+            "Berneck"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "594,630,113,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 122
+    },
+    {
+        "name": "Bernois",
+        "tokens": [
+            "Bernois"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "247,794,100,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 123
+    },
+    {
+        "name": "Beuchenette",
+        "tokens": [
+            "Beuchenette"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "464,1171,169,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 124
+    },
+    {
+        "name": "Bienne",
+        "tokens": [
+            "BIENNE"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0175.txt": {
+                "pid": "edu-001:1897:33:e204",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "867,229,147,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1064,2041,202,50:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 35,
+                        "coords": [
+                            "986,1987,150,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 125
+    },
+    {
+        "name": "Bretaigne",
+        "tokens": [
+            "Bretaigne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "654,1680,128,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 126
+    },
+    {
+        "name": "B\u00e2le-Ville",
+        "tokens": [
+            "B\u00e2le-Ville"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "903,874,143,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 127
+    },
+    {
+        "name": "Canaan",
+        "tokens": [
+            "Canaan"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "921,411,111,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 128
+    },
+    {
+        "name": "Canaan",
+        "tokens": [
+            "Canaan"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1262,441,43,22;257,478,62,16:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 129
+    },
+    {
+        "name": "Carouge",
+        "tokens": [
+            "Carouge"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1176,1010,108,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 130
+    },
+    {
+        "name": "Charlemagne",
+        "tokens": [
+            "Charlemagne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "443,1770,172,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "246,505,178,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 131
+    },
+    {
+        "name": "Corcelles",
+        "tokens": [
+            "Corcelles"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "209,1449,120,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 132
+    },
+    {
+        "name": "D'Aigle",
+        "tokens": [
+            "d'Aigle"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "378,484,94,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 133
+    },
+    {
+        "name": "D'Italie",
+        "tokens": [
+            "d'Italie"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1030,334,97,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 134
+    },
+    {
+        "name": "Danube",
+        "tokens": [
+            "Danube"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1224,2011,110,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 135
+    },
+    {
+        "name": "Del\u00e9mont",
+        "tokens": [
+            "Del\u00e9mont"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "321,1232,141,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "677,1510,139,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 136
+    },
+    {
+        "name": "Donau",
+        "tokens": [
+            "DONAU"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "848,1880,105,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 137
+    },
+    {
+        "name": "D\u00e9riaz",
+        "tokens": [
+            "D\u00e9riaz"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1129,1390,81,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 138
+    },
+    {
+        "name": "France",
+        "tokens": [
+            "France"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0175.txt": {
+                "pid": "edu-001:1897:33:e204",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "927,1871,74,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "235,799,90,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "479,1679,90,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1058,1088,99,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 139
+    },
+    {
+        "name": "Franches-Montagnes",
+        "tokens": [
+            "Franches-Montagnes"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "551,1141,278,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 140
+    },
+    {
+        "name": "Fran\u00e7aise",
+        "tokens": [
+            "fran\u00e7aise"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0179.txt": {
+                "pid": "edu-001:1897:33:e208",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "545,1652,147,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "652,353,228,48:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1136,351,126,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 141
+    },
+    {
+        "name": "Fribourg",
+        "tokens": [
+            "Fribourg"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "175,603,115,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "224,1481,132,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 142
+    },
+    {
+        "name": "Fsaint-Gall",
+        "tokens": [
+            "fSaint-Gall"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "842,277,166,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 143
+    },
+    {
+        "name": "Gagnaux",
+        "tokens": [
+            "Gagnaux"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "325,1391,105,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 144
+    },
+    {
+        "name": "Gen\u00e8ve",
+        "tokens": [
+            "GEN\u00c8VE"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "940,1464,95,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "142,395,93,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "643,904,102,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "227,599,96,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "588,2063,126,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "212,1329,106,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 145
+    },
+    {
+        "name": "Germanie",
+        "tokens": [
+            "Germanie"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "417,1557,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 146
+    },
+    {
+        "name": "Graal",
+        "tokens": [
+            "Graal"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "760,906,78,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 147
+    },
+    {
+        "name": "Grandchamp",
+        "tokens": [
+            "Grandchamp"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "141,334,173,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 148
+    },
+    {
+        "name": "Gr\u00e8ce",
+        "tokens": [
+            "Gr\u00e8ce"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "243,1718,74,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 149
+    },
+    {
+        "name": "Hasli",
+        "tokens": [
+            "Hasli"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "686,765,74,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 150
+    },
+    {
+        "name": "Hedchatel",
+        "tokens": [
+            "Hedchatel"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "549,1419,319,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 151
+    },
+    {
+        "name": "Heiden",
+        "tokens": [
+            "Heiden"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "260,278,98,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 152
+    },
+    {
+        "name": "Hollande",
+        "tokens": [
+            "HOLLANDE"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 35,
+                        "coords": [
+                            "955,1592,118,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 153
+    },
+    {
+        "name": "Italie",
+        "tokens": [
+            "Italie"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0175.txt": {
+                "pid": "edu-001:1897:33:e204",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "649,555,66,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0176.txt": {
+                "pid": "edu-001:1897:33:e205",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "599,483,88,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 154
+    },
+    {
+        "name": "Italien",
+        "tokens": [
+            "italien"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0177.txt": {
+                "pid": "edu-001:1897:33:e206",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1090,1595,107,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 155
+    },
+    {
+        "name": "Jura",
+        "tokens": [
+            "Jura"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0188.txt": {
+                "pid": "edu-001:1897:33:e217",
+                "refs": [
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "734,1847,65,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 156
+    },
+    {
+        "name": "Jura",
+        "tokens": [
+            "Jura"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "844,423,60,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 157
+    },
+    {
+        "name": "Jura Bernois",
+        "tokens": [
+            "Jura",
+            "bernois"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "761,1480,60,23:main",
+                            "833,1487,108,16:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 158
+    },
+    {
+        "name": "Kleindietwyl",
+        "tokens": [
+            "Kleindietwyl"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1209,343,82,22;249,372,103,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 159
+    },
+    {
+        "name": "L'Etat",
+        "tokens": [
+            "l'Etat"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "973,1311,76,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 160
+    },
+    {
+        "name": "L'Europe",
+        "tokens": [
+            "l'Europe"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "787,896,114,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 161
+    },
+    {
+        "name": "L'Insstrnetion",
+        "tokens": [
+            "l'Insstrnetion"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1198,1433,69,22;271,1466,118,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 162
+    },
+    {
+        "name": "L'Italie",
+        "tokens": [
+            "l'Italie"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0177.txt": {
+                "pid": "edu-001:1897:33:e206",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "642,590,101,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 163
+    },
+    {
+        "name": "L'\u0152uvre",
+        "tokens": [
+            "l'\u0153uvre"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "568,1731,104,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 164
+    },
+    {
+        "name": "La",
+        "tokens": [
+            "La"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "931,753,33,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 165
+    },
+    {
+        "name": "La Chaux-De-Fonds",
+        "tokens": [
+            "La",
+            "Chaux-de-Fonds"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "580,1449,36,23:main",
+                            "631,1449,213,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 166
+    },
+    {
+        "name": "La Sagne",
+        "tokens": [
+            "La",
+            "Sagne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "967,935,34,21:main",
+                            "1021,934,97,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 167
+    },
+    {
+        "name": "Laney",
+        "tokens": [
+            "Laney"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "608,1328,88,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 168
+    },
+    {
+        "name": "Laufon",
+        "tokens": [
+            "Laufon"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "852,1171,107,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 169
+    },
+    {
+        "name": "Laupen",
+        "tokens": [
+            "Laupen"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "246,1217,99,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 170
+    },
+    {
+        "name": "Lausanne",
+        "tokens": [
+            "Lausanne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "436,757,125,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "976,1389,139,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 171
+    },
+    {
+        "name": "Le Locle",
+        "tokens": [
+            "Le",
+            "Locle"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1085,1450,35,22:main",
+                            "1129,1446,81,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 172
+    },
+    {
+        "name": "Lucerne",
+        "tokens": [
+            "Lucerne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "644,1686,115,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 173
+    },
+    {
+        "name": "Merlin",
+        "tokens": [
+            "Merlin"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "721,1057,91,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 174
+    },
+    {
+        "name": "Monte",
+        "tokens": [
+            "Monte"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0176.txt": {
+                "pid": "edu-001:1897:33:e205",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "781,1677,88,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 175
+    },
+    {
+        "name": "Montreux",
+        "tokens": [
+            "Montreux"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "353,693,134,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 176
+    },
+    {
+        "name": "Morges",
+        "tokens": [
+            "Morges"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1008,662,102,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 177
+    },
+    {
+        "name": "Napf",
+        "tokens": [
+            "Napf"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "435,1413,67,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 178
+    },
+    {
+        "name": "Neuch\u00e2tel",
+        "tokens": [
+            "Neuch\u00e2tel"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "737,934,130,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0190.txt": {
+                "pid": "edu-001:1897:33:e219",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "769,580,139,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 179
+    },
+    {
+        "name": "Neunmnster-Zurich",
+        "tokens": [
+            "Neunmnster-Zurich"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "941,1540,271,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 180
+    },
+    {
+        "name": "Nord",
+        "tokens": [
+            "Nord"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "663,836,68,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 181
+    },
+    {
+        "name": "Nyon",
+        "tokens": [
+            "Nyon"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "248,724,75,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 182
+    },
+    {
+        "name": "Oberbourg",
+        "tokens": [
+            "Oberbourg"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "458,504,146,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 183
+    },
+    {
+        "name": "Olten",
+        "tokens": [
+            "Olten"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "783,1715,70,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 184
+    },
+    {
+        "name": "Orbe",
+        "tokens": [
+            "Orbe"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "378,1688,62,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 185
+    },
+    {
+        "name": "Paris",
+        "tokens": [
+            "Paris"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0175.txt": {
+                "pid": "edu-001:1897:33:e204",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "676,1871,61,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "883,1857,75,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 186
+    },
+    {
+        "name": "Payerne",
+        "tokens": [
+            "Payerne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "181,546,106,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 187
+    },
+    {
+        "name": "Porrentruy",
+        "tokens": [
+            "Porrentruy"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1105,1510,105,22;182,1543,67,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 188
+    },
+    {
+        "name": "Provence",
+        "tokens": [
+            "Provence"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "842,693,128,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 189
+    },
+    {
+        "name": "P\u00f4le",
+        "tokens": [
+            "P\u00f4le"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "594,835,55,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 190
+    },
+    {
+        "name": "Rassegna",
+        "tokens": [
+            "Rassegna"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "790,389,148,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 191
+    },
+    {
+        "name": "Romande",
+        "tokens": [
+            "romande"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "580,533,113,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 192
+    },
+    {
+        "name": "Rome",
+        "tokens": [
+            "Rome"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0176.txt": {
+                "pid": "edu-001:1897:33:e205",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "248,1676,98,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0186.txt": {
+                "pid": "edu-001:1897:33:e215",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "867,1679,74,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 193
+    },
+    {
+        "name": "Roulez",
+        "tokens": [
+            "Roulez"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "647,402,107,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 194
+    },
+    {
+        "name": "Sagne",
+        "tokens": [
+            "Sagne"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "976,753,77,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 195
+    },
+    {
+        "name": "Saint-Charles",
+        "tokens": [
+            "Saint-Charles"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1108,1399,183,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 196
+    },
+    {
+        "name": "Saint-Graal",
+        "tokens": [
+            "Saint-Graal"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "550,1056,159,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 197
+    },
+    {
+        "name": "Saint-Merri",
+        "tokens": [
+            "Saint-Merri"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0184.txt": {
+                "pid": "edu-001:1897:33:e213",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1129,1061,159,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 198
+    },
+    {
+        "name": "Saint-Tripbon",
+        "tokens": [
+            "Saint-Tripbon"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "633,1443,185,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 199
+    },
+    {
+        "name": "Schwyz",
+        "tokens": [
+            "Schwyz"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "618,874,104,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1069,1624,110,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 200
+    },
+    {
+        "name": "Seftigen",
+        "tokens": [
+            "Seftigen"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "285,522,105,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 201
+    },
+    {
+        "name": "Sempach",
+        "tokens": [
+            "Sempach"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0179.txt": {
+                "pid": "edu-001:1897:33:e208",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1125,1073,77,26;148,1107,91,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0185.txt": {
+                "pid": "edu-001:1897:33:e214",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "295,1459,115,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 202
+    },
+    {
+        "name": "Sienne",
+        "tokens": [
+            "Sienne"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "121,1898,106,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 203
+    },
+    {
+        "name": "Simmenthal",
+        "tokens": [
+            "Simmenthal"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "812,1322,164,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 204
+    },
+    {
+        "name": "Smyrnc",
+        "tokens": [
+            "Smyrnc"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0181.txt": {
+                "pid": "edu-001:1897:33:e210",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "658,364,106,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 205
+    },
+    {
+        "name": "Sonvillier",
+        "tokens": [
+            "Sonvillier"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "209,1510,143,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 206
+    },
+    {
+        "name": "St-Gall",
+        "tokens": [
+            "St-Gall"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "874,629,102,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 207
+    },
+    {
+        "name": "Stanz",
+        "tokens": [
+            "Stanz"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "668,1655,86,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 208
+    },
+    {
+        "name": "Stuttgart",
+        "tokens": [
+            "STUTTGART"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0194.txt": {
+                "pid": "edu-001:1897:33:e223",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "955,1659,318,93:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 209
+    },
+    {
+        "name": "Suisse",
+        "tokens": [
+            "Suisse"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0176.txt": {
+                "pid": "edu-001:1897:33:e205",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "767,831,104,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0179.txt": {
+                "pid": "edu-001:1897:33:e208",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "431,1653,102,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1049,368,97,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "851,1731,80,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "224,1429,88,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0191.txt": {
+                "pid": "edu-001:1897:33:e220",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1046,351,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0192.txt": {
+                "pid": "edu-001:1897:33:e221",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "347,2002,82,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "302,1538,85,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 210
+    },
+    {
+        "name": "Tessin.",
+        "tokens": [
+            "Tessin."
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "265,905,90,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 211
+    },
+    {
+        "name": "Thal",
+        "tokens": [
+            "Thal"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "770,278,60,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 212
+    },
+    {
+        "name": "Tordre",
+        "tokens": [
+            "Tordre"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0177.txt": {
+                "pid": "edu-001:1897:33:e206",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "175,817,107,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 213
+    },
+    {
+        "name": "Trey",
+        "tokens": [
+            "Trey"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "727,1359,71,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 214
+    },
+    {
+        "name": "Troyes",
+        "tokens": [
+            "Troyes"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0187.txt": {
+                "pid": "edu-001:1897:33:e216",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "594,294,94,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 215
+    },
+    {
+        "name": "Unterwald",
+        "tokens": [
+            "Unterwald"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "742,874,144,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 216
+    },
+    {
+        "name": "Uri",
+        "tokens": [
+            "Uri"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "549,875,49,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 217
+    },
+    {
+        "name": "Val De Huz",
+        "tokens": [
+            "Val",
+            "de",
+            "Huz"
+        ],
+        "type": "GEO",
+        "references": {
+            "edu-001_1897_033_0190.txt": {
+                "pid": "edu-001:1897:33:e219",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "525,399,57,29:main",
+                            "598,399,29,22:main",
+                            "644,399,66,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 218
+    },
+    {
+        "name": "Valais",
+        "tokens": [
+            "Valais"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "366,904,89,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 219
+    },
+    {
+        "name": "Valais",
+        "tokens": [
+            "Valais"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "602,1534,88,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 220
+    },
+    {
+        "name": "Vaud",
+        "tokens": [
+            "Vaud"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0178.txt": {
+                "pid": "edu-001:1897:33:e207",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "549,501,91,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "317,995,76,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            },
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "172,1473,86,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 221
+    },
+    {
+        "name": "Vaulion",
+        "tokens": [
+            "Vaulion"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0180.txt": {
+                "pid": "edu-001:1897:33:e209",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1227,1655,62,22;241,1687,58,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 222
+    },
+    {
+        "name": "Vevey",
+        "tokens": [
+            "Vevey"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "272,633,88,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 223
+    },
+    {
+        "name": "Vilars",
+        "tokens": [
+            "Vilars"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0190.txt": {
+                "pid": "edu-001:1897:33:e219",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "429,400,81,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 224
+    },
+    {
+        "name": "Wettingen",
+        "tokens": [
+            "Wettingen"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0182.txt": {
+                "pid": "edu-001:1897:33:e211",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "944,1338,145,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 225
+    },
+    {
+        "name": "Winterthour",
+        "tokens": [
+            "Winterthour"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "667,1775,178,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 226
+    },
+    {
+        "name": "Yverdon",
+        "tokens": [
+            "Yverdon"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0193.txt": {
+                "pid": "edu-001:1897:33:e222",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "549,1419,319,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 227
+    },
+    {
+        "name": "Yvonand",
+        "tokens": [
+            "Yvonand"
+        ],
+        "type": "CIT",
+        "references": {
+            "edu-001_1897_033_0183.txt": {
+                "pid": "edu-001:1897:33:e212",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1131,632,61,22;144,663,72,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 228
+    },
+    {
+        "name": "Zurich",
+        "tokens": [
+            "Zurich"
+        ],
+        "type": "CTR",
+        "references": {
+            "edu-001_1897_033_0189.txt": {
+                "pid": "edu-001:1897:33:e218",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "577,1625,84,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e11"
+                ]
+            }
+        },
+        "id": 229
+    }
+]

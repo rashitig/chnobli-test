@@ -1,0 +1,4376 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Claude Louis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1280,956,98,24:main",
+                            "1392,958,83,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Etienne"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1603,1115,113,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Anna Maria Josef Anton Katharina Magdalena",
+            "Katharina",
+            "Magdalena"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "202,829,67,18:main",
+                            "285,829,71,18:main",
+                            "454,829,71,18:main",
+                            "533,829,79,18:main",
+                            "708,829,124,18:main",
+                            "959,828,141,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "596,1702,138,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "845,1702,102,30;403,1741,58,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Johanna",
+            "Sebastian Maria Rosa Johanna"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "304,908,126,18:main",
+                            "606,908,71,18:main",
+                            "687,908,61,18:main",
+                            "857,908,110,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "835,1742,112,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Anna Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1006,1586,75,22:main",
+                            "1096,1586,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Anna Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1091,1781,76,22:main",
+                            "1180,1781,54,22;692,1821,42,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Anna Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "721,1429,76,22:main",
+                            "805,1430,81,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Anna Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "865,1663,82,29:main",
+                            "402,1704,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Charles Marie"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "746,1074,106,24:main",
+                            "866,1076,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Charles Marie"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1464,721,77,23;997,759,36,24:main",
+                            "1045,762,82,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Josef Anton"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "883,1466,65,31:main",
+                            "403,1508,89,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Josef Anton"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "527,1623,72,31:main",
+                            "616,1626,89,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "S\u00e9bastian"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Monsieur"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 34,
+                        "coords": [
+                            "1690,1980,150,21:main",
+                            "1853,1977,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Andreas"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Bruder"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "754,2132,92,24:main",
+                            "853,2132,114,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Contamins"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Hr."
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "988,491,39,21:main",
+                            "1039,490,156,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Elans"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1195,570,72,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Cavelti"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "176,2013,72,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Hess"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "996,2213,58,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Contamin"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "105,1586,141,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1278,880,141,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Wittib"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "975,643,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Gebr\u00fcder",
+                "Antoni"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1011,799,130,25:main",
+                            "1151,802,79,21;690,842,27,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Bossarts"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1259,963,117,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Abbt",
+        "firstname": [
+            "Leodegarius"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1671,567,64,22:main",
+                            "1742,565,171,30:main",
+                            "1920,565,73,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Alt",
+        "firstname": [
+            "Gallus"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "F\u00fcrstabt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0013.txt": {
+                "pid": "obl-001:2004:0:e16",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "726,798,116,25:main",
+                            "859,798,91,25:main",
+                            "405,838,44,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gnd_ids": [
+            "143778137"
+        ]
+    },
+    {
+        "lastname": "Amadeus",
+        "firstname": [
+            "Viktor"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0013.txt": {
+                "pid": "obl-001:2004:0:e16",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "860,1192,90,24:main",
+                            "404,1231,131,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gnd_ids": [
+            "117569518",
+            "1056411104",
+            "142136859",
+            "1193647002",
+            "135979773",
+            "118804537"
+        ]
+    },
+    {
+        "lastname": "Ammann Elser",
+        "firstname": [
+            "Johann"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1578,1703,133,23:main",
+                            "1724,1701,97,30:main",
+                            "1278,1740,67,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Angehrn",
+        "firstname": [
+            "Beda"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Abt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1400,1152,50,24:main",
+                            "1468,1152,64,24:main",
+                            "988,1191,122,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gnd_ids": [
+            "135718430"
+        ]
+    },
+    {
+        "lastname": "Bernardi",
+        "firstname": [
+            "Anna Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Ehefrau"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "707,594,98,18:main",
+                            "814,594,67,17:main",
+                            "892,594,71,18:main",
+                            "973,594,108,17:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "467,1665,75,21:main",
+                            "563,1665,81,21:main",
+                            "104,1701,118,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "402,1350,76,22:main",
+                            "489,1351,82,21:main",
+                            "581,1349,118,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gnd_ids": [
+            "1145794092",
+            "171974492",
+            "1173642633"
+        ]
+    },
+    {
+        "lastname": "Bernhardtin",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "316,1702,181,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "780,1349,167,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Boret",
+        "firstname": [
+            "Joanna"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Ehefrau"
+        ],
+        "other": [
+            [
+                "Mutter"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "707,1111,99,18:main",
+                            "821,1111,93,18:main",
+                            "925,1111,69,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1429,448,98,22:main",
+                            "1543,448,94,27:main",
+                            "1654,448,72,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gnd_ids": [
+            "132758938",
+            "111356329X",
+            "1257268562"
+        ]
+    },
+    {
+        "lastname": "Boro",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1745,445,77,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Bossart",
+        "firstname": [
+            "Barbara"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "2036,1741,86,24;1579,1789,25,15:main",
+                            "1615,1782,100,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gnd_ids": [
+            "1146866577"
+        ]
+    },
+    {
+        "lastname": "Bouzier dEstouilly",
+        "firstname": [
+            "Mademoiselle"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "1852,1350,197,24:main",
+                            "2068,1352,62,22;1587,1391,50,21:main",
+                            "1649,1389,156,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Breitenmoser",
+        "firstname": [
+            "Hans"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0008.txt": {
+                "pid": "obl-001:2004:0:e11",
+                "refs": [
+                    {
+                        "sent": 36,
+                        "coords": [
+                            "1677,1469,71,22:main",
+                            "1756,1469,63,21;1279,1511,137,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0009.txt": {
+                "pid": "obl-001:2004:0:e12",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1594,1244,50,15:main",
+                            "1652,1244,138,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gnd_ids": [
+            "124488765"
+        ]
+    },
+    {
+        "lastname": "B\u00fcrgisser",
+        "firstname": [
+            "Leodegar"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Landesherr"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1433,2134,105,25;996,2173,56,25:main",
+                            "1076,2174,124,30:main",
+                            "1223,2176,128,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gnd_ids": [
+            "137821387"
+        ]
+    },
+    {
+        "lastname": "Cavelti",
+        "firstname": [
+            "Urs Josef"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "997,726,58,19:main",
+                            "1068,726,92,19:main",
+                            "1173,726,115,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0007.txt": {
+                "pid": "obl-001:2004:0:e10",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "415,185,174,59:main",
+                            "615,185,279,57:main",
+                            "921,185,361,57:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "407,1550,90,20:main",
+                            "538,1550,156,20:main",
+                            "737,1550,213,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gnd_ids": [
+            "1066273278"
+        ]
+    },
+    {
+        "lastname": "Cavelti",
+        "firstname": [
+            "Urs",
+            "Urs Josef",
+            "Urs fosef"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "693,980,46,22:main",
+                            "749,978,68,30:main",
+                            "827,978,107,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "692,1536,45,22:main",
+                            "748,1533,68,31:main",
+                            "826,1534,107,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "177,2129,71,16:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "233,2185,71,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "693,596,39,22:main",
+                            "747,596,45,23:main",
+                            "802,594,65,30:main",
+                            "875,594,99,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "894,1068,46,23:main",
+                            "948,1066,66,30:main",
+                            "1022,1066,99,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            },
+            "obl-001_2004_000_0007.txt": {
+                "pid": "obl-001:2004:0:e10",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "416,526,42,21:main",
+                            "472,526,49,22:main",
+                            "533,523,66,30:main",
+                            "612,523,108,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "416,801,48,22:main",
+                            "479,799,65,30:main",
+                            "560,799,100,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "414,2096,48,22:main",
+                            "481,2094,65,30:main",
+                            "564,2095,107,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1110,1823,48,22:main",
+                            "1178,1821,100,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1831,1549,49,22:main",
+                            "1897,1547,65,29:main",
+                            "1979,1547,101,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0008.txt": {
+                "pid": "obl-001:2004:0:e11",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "865,1781,49,22:main",
+                            "924,1780,100,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "789,2016,48,22:main",
+                            "847,2013,65,30:main",
+                            "920,2014,101,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0009.txt": {
+                "pid": "obl-001:2004:0:e12",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "908,761,48,21:main",
+                            "413,798,98,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "795,1115,48,21:main",
+                            "855,1113,101,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "521,1507,48,22:main",
+                            "588,1505,101,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1195,1036,47,22:main",
+                            "1252,1034,98,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1368,1665,49,22:main",
+                            "1437,1663,108,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1436,1782,48,22:main",
+                            "1499,1782,46,22;1002,1819,62,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1597,565,47,22:main",
+                            "1653,563,63,30:main",
+                            "1725,563,97,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1597,722,48,22:main",
+                            "1659,720,65,30:main",
+                            "1737,720,107,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1797,1244,35,16:main",
+                            "1840,1242,72,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1721,1329,36,16:main",
+                            "1764,1328,72,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gnd_ids": [
+            "1066273278"
+        ]
+    },
+    {
+        "lastname": "Cipriani",
+        "firstname": [
+            "Johann Joseph"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "812,840,96,30:main",
+                            "929,839,90,31:main",
+                            "1041,841,113,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Condami",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 34,
+                        "coords": [
+                            "1999,1977,129,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Contami",
+        "firstname": [
+            "Sebastian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "688,1275,137,20:main",
+                            "835,1275,117,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Contamin",
+        "firstname": [
+            "Sebastian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Hausbesitzer",
+            "Vater"
+        ],
+        "other": [
+            [
+                "Sohn"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "100,1698,94,18:main",
+                            "202,1700,105,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1585,638,145,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            },
+            "obl-001_2004_000_0007.txt": {
+                "pid": "obl-001:2004:0:e10",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1008,1312,143,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1252,1822,132,24:main",
+                            "1400,1824,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "2003,1234,133,24:main",
+                            "1592,1274,142,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1113,560,138,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "583,1247,138,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "233,1702,131,24:main",
+                            "385,1704,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "939,1858,131,24:main",
+                            "1094,1860,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1284,1897,131,24:main",
+                            "1434,1899,142,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0013.txt": {
+                "pid": "obl-001:2004:0:e16",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "862,2172,85,24;405,2214,53,21:main",
+                            "480,2213,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1206,2181,136,19:main",
+                            "1352,2181,135,19:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "464,1430,142,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "363,594,127,18:main",
+                            "500,594,126,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "630,1065,118,22:main",
+                            "758,1067,132,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "818,1702,131,24:main",
+                            "969,1703,149,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "693,2014,132,25:main",
+                            "842,2017,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "756,2171,131,24:main",
+                            "898,2173,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "1693,1858,132,25:main",
+                            "1284,1899,147,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1284,2015,130,24:main",
+                            "1437,2017,141,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "605,956,132,24:main",
+                            "749,958,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "739,1191,132,25:main",
+                            "881,1194,66,22;404,1233,83,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "664,1545,132,25:main",
+                            "805,1547,142,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 33,
+                        "coords": [
+                            "1830,1546,133,24:main",
+                            "1980,1548,149,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "404,1939,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "721,445,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "645,642,132,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "815,1624,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "638,1822,75,21:main",
+                            "721,1819,132,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "679,1858,69,25:main",
+                            "765,1858,131,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "232,958,135,24:main",
+                            "388,959,145,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "652,641,132,24:main",
+                            "799,643,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "570,1702,132,24:main",
+                            "721,1703,149,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "726,2132,132,24:main",
+                            "872,2134,66,22;396,2173,83,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1241,720,132,23:main",
+                            "1392,721,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1289,1505,133,25:main",
+                            "1438,1507,94,23;988,1547,56,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1830,463,226,20:main",
+                            "1582,523,133,25:main",
+                            "1727,525,142,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1841,681,132,24:main",
+                            "1984,682,143,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1580,1663,132,24:main",
+                            "1721,1665,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "1991,1819,131,24:main",
+                            "1579,1860,142,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "632,800,149,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1070,958,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1828,1115,142,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "176,1858,130,24:main",
+                            "316,1860,140,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "257,1975,132,25:main",
+                            "400,1978,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "692,1389,132,23:main",
+                            "844,1390,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "767,2210,131,24:main",
+                            "923,2212,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "815,2054,128,24:main",
+                            "953,2056,157,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1017,1233,141,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "512,1506,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1182,725,135,23:main",
+                            "1334,726,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "2039,528,84,24;1581,570,53,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0020.txt": {
+                "pid": "obl-001:2004:0:e23",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "515,1270,131,25:main",
+                            "106,1311,141,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "437,1974,130,25:main",
+                            "581,1977,66,22;109,2015,82,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "798,761,127,24:main",
+                            "937,763,137,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "695,879,129,24:main",
+                            "835,881,139,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1026,1623,130,24:main",
+                            "1172,1625,64,22;694,1665,82,21:main"
+                        ]
+                    },
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1151,1858,85,24;695,1899,53,22:main",
+                            "759,1899,142,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1455,485,132,25:main",
+                            "1615,487,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1443,1035,131,25:main",
+                            "1588,1037,143,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "837,2173,142,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Contamin",
+        "firstname": [
+            "Claudius"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "807,1702,123,24:main",
+                            "941,1703,149,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "379,1111,112,18:main",
+                            "500,1111,126,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1698,603,125,24:main",
+                            "1281,645,141,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "889,2210,132,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1278,1113,124,24:main",
+                            "1418,1115,148,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gnd_ids": [
+            "1139728067"
+        ]
+    },
+    {
+        "lastname": "Contamin",
+        "firstname": [
+            "Anna Maria",
+            "Maria Franziska"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Frau"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "525,1335,67,18:main",
+                            "602,1335,71,18:main",
+                            "683,1335,126,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1574,722,75,22:main",
+                            "1661,723,82,21:main",
+                            "1756,722,67,22;1281,763,83,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "489,1626,60,22:main",
+                            "563,1626,81,22:main",
+                            "104,1663,133,24:main",
+                            "250,1665,147,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 42,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Contamine",
+        "firstname": [
+            "Pierre"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1419,880,79,21:main",
+                            "1510,879,153,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 43,
+        "gnd_ids": [
+            "110495138X",
+            "170518256",
+            "121645991",
+            "104326034",
+            "1089286783",
+            "118534246",
+            "1015164196"
+        ]
+    },
+    {
+        "lastname": "Contamine",
+        "firstname": [
+            "Sebastian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0012.txt": {
+                "pid": "obl-001:2004:0:e15",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1521,1740,132,24:main",
+                            "1668,1742,157,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 44,
+        "gnd_ids": [
+            "137824947",
+            "1082444650"
+        ]
+    },
+    {
+        "lastname": "Contamine",
+        "firstname": [
+            "Charles Marie"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "439,1035,103,23:main",
+                            "552,1036,80,22:main",
+                            "641,1036,153,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "744,2015,105,25:main",
+                            "864,2018,82,21:main",
+                            "403,2057,157,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1433,1506,105,24:main",
+                            "995,1548,81,21:main",
+                            "1086,1548,158,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 30,
+                        "coords": [
+                            "1926,1311,106,23:main",
+                            "2050,1313,81,21:main",
+                            "1588,1351,157,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1381,1822,157,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 45,
+        "gnd_ids": [
+            "116649992",
+            "118778390"
+        ]
+    },
+    {
+        "lastname": "Denkinger",
+        "firstname": [
+            "Josef"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Lokalhistoriker",
+            "Lokalhistorikers"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0007.txt": {
+                "pid": "obl-001:2004:0:e10",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1321,1428,230,25:main",
+                            "1007,1467,65,31:main",
+                            "1082,1468,149,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1601,878,65,30:main",
+                            "1680,879,149,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "921,696,214,25:main",
+                            "1142,696,67,30:main",
+                            "1214,697,146,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "432,1063,66,29:main",
+                            "503,1063,146,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1282,1427,217,24:main",
+                            "1512,1427,65,30:main",
+                            "1590,1427,148,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1589,682,219,23:main",
+                            "1825,682,65,29:main",
+                            "1908,682,149,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 46,
+        "gnd_ids": [
+            "1062143655",
+            "118681052",
+            "134583957",
+            "120003651",
+            "132792699",
+            "126177473",
+            "1146471793",
+            "105755152X"
+        ]
+    },
+    {
+        "lastname": "Flury",
+        "firstname": [
+            "Theres"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "690,1192,91,24:main",
+                            "792,1192,78,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 47,
+        "gnd_ids": [
+            "188358641"
+        ]
+    },
+    {
+        "lastname": "Fluty",
+        "firstname": [
+            "Theres"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "696,723,89,25:main",
+                            "793,723,73,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 48,
+        "gnd_ids": [
+            "188358641"
+        ]
+    },
+    {
+        "lastname": "Gallus",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "F\u00fcrstabt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0013.txt": {
+                "pid": "obl-001:2004:0:e16",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "512,956,114,24:main",
+                            "634,956,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 49,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Gallus H\u00e4lg H\u00e4lg",
+        "firstname": [
+            "M Hans"
+        ],
+        "abbr_firstname": [
+            "A. A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dipl.",
+            "Treuhandexperte"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0010.txt": {
+                "pid": "obl-001:2004:0:e13",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1762,1599,58,40:main",
+                            "1290,1709,110,29:main",
+                            "1411,1709,34,28:main",
+                            "1462,1709,81,36:main",
+                            "1290,1756,73,36:main",
+                            "1382,1755,302,36:main",
+                            "1290,1853,90,28:main",
+                            "1391,1853,35,27:main",
+                            "1443,1853,80,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 50,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Gersbach",
+        "firstname": [
+            "Martina"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1024,1407,113,22:main",
+                            "1151,1405,138,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "693,897,111,22:main",
+                            "815,895,129,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 51,
+        "gnd_ids": [
+            "127820078",
+            "135611067"
+        ]
+    },
+    {
+        "lastname": "Gr\u00fcnberger",
+        "firstname": [
+            "Richard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1461,642,110,24:main",
+                            "1588,642,162,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 52,
+        "gnd_ids": [
+            "132954117",
+            "117070521"
+        ]
+    },
+    {
+        "lastname": "Helfenbergers",
+        "firstname": [
+            "Antoni"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "987,530,99,22:main",
+                            "1097,528,195,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 53,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Hensch",
+        "firstname": [
+            "Johann Baptist"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Kapuzinerpater",
+            "Kapuzinerpater",
+            "Schriftsteller",
+            "Schriftsteller",
+            "Und",
+            "Und"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "750,1108,214,29:main",
+                            "974,1107,52,23:main",
+                            "1037,1106,181,24:main",
+                            "1229,1107,96,29:main",
+                            "1335,1108,97,29:main",
+                            "1442,1107,105,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1340,722,176,30:main",
+                            "1525,722,53,25:main",
+                            "1586,725,211,28:main",
+                            "694,766,95,29:main",
+                            "798,768,98,28:main",
+                            "904,766,102,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 54,
+        "gnd_ids": [
+            "126394431"
+        ]
+    },
+    {
+        "lastname": "Hoffmann",
+        "firstname": [
+            "Balthasar"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Kaufmann",
+                ","
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "689,1780,153,29:main",
+                            "689,1780,153,29:rpunc",
+                            "851,1780,129,23:main",
+                            "988,1779,150,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 55,
+        "gnd_ids": [
+            "137125348",
+            "1031394532",
+            "119711990",
+            "1037507967",
+            "1020688033",
+            "132517434",
+            "13759724X",
+            "138948518",
+            "1055623140",
+            "124686419"
+        ]
+    },
+    {
+        "lastname": "H\u00e4lg",
+        "firstname": [
+            "Norbert"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "946,1533,111,25:main",
+                            "1067,1533,72,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "694,1066,108,25:main",
+                            "810,1067,71,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 56,
+        "gnd_ids": [
+            "1148473149",
+            "134856651"
+        ]
+    },
+    {
+        "lastname": "Justino",
+        "firstname": [
+            "Carlo"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "762,759,75,24:main",
+                            "850,762,98,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 57,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Kaiser",
+        "firstname": [
+            "Markus"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Mitarbeiter"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0007.txt": {
+                "pid": "obl-001:2004:0:e10",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "2036,1390,106,24:main",
+                            "1599,1431,92,27:main",
+                            "1599,1431,92,27:rpunc",
+                            "1724,1429,155,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0008.txt": {
+                "pid": "obl-001:2004:0:e11",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "203,800,106,25:main",
+                            "329,803,91,21:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1146,684,86,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            },
+            "obl-001_2004_000_0009.txt": {
+                "pid": "obl-001:2004:0:e12",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1992,1300,73,17:main",
+                            "2074,1301,64,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 58,
+        "gnd_ids": [
+            "1025309723",
+            "1203423675",
+            "123271851",
+            "119215969",
+            "1055367462",
+            "115761349",
+            "141940425",
+            "171140281",
+            "130201413",
+            "1035192616"
+        ]
+    },
+    {
+        "lastname": "Kaufmann",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1664,1270,155,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 59,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Lehmann",
+        "firstname": [
+            "Lilli"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "S\u00e4ngerin",
+            "Wagner-S\u00e4ngerin"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1392,1065,110,28;433,1110,117,28:main",
+                            "559,1108,57,24:main",
+                            "624,1108,130,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1283,1703,120,28:main",
+                            "1425,1702,57,24:main",
+                            "1505,1702,131,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "1767,1819,58,24:main",
+                            "1283,1858,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 60,
+        "gnd_ids": [
+            "118883933",
+            "1147050740",
+            "122281837",
+            "143077023",
+            "103493614X",
+            "134947096",
+            "1060273918",
+            "1138651877",
+            "120419432",
+            "1054729042"
+        ]
+    },
+    {
+        "lastname": "Lehmann",
+        "firstname": [
+            "Lilly"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "S\u00e4ngerin"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "721,681,65,30:main",
+                            "794,681,133,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "403,2096,120,27:main",
+                            "535,2093,64,30:main",
+                            "611,2094,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1589,563,65,31:main",
+                            "1670,563,133,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "888,838,60,24;404,886,79,15:main"
+                        ]
+                    },
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1184,1506,133,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 61,
+        "gnd_ids": [
+            "118883933",
+            "1012562336",
+            "136600867",
+            "1079328106",
+            "142470376",
+            "172880718",
+            "1147050740",
+            "127776680",
+            "124541356",
+            "122281837"
+        ]
+    },
+    {
+        "lastname": "Marie",
+        "firstname": [
+            "Charles"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1344,1113,105,25:main",
+                            "1458,1116,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 62,
+        "gnd_ids": [
+            "117545023",
+            "1011416891",
+            "1058966499",
+            "11754504X",
+            "117545058",
+            "1055436200",
+            "129636274",
+            "1061255239",
+            "1055176985",
+            "109676959X"
+        ]
+    },
+    {
+        "lastname": "M\u00e4der",
+        "firstname": [
+            "Otmar"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Bischof"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0009.txt": {
+                "pid": "obl-001:2004:0:e12",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1057,798,101,24:main",
+                            "1175,800,92,22:main",
+                            "1283,798,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 63,
+        "gnd_ids": [
+            "106496840",
+            "1194353045"
+        ]
+    },
+    {
+        "lastname": "M\u00fcller",
+        "firstname": [
+            "Bernhard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Abt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "687,1466,53,24:main",
+                            "750,1466,130,24:main",
+                            "891,1466,97,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 64,
+        "gnd_ids": [
+            "117575143",
+            "1035072890",
+            "1031962239",
+            "130931128",
+            "13776314X",
+            "101111355",
+            "115741232",
+            "117575127",
+            "117575151",
+            "117575178"
+        ]
+    },
+    {
+        "lastname": "Pfister",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1372,567,90,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 65,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Rinck",
+        "firstname": [
+            "Georg Wilhelm"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Landshofmeister"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1158,2212,228,25:main",
+                            "1394,2215,81,28:main",
+                            "1482,2213,56,24;1593,447,69,24:main",
+                            "1682,447,81,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 66,
+        "gnd_ids": [
+            "1042989826",
+            "1049969472"
+        ]
+    },
+    {
+        "lastname": "Ritter",
+        "firstname": [
+            "Mari\u00e4"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0011.txt": {
+                "pid": "obl-001:2004:0:e14",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1807,685,82,22:main",
+                            "1905,685,82,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 67,
+        "gnd_ids": [
+            "116573139",
+            "11657318X",
+            "1192315154",
+            "129971103",
+            "1038855772",
+            "1124245170",
+            "1145297579",
+            "117065153",
+            "113690355",
+            "129499951"
+        ]
+    },
+    {
+        "lastname": "Rosa",
+        "firstname": [
+            "Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "566,1743,81,22:main",
+                            "664,1743,66,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 68,
+        "gnd_ids": [
+            "139891102",
+            "132649888",
+            "122699831",
+            "130092290",
+            "131614673",
+            "138692556",
+            "1053046197",
+            "1057234338",
+            "1013548418",
+            "1146573839"
+        ]
+    },
+    {
+        "lastname": "Roth",
+        "firstname": [
+            "Franz Josef",
+            "Franz Joseph"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Gemeindeschreiber"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0020.txt": {
+                "pid": "obl-001:2004:0:e23",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "1086,1466,150,25;694,1505,125,25:main",
+                            "831,1508,75,22:main",
+                            "918,1505,63,31:main",
+                            "994,1505,66,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1286,2181,73,19:main",
+                            "1368,2182,98,24:main",
+                            "1477,2182,63,18:main"
+                        ]
+                    },
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "694,1545,66,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 69,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Stolzer",
+        "firstname": [],
+        "abbr_firstname": [
+            "V."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1653,463,22,20:main",
+                            "1687,463,132,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 70,
+        "gnd_ids": [
+            "173075932",
+            "171661222",
+            "141486546",
+            "135254965",
+            "1145514561",
+            "1061404463",
+            "1061967530",
+            "1134883609",
+            "1144507448",
+            "1158931573"
+        ]
+    },
+    {
+        "lastname": "Schmuki",
+        "firstname": [
+            "Karl"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "688,1405,60,24:main",
+                            "759,1405,130,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1152,1533,60,25:main",
+                            "1223,1534,125,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "252,2158,31,16:main",
+                            "291,2156,41,18:main",
+                            "340,2156,93,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "obl-001_2004_000_0005.txt": {
+                "pid": "obl-001:2004:0:e8",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1014,895,59,24:main",
+                            "1081,894,122,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1190,1066,59,25:main",
+                            "1257,1066,121,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1502,2051,59,24:main",
+                            "1571,2051,125,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e108"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 71,
+        "gnd_ids": [
+            "1065969627",
+            "130567000",
+            "126786127",
+            "127966412",
+            "1188724622",
+            "139789960",
+            "1053247362",
+            "1145584160",
+            "136842119",
+            "136842127"
+        ]
+    },
+    {
+        "lastname": "Schultz",
+        "firstname": [
+            "Hans"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0019.txt": {
+                "pid": "obl-001:2004:0:e22",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1732,2221,66,19:main",
+                            "1808,2221,112,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 72,
+        "gnd_ids": [
+            "118611399",
+            "1030057486",
+            "122751876",
+            "1133518923",
+            "110036076X",
+            "117192422",
+            "117192406",
+            "117192414",
+            "143635123",
+            "1028323697"
+        ]
+    },
+    {
+        "lastname": "Schwizer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0010.txt": {
+                "pid": "obl-001:2004:0:e13",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "526,2111,69,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e110"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 73,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Sch\u00e4rtier",
+        "firstname": [
+            "Karl"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "1921,1505,58,24:main",
+                            "1990,1505,132,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 74,
+        "gnd_ids": [
+            "1016528663",
+            "134579704",
+            "117222232",
+            "1073423158",
+            "1131952650",
+            "1157714056",
+            "1175425931",
+            "140366237"
+        ]
+    },
+    {
+        "lastname": "Sch\u00e4rtier",
+        "firstname": [
+            "Anton"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0017.txt": {
+                "pid": "obl-001:2004:0:e20",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "1649,1703,89,23:main",
+                            "1751,1702,126,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            },
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "546,1662,97,25;104,1702,36,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 75,
+        "gnd_ids": [
+            "123521025"
+        ]
+    },
+    {
+        "lastname": "Sch\u00e4rtier",
+        "firstname": [
+            "Carle"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0018.txt": {
+                "pid": "obl-001:2004:0:e21",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "690,643,74,25:main",
+                            "778,643,125,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "738,997,73,23:main",
+                            "827,997,137,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 76,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Sch\u00e4rtier",
+        "firstname": [
+            "Joseph Antoni"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Gemeindsvogt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0020.txt": {
+                "pid": "obl-001:2004:0:e23",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "105,565,201,30:main",
+                            "324,565,90,30:main",
+                            "431,567,98,22:main",
+                            "547,565,97,24;104,605,37,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 77,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Scionzier",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0013.txt": {
+                "pid": "obl-001:2004:0:e16",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "765,1744,128,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 78,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Seitrecht",
+        "firstname": [
+            "Carsten"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0004.txt": {
+                "pid": "obl-001:2004:0:e7",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "101,1843,77,17:main",
+                            "185,1842,94,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 79,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "Sohn",
+        "firstname": [
+            "Sebastian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "352,801,131,24:main",
+                            "500,800,69,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 80,
+        "gnd_ids": [
+            "1049454170",
+            "189451033",
+            "134641108",
+            "133699323",
+            "1211768643",
+            "1037786211",
+            "130225282",
+            "1028776675"
+        ]
+    },
+    {
+        "lastname": "Staerkle",
+        "firstname": [
+            "Paul"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "1543,1584,61,24:main",
+                            "1614,1584,112,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 81,
+        "gnd_ids": [
+            "1064714722",
+            "1027335853",
+            "102595775X",
+            "125942273",
+            "141792701"
+        ]
+    },
+    {
+        "lastname": "Zeller",
+        "firstname": [
+            "Hans Jacob"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Ammann"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0020.txt": {
+                "pid": "obl-001:2004:0:e23",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "437,645,129,22:main",
+                            "577,645,68,22:main",
+                            "104,683,72,30:main",
+                            "186,682,84,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 82,
+        "gnd_ids": [
+            "1089382758",
+            "129649767",
+            "1047417332",
+            "1019756594",
+            "1089372418",
+            "1089524412"
+        ]
+    },
+    {
+        "lastname": "de Albertis",
+        "firstname": [
+            "Giovanni"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1170,2056,61,22;689,2095,80,21:main",
+                            "794,2092,30,24:main",
+                            "848,2092,114,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 83,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "de Chourses de Beauregard",
+        "firstname": [
+            "Marguerite"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "1646,1273,155,28:main",
+                            "1810,1271,30,24:main",
+                            "1849,1271,130,24:main",
+                            "1990,1271,28,24:main",
+                            "2028,1273,102,22;1587,1311,64,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 84,
+        "gnd_ids": []
+    },
+    {
+        "lastname": "de La Contamine",
+        "firstname": [
+            "Charles"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Naturforscher"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0015.txt": {
+                "pid": "obl-001:2004:0:e18",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1800,878,211,25:main",
+                            "2027,878,106,25:main",
+                            "1589,917,29,24:main",
+                            "1635,919,31,22:main",
+                            "1683,919,158,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 85,
+        "gnd_ids": [
+            "142087033",
+            "118778390"
+        ]
+    },
+    {
+        "lastname": "dem",
+        "firstname": [
+            "Sebastian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "\u00c4ltern"
+            ],
+            [
+                "Sohn"
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "281,605,132,24:main",
+                            "431,605,58,23:main",
+                            "506,601,92,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "467,643,68,25:main",
+                            "555,643,84,25;98,686,53,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 86,
+        "gnd_ids": [
+            "135416663",
+            "1140764578",
+            "112919695X",
+            "118795937",
+            "102503044",
+            "1034940155",
+            "1062438264",
+            "138730318",
+            "118199420",
+            "1139071165"
+        ]
+    },
+    {
+        "lastname": "von Rudolfi",
+        "firstname": [
+            "Joseph"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Abt"
+        ],
+        "other": [],
+        "references": {
+            "obl-001_2004_000_0016.txt": {
+                "pid": "obl-001:2004:0:e19",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1659,1936,51,24:main",
+                            "1731,1936,90,31:main",
+                            "1278,1984,51,15:main",
+                            "1339,1975,104,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 87,
+        "gnd_ids": [
+            "137839006",
+            "120079712",
+            "138682305",
+            "1035261294"
+        ]
+    },
+    {
+        "lastname": "von Savoyen",
+        "firstname": [
+            "Victor Amadeus"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Herzog"
+        ],
+        "other": [
+            [
+                "II."
+            ]
+        ],
+        "references": {
+            "obl-001_2004_000_0014.txt": {
+                "pid": "obl-001:2004:0:e17",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1423,2057,112,27:main",
+                            "1550,2057,87,21:main",
+                            "1651,2054,131,25:main",
+                            "1797,2057,26,21:main",
+                            "1282,2101,51,16:main",
+                            "1348,2095,114,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e111"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 88,
+        "gnd_ids": []
+    }
+]

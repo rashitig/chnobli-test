@@ -1,0 +1,10 @@
+{
+    "PATH_TO_INPUT_FOLDERS": "./data/input/",
+    "PATH_TO_NER_MODEL_1": "/home/adl/nla/models/ner-bio.pt",
+    "PATH_TO_NER_MODEL_2": "/home/adl/nla/models/ner-det.pt",
+    "PATH_TO_OUTFILE_FOLDER": "./data/output/",
+    "PATH_TO_ABBREVIATION_FILE": "./src/preprocessing/abbrevs.txt",
+    "PATH_TO_GROUND_TRUTH_FUZZY": "./data/ground_truth_linked/with_fuzzy_matching/",
+    "PATH_TO_GROUND_TRUTH_NOTFUZZY": "./data/ground_truth_linked/without_fuzzy_matching/",
+    "BATCH_SIZE": 8
+}

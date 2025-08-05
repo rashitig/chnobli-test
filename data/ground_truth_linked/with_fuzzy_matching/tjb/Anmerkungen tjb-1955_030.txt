@@ -1,0 +1,28 @@
+ID 5: Ortschaft keine Person
+ID 7: Typo (hinaus nicht Inaus), keine Person
+ID 9: Ortschaft keine Person
+ID 35: Typo Nachname (Freuler nicht EreuZer), gelinkt, 118869450
+ID 50: Körperschaft keine Person, Drogerie Walter Haas & Co.
+ID 62: Typo Nachname (Hungerbühler nicht Hungerh\u00fc  iZe)
+ID 65: Körperschaft keine Person, W.Häusler-Zepf AG. Olten
+ID 67: Typo Nachname (Iklé nicht Ilde)
+ID 74: Berufsbezeichnung kein Name (Kassier)
+ID 93: kein Name, Typo (Mensch-liches nicht Menschliebes)
+ID 96: Typo Vorname (Wilhelm nicht Wilheim)
+ID 97: Typo Vor- und Nachname (Meyer-Zeller, Wilhelm nicht Meyer-Zeller Meyer, Wilhelm Wilhelm), gefunden und gelinkt, 1139395319
+ID 98: kein Name
+ID 103: Fehlerhafte GND (Geburtsjahr = Sterbejahr), 1147294208
+ID 115: Fehlerhafte GND (Geburtsdatum = Sterbedatum), 1140792229
+ID 118: Typo Nachname (Reiber nicht Reiher)
+ID 123: Typo Nachname (Rüegg nicht Riiegg)
+ID 136: Typo Nachname (Schümperli nicht Schiimperli)
+ID 137: Typo Nachname (Schmid nicht Schinid)
+ID 138: Typo Nachname (Schlatter nicht Schlafter)
+ID 141: Typo Vorname (Helmuth nicht Heimuth)
+ID 145: Typo Vorname (Helmuth nicht LIelmuth)
+ID 159: kein Name
+ID 161: Typo Vor- und Nachname (Tanner, Heinrich nicht Tanner Tanner, Heinrich Heinrich)
+ID 163: Typo Nachname (Ullmann nicht Ulimann)
+ID 166: Körperschaft keine Person, H. Wellauer AG
+ID 179: Fiktionale Person in Werbetext
+ID 180: Werktitel kein Name

@@ -1,0 +1,11 @@
+72/72
+ID 57: Typo Nachname Umlaut (Schrage nicht Schräge)
+ID 62: Kein Name sondern Körperschaft (Frost & Sullivan)
+ID 67: Kein Name sondern Körperschaft/Verlag (Van Nostrand Reinhold)
+ID 68: Mögliche fehlerhafte GND, Werktitel der Bibliographie verknüpft mit 121025675 (Theologe nicht Wirtschaftswissenschaftler), nicht verlinkt
+ID 72: Typo Nachname (Windeler nicht Windeier)
+
+
+
+
+

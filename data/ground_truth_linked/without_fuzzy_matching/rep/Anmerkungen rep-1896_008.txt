@@ -1,0 +1,8 @@
+12/12
+ID 0: Kein Name sondern Sachbegriff
+ID 1: Kein Name sondern Körperschaft (Meisenbach, Riffarth & Co.)
+ID 6: Kein Name sondern Sachbegriff
+ID 7: M. (Monsieur) kein Vorname sondern Address, nicht gelinkt, wäre 118528912
+ID 10: Typo Nachname (Odier nicht Odihr), nicht gelinkt, wäre 117095915
+ID 11: Kein Name sondern Körperschaft (Meisenbach, Riffarth & Co.)
+ID 12: M. (Monsieur) kein Vorname sondern Address

@@ -1,0 +1,2995 @@
+[
+    {
+        "id": "1",
+        "StdName": "USA",
+        "LastNames": [],
+        "FirstNames": [
+            "Vereinigten Staaten von Amerika/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 272,
+                    "coord": "1047,2178,176,34",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 273,
+                    "coord": "1243,2178,117,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 274,
+                    "coord": "1378,2188,55,16",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 275,
+                    "coord": "1452,2178,138,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4078704-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "2",
+        "StdName": "Irland",
+        "LastNames": [],
+        "FirstNames": [
+            "irischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 314,
+                    "coord": "1475,2348,117,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4027667-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "3",
+        "StdName": "St. Gallen",
+        "LastNames": [],
+        "FirstNames": [
+            "St. Gallen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 320,
+                    "coord": "753,2406,39,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 322,
+                    "coord": "805,2406,97,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4051594-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "4",
+        "StdName": "Heim, Franz Anton",
+        "LastNames": [
+            "HEIM/"
+        ],
+        "FirstNames": [
+            "FRANZ ANTON/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0424.txt",
+                    "lineNo": 8,
+                    "coord": "937,1883,115,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0424.txt",
+                    "lineNo": 9,
+                    "coord": "1063,1883,118,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0424.txt",
+                    "lineNo": 10,
+                    "coord": "1193,1883,94,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0424.txt",
+                    "lineNo": 11,
+                    "coord": "247,1921,170,29",
+                    "note": "",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "1830\u20141890/"
+        ],
+        "Gnd": "104079959",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "5",
+        "StdName": "Schweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "Schweizer/ADJ",
+            "Schweiz/",
+            "Schweiz/ADJ",
+            "Schweizerin/DERIV",
+            "Schweizer/DERIV"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0424.txt",
+                    "lineNo": 66,
+                    "coord": "246,2110,132,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0426.txt",
+                    "lineNo": 18,
+                    "coord": "451,283,122,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 349,
+                    "coord": "914,2217,150,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 5,
+                    "coord": "427,243,151,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 262,
+                    "coord": "1107,1317,128,27",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 488,
+                    "coord": "1725,2794,111,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 229,
+                    "coord": "363,1691,156,21",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0441.txt",
+                    "lineNo": 936,
+                    "coord": "889,1969,136,22",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 230,
+                    "coord": "395,1232,103,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4053881-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "6",
+        "StdName": "Appenzell",
+        "LastNames": [],
+        "FirstNames": [
+            "appenzellischen/ADJ",
+            "#Appenzellern/ADJ",
+            "Appenzell/",
+            "#Appenzellers/DERIV",
+            "Appenzeller/ADJ",
+            "Appenzeller/DERIV"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0426.txt",
+                    "lineNo": 132,
+                    "coord": "597,759,184,34",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 141,
+                    "coord": "161,2468,205,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 210,
+                    "coord": "733,2658,157,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 361,
+                    "coord": "981,1625,183,35",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 381,
+                    "coord": "214,1737,183,36",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0429.txt",
+                    "lineNo": 5,
+                    "coord": "864,257,129,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 133,
+                    "coord": "1081,2309,168,29",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0433.txt",
+                    "lineNo": 25,
+                    "coord": "1348,345,156,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 365,
+                    "coord": "1621,2338,155,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 395,
+                    "coord": "1074,2443,156,29",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 21,
+                    "coord": "265,411,157,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 40,
+                    "coord": "851,450,179,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 100,
+                    "coord": "878,665,155,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 144,
+                    "coord": "578,844,137,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 381,
+                    "coord": "165,1770,156,27",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 403,
+                    "coord": "165,1845,156,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 678,
+                    "coord": "1958,484,155,29",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 903,
+                    "coord": "1656,1305,129,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1191,
+                    "coord": "1736,2415,155,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4002485-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "7",
+        "StdName": "Heuscher, Johann Jacob",
+        "LastNames": [
+            "Heuscher/",
+            "#HEUSCHER/"
+        ],
+        "FirstNames": [
+            "JOHANN JACOB/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 89,
+                    "coord": "159,2279,137,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 90,
+                    "coord": "315,2278,104,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 91,
+                    "coord": "437,2279,184,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 92,
+                    "coord": "642,2280,167,28",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 272,
+                    "coord": "1941,2129,122,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "1843\u20141919/?"
+        ],
+        "Gnd": "1018268405",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "8",
+        "StdName": "Herisau",
+        "LastNames": [],
+        "FirstNames": [
+            "#Herisau/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 95,
+                    "coord": "1026,2281,100,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4024493-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "9",
+        "StdName": "Waldstatt",
+        "LastNames": [],
+        "FirstNames": [
+            "Waldstatt/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 114,
+                    "coord": "743,2355,134,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4064422-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "10",
+        "StdName": "Z\u00fclle, Johannes",
+        "LastNames": [
+            "#Z\u00dcLLE/",
+            "Z\u00fclle/"
+        ],
+        "FirstNames": [
+            "JOHANNES/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 214,
+                    "coord": "1599,1715,184,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 215,
+                    "coord": "1801,1710,110,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 216,
+                    "coord": "1930,1715,177,28",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 279,
+                    "coord": "1657,2206,64,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "1841\u20141938/?"
+        ],
+        "Gnd": "107217720X",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "11",
+        "StdName": "Hiroshige",
+        "LastNames": [
+            "Hieroshige/"
+        ],
+        "FirstNames": [],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 289,
+                    "coord": "1803,2281,145,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "111268302X",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "12",
+        "StdName": "China",
+        "LastNames": [],
+        "FirstNames": [
+            "chinesische/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 299,
+                    "coord": "1738,2356,145,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4009937-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "13",
+        "StdName": "Urn\u00e4sch",
+        "LastNames": [],
+        "FirstNames": [
+            "Urn\u00e4sch/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 235,
+                    "coord": "324,1113,127,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0433.txt",
+                    "lineNo": 120,
+                    "coord": "1614,916,106,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4225015-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "14",
+        "StdName": "Reute",
+        "LastNames": [],
+        "FirstNames": [
+            "Reute/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 262,
+                    "coord": "730,1228,90,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "7729024-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "15",
+        "StdName": "Heiden",
+        "LastNames": [],
+        "FirstNames": [
+            "Heiden/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 274,
+                    "coord": "621,1284,109,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4096092-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "16",
+        "StdName": "Bernoulli, Christoph",
+        "LastNames": [
+            "Bernoulli/"
+        ],
+        "FirstNames": [
+            "Christoph/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 474,
+                    "coord": "1304,2108,123,29",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 475,
+                    "coord": "1440,2108,119,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "118509934",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "17",
+        "StdName": "Zeller, Johann Baptiste",
+        "LastNames": [
+            "Zeller/"
+        ],
+        "FirstNames": [
+            "Johann Baptist/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0429.txt",
+                    "lineNo": 16,
+                    "coord": "1041,295,99,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0429.txt",
+                    "lineNo": 17,
+                    "coord": "1154,296,96,28",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0429.txt",
+                    "lineNo": 18,
+                    "coord": "1264,296,81,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1046849964",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "18",
+        "StdName": "Breitenmoser",
+        "LastNames": [
+            "Breitenmoser/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 134,
+                    "coord": "1267,2309,182,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "19",
+        "StdName": "L\u00e4mmler, Bartholome",
+        "LastNames": [
+            "L\u00e4mmler/"
+        ],
+        "FirstNames": [
+            "Bartholome/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 296,
+                    "coord": "1019,2740,158,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 297,
+                    "coord": "1189,2739,120,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 298,
+                    "coord": "1325,2739,179,30",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "1809\u20141865/?"
+        ],
+        "Gnd": "121498166",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "20",
+        "StdName": "M\u00fcller, Johannes",
+        "LastNames": [
+            "M\u00fcller/"
+        ],
+        "FirstNames": [
+            "Johannes/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 304,
+                    "coord": "624,2775,123,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 305,
+                    "coord": "760,2775,84,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 308,
+                    "coord": "1046,2775,178,29",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "1806\u20141897/?"
+        ],
+        "Gnd": "135803985",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "21",
+        "StdName": "Hundwil",
+        "LastNames": [],
+        "FirstNames": [
+            "Hundwil/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 307,
+                    "coord": "917,2774,114,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4612433-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "22",
+        "StdName": "Basel",
+        "LastNames": [],
+        "FirstNames": [
+            "Basel/",
+            "Basel/POI",
+            "Basler/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 111,
+                    "coord": "943,1193,96,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 56,
+                    "coord": "1271,411,81,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 493,
+                    "coord": "1361,2821,58,17",
+                    "note": "POI",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4004617-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "23",
+        "StdName": "Kn\u00f6pfel, Johann Jacob",
+        "LastNames": [
+            "Kn\u00f6pfel/"
+        ],
+        "FirstNames": [
+            "Johann Jacob/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0433.txt",
+                    "lineNo": 116,
+                    "coord": "1828,880,97,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0433.txt",
+                    "lineNo": 117,
+                    "coord": "1347,915,75,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0433.txt",
+                    "lineNo": 118,
+                    "coord": "1436,915,105,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "24",
+        "StdName": "Laur, Ernst",
+        "LastNames": [
+            "#Laur/"
+        ],
+        "FirstNames": [
+            "Ernst/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 352,
+                    "coord": "1377,1731,41,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 354,
+                    "coord": "1431,1732,71,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 355,
+                    "coord": "1512,1732,64,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [
+            "Dr./"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "119202220",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "25",
+        "StdName": "Haemmerli-Schindler, Gertrud",
+        "LastNames": [
+            "Haemmerli-Schindler/"
+        ],
+        "FirstNames": [
+            "Gertrud/"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 37,
+                    "coord": "1203,475,82,17",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 38,
+                    "coord": "1294,473,237,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 39,
+                    "coord": "1539,474,130,17",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Pr\u00e4sidentin/"
+        ],
+        "Other": [],
+        "Gnd": "126361266",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "26",
+        "StdName": "Z\u00fcrich",
+        "LastNames": [],
+        "FirstNames": [
+            "Z\u00fcrcher/ADJ",
+            "Z\u00fcrich/ORG",
+            "Z\u00fcrich/",
+            "z\u00fcrcherischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 45,
+                    "coord": "2023,474,73,17",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 71,
+                    "coord": "521,825,84,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 319,
+                    "coord": "306,2193,86,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 366,
+                    "coord": "130,2441,85,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 555,
+                    "coord": "953,1125,180,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 683,
+                    "coord": "1332,1768,86,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 784,
+                    "coord": "808,2302,85,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 1166,
+                    "coord": "1901,2653,84,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 36,
+                    "coord": "213,715,104,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 438,
+                    "coord": "629,2761,73,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 571,
+                    "coord": "1370,2219,85,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0438.txt",
+                    "lineNo": 387,
+                    "coord": "409,1224,71,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 18,
+                    "coord": "159,426,92,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 1290,
+                    "coord": "2003,2440,86,21",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 867,
+                    "coord": "1788,1162,85,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 935,
+                    "coord": "1373,1413,99,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4068038-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "27",
+        "StdName": "Farner-Hasler, Agnes",
+        "LastNames": [
+            "Farner-Hasler/"
+        ],
+        "FirstNames": [
+            "Agnes/"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 435,
+                    "coord": "246,2760,66,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 436,
+                    "coord": "323,2761,165,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "28",
+        "StdName": "Frau M.",
+        "LastNames": [
+            "M/?"
+        ],
+        "FirstNames": [],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 471,
+                    "coord": "1530,1743,52,17",
+                    "note": "?",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 472,
+                    "coord": "1597,1744,26,16",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Frau/?"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "29",
+        "StdName": "Jaberg, P.",
+        "LastNames": [
+            "Jaberg/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 538,
+                    "coord": "879,2072,62,21",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 539,
+                    "coord": "950,2072,25,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 541,
+                    "coord": "984,2072,96,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Frau/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "30",
+        "StdName": "H., Ruth",
+        "LastNames": [
+            "H/"
+        ],
+        "FirstNames": [
+            "Ruth/"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0438.txt",
+                    "lineNo": 373,
+                    "coord": "516,1197,56,16",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0438.txt",
+                    "lineNo": 374,
+                    "coord": "589,1197,25,16",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "31",
+        "StdName": "Fr\u00e4ulein S.",
+        "LastNames": [
+            "S/"
+        ],
+        "FirstNames": [],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 669,
+                    "coord": "941,1521,111,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 670,
+                    "coord": "1061,1521,22,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 725,
+                    "coord": "913,1772,110,21",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 726,
+                    "coord": "1039,1771,23,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Fr\u00e4ulein/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "32",
+        "StdName": "Nievergelt, Olga",
+        "LastNames": [
+            "Nievergelt/"
+        ],
+        "FirstNames": [
+            "Olga/"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 1335,
+                    "coord": "1925,2745,49,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0439.txt",
+                    "lineNo": 1336,
+                    "coord": "1982,2746,109,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 77,
+                    "coord": "669,750,61,20",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 78,
+                    "coord": "126,785,59,27",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 79,
+                    "coord": "207,784,143,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Frau/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "33",
+        "StdName": "Andres-Schurter, C.",
+        "LastNames": [
+            "Andres-Schurter/"
+        ],
+        "FirstNames": [
+            "C./"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 59,
+                    "coord": "156,677,62,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 60,
+                    "coord": "228,677,23,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 62,
+                    "coord": "261,676,226,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Frau/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "34",
+        "StdName": "Andres",
+        "LastNames": [
+            "Andres/"
+        ],
+        "FirstNames": [],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 94,
+                    "coord": "478,857,71,28",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 95,
+                    "coord": "563,857,91,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Frau/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Identisch mit 33",
+        "type": "PER"
+    },
+    {
+        "id": "35",
+        "StdName": "Weiss, Manfred",
+        "LastNames": [
+            "Wei\u00df/"
+        ],
+        "FirstNames": [
+            "Manfred/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0441.txt",
+                    "lineNo": 1480,
+                    "coord": "1936,2773,96,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0441.txt",
+                    "lineNo": 1481,
+                    "coord": "2040,2774,59,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "36",
+        "StdName": "Sutter, Marie",
+        "LastNames": [
+            "Sutter/"
+        ],
+        "FirstNames": [
+            "Marie/"
+        ],
+        "Gender": "f",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 64,
+                    "coord": "205,554,73,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 65,
+                    "coord": "294,554,89,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 466,
+                    "coord": "713,2066,72,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1134,
+                    "coord": "1753,2200,72,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1135,
+                    "coord": "1847,2199,88,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 20,
+                    "coord": "945,2338,72,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 21,
+                    "coord": "1030,2338,90,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 36,
+                    "coord": "907,2373,72,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 51,
+                    "coord": "905,2410,72,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "37",
+        "StdName": "London",
+        "LastNames": [],
+        "FirstNames": [
+            "London/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 220,
+                    "coord": "779,1168,100,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4074335-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "38",
+        "StdName": "D\u00f6rig",
+        "LastNames": [
+            "D\u00f6rig/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 552,
+                    "coord": "351,2480,79,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 553,
+                    "coord": "445,2480,88,29",
+                    "note": "",
+                    "category": "OT",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 554,
+                    "coord": "544,2482,86,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 591,
+                    "coord": "280,2629,76,28",
+                    "note": "",
+                    "category": "OT",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 592,
+                    "coord": "374,2630,73,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 648,
+                    "coord": "1576,414,77,27",
+                    "note": "",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 780,
+                    "coord": "1625,808,79,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [
+            "Boger/"
+        ],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "39",
+        "StdName": "Broger, Armin",
+        "LastNames": [
+            "Broger/"
+        ],
+        "FirstNames": [
+            "Armin/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 861,
+                    "coord": "1240,1162,82,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 862,
+                    "coord": "1342,1162,95,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 881,
+                    "coord": "1240,1234,83,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 882,
+                    "coord": "1353,1234,95,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 955,
+                    "coord": "1329,1485,84,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 956,
+                    "coord": "1435,1485,88,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1129,
+                    "coord": "1915,2164,83,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1130,
+                    "coord": "2033,2164,88,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "40",
+        "StdName": "Mock, Hast\u00f6ni",
+        "LastNames": [
+            "Mock/",
+            "Mocks/"
+        ],
+        "FirstNames": [
+            "Hast\u00f6ni/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 674,
+                    "coord": "1618,485,76,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 684,
+                    "coord": "1622,521,70,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 888,
+                    "coord": "1241,1270,103,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 889,
+                    "coord": "1362,1270,69,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 900,
+                    "coord": "1432,1306,79,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1111,
+                    "coord": "1480,2095,102,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1112,
+                    "coord": "1603,2094,68,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1123,
+                    "coord": "1944,2129,68,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "41",
+        "StdName": "Laemmel, Hans",
+        "LastNames": [
+            "Laemmel/"
+        ],
+        "FirstNames": [
+            "Hans/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1277,
+                    "coord": "1901,2771,69,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 1278,
+                    "coord": "1981,2770,116,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1156574803",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "42",
+        "StdName": "Ostschweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "ostschweizerische/ADJ",
+            "Ostschweiz/",
+            "ostschweizerischen/ADJ",
+            "Ostschweizerische/ADJ",
+            "Ostschweizer/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 16,
+                    "coord": "224,1131,169,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0426.txt",
+                    "lineNo": 115,
+                    "coord": "955,702,171,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 223,
+                    "coord": "1599,1791,152,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0431.txt",
+                    "lineNo": 254,
+                    "coord": "759,2632,245,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 30,
+                    "coord": "850,852,200,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 77,
+                    "coord": "1522,1021,62,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 78,
+                    "coord": "152,1079,135,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 156,
+                    "coord": "389,1420,331,27",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0434.txt",
+                    "lineNo": 480,
+                    "coord": "1648,2769,199,17",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4044106-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "43",
+        "StdName": "Erde",
+        "LastNames": [],
+        "FirstNames": [
+            "Erde/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0423.txt",
+                    "lineNo": 244,
+                    "coord": "1261,2066,72,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 898,
+                    "coord": "1576,554,62,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1135962553",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "EXT"
+    },
+    {
+        "id": "44",
+        "StdName": "Persien",
+        "LastNames": [],
+        "FirstNames": [
+            "persische/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 274,
+                    "coord": "1601,2168,118,28",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4027653-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "45",
+        "StdName": "Ostasien",
+        "LastNames": [],
+        "FirstNames": [
+            "#ostasiatische/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 281,
+                    "coord": "1862,2205,164,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4075727-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "46",
+        "StdName": "S\u00e4ntiskette",
+        "LastNames": [],
+        "FirstNames": [
+            "S\u00e4ntis-kette/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 296,
+                    "coord": "2020,2317,91,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "dkm-001_1941_001_0427.txt",
+                    "lineNo": 297,
+                    "coord": "1602,2357,66,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4051248-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "47",
+        "StdName": "Appenzellerland",
+        "LastNames": [],
+        "FirstNames": [
+            "ostschweizerischer/ADJ",
+            "Appenzellerland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0428.txt",
+                    "lineNo": 186,
+                    "coord": "1046,886,260,36",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 172,
+                    "coord": "657,1477,258,35",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 217,
+                    "coord": "1010,1648,282,27",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4308850-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "48",
+        "StdName": "Toggenburg",
+        "LastNames": [],
+        "FirstNames": [
+            "Toggenburg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 174,
+                    "coord": "994,1477,184,35",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0432.txt",
+                    "lineNo": 197,
+                    "coord": "560,1591,184,35",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4060340-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "49",
+        "StdName": "Bern",
+        "LastNames": [],
+        "FirstNames": [
+            "Bern/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0436.txt",
+                    "lineNo": 1115,
+                    "coord": "1819,2370,61,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005762-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "50",
+        "StdName": "Nordschweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "Nordschweiz/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0437.txt",
+                    "lineNo": 478,
+                    "coord": "1876,1743,142,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4122644-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "51",
+        "StdName": "Kanton Z\u00fcrich",
+        "LastNames": [],
+        "FirstNames": [
+            "Z\u00fcrich/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 73,
+                    "coord": "189,748,92,27",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4068041-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "52",
+        "StdName": "Amerika",
+        "LastNames": [],
+        "FirstNames": [
+            "Amerikaner/DERIV",
+            "Amerikaner/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0440.txt",
+                    "lineNo": 1315,
+                    "coord": "1645,2584,164,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 711,
+                    "coord": "1658,593,156,21",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 734,
+                    "coord": "1502,664,156,22",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 33,
+                    "coord": "606,2374,162,25",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 65,
+                    "coord": "823,2445,155,21",
+                    "note": "DERIV",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4001670-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "53",
+        "StdName": "Brugg",
+        "LastNames": [],
+        "FirstNames": [
+            "Brugg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0441.txt",
+                    "lineNo": 407,
+                    "coord": "353,2019,86,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4090211-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "54",
+        "StdName": "Wyssbad",
+        "LastNames": [],
+        "FirstNames": [
+            "Wy\u00dfbad/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0442.txt",
+                    "lineNo": 756,
+                    "coord": "1571,736,112,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4496214-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "55",
+        "StdName": "Meglisalp",
+        "LastNames": [],
+        "FirstNames": [
+            "Meglisalp/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 92,
+                    "coord": "1512,2481,121,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1064779395",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "56",
+        "StdName": "Seealp",
+        "LastNames": [],
+        "FirstNames": [
+            "Seealp/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "dkm-001_1941_001_0443.txt",
+                    "lineNo": 88,
+                    "coord": "1230,2481,83,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    }
+]

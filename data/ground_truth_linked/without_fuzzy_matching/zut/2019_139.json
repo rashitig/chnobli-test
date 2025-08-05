@@ -1,0 +1,3246 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Jesu"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "427,328,72,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "850,747,75,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Zwingli"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Reformator"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "873,864,173,30:main",
+                            "1053,864,117,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Wemi"
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0208.txt": {
+                "pid": "zut-001:2019:139:e211",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "759,1533,96,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Bluntschlis"
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "503,797,163,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Humboldt'sche"
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "704,1531,224,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0217.txt": {
+                "pid": "zut-001:2019:139:e220",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "142,384,229,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Antheil",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "673,1692,101,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": "118649604"
+    },
+    {
+        "lastname": "Biirgi",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Regierungsrat"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1083,1121,98,36;140,1170,122,31:main",
+                            "273,1164,83,37:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Bluntschli",
+        "firstname": [
+            "johann Caspar"
+        ],
+        "abbr_firstname": [
+            "J. C."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Jurist",
+            "Jurist",
+            "Dr.",
+            "Konservative",
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0209.txt": {
+                "pid": "zut-001:2019:139:e212",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "991,899,83,37:main",
+                            "1085,897,96,29;141,940,65,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "205,942,150,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "927,411,48,26:main",
+                            "983,408,152,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "436,1141,153,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "135,500,84,36:main",
+                            "231,500,48,26:main",
+                            "292,496,161,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "848,1444,154,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0219.txt": {
+                "pid": "zut-001:2019:139:e222",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "371,776,157,35:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "681,863,152,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "636,996,213,26:main",
+                            "850,993,119,38:main",
+                            "979,997,101,35:main",
+                            "1086,993,96,29;141,1036,71,35:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "478,1169,22,36:main",
+                            "511,1168,32,27:main",
+                            "551,1166,152,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id":"118512129"
+    },
+    {
+        "lastname": "Bullinger",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "der",
+                "Antistes"
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0206.txt": {
+                "pid": "zut-001:2019:139:e209",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "708,710,141,38:main",
+                            "859,710,49,29:main",
+                            "916,712,127,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "B\u00fcrgi",
+        "firstname": [
+            "David"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Regierungsrat"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "167,1621,73,23:main",
+                            "246,1623,77,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "732,1294,209,36:main",
+                            "951,1295,85,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id":"103131442"
+    },
+    {
+        "lastname": "B\u00fcrkli",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "836,1606,85,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Christi",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "953,690,117,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Christus",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "242,713,123,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Craig",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1102,1656,74,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "F\u00fcssli",
+        "firstname": [
+            "Antistes"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Motion\u00e4r"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0207.txt": {
+                "pid": "zut-001:2019:139:e210",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "660,291,119,27:main",
+                            "791,289,90,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "262,158,83,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "215,1144,141,27:main",
+                            "367,1141,83,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0217.txt": {
+                "pid": "zut-001:2019:139:e220",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1090,1119,90,27;142,1168,39,21:main",
+                            "195,1160,89,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0220.txt": {
+                "pid": "zut-001:2019:139:e223",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "641,665,83,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "617,179,118,28:main",
+                            "749,178,90,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1123,311,57,25;141,352,71,27:main",
+                            "222,350,82,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id":"100130607"
+    },
+    {
+        "lastname": "Gagliardi",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0222.txt": {
+                "pid": "zut-001:2019:139:e225",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "905,1561,121,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Geizer",
+        "firstname": [
+            "Heinrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "626,387,133,29:main",
+                            "774,387,106,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "141,660,90,29:main",
+                            "141,660,90,29:rpunc",
+                            "240,660,119,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gessner",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "543,1215,106,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Hegetschweiler",
+        "firstname": [
+            "Johannes"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Regierungsrat"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "386,601,209,37:main",
+                            "599,599,140,38:main",
+                            "751,599,234,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id":"118631055"
+    },
+    {
+        "lastname": "Hirzel",
+        "firstname": [
+            "Bernhard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Pfarrer",
+            "B\u00fcrgermeister"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0207.txt": {
+                "pid": "zut-001:2019:139:e210",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "958,1615,87,24:main",
+                            "1052,1616,120,23:main",
+                            "165,1649,86,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0210.txt": {
+                "pid": "zut-001:2019:139:e213",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "557,1312,217,37:main",
+                            "784,1311,102,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "741,295,93,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "248,1616,79,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "497,996,221,36:main",
+                            "733,993,96,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "387,1166,94,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "864,213,143,30:main",
+                            "1016,213,102,35:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "580,1692,85,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "140,999,86,29:main",
+                            "140,999,86,29:rpunc",
+                            "234,999,126,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id":"11691615X"
+    },
+    {
+        "lastname": "Htirlimann-Landis",
+        "firstname": [
+            "Hans Jakob"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "326,1489,63,21:main",
+                            "393,1487,73,31:main",
+                            "475,1487,240,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Huber",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "895,1124,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Humboldt",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "403,1531,156,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Keller",
+        "firstname": [
+            "Friedrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr.",
+            "Jurist"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0208.txt": {
+                "pid": "zut-001:2019:139:e211",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "134,274,84,37:main",
+                            "230,272,137,29:main",
+                            "381,272,97,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "511,1531,134,29:main",
+                            "654,1530,97,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1083,900,90,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "869,1292,47,25:main",
+                            "926,1289,92,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "439,1185,93,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0218.txt": {
+                "pid": "zut-001:2019:139:e221",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "782,1445,137,29:main",
+                            "928,1444,91,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0219.txt": {
+                "pid": "zut-001:2019:139:e222",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "261,259,91,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0222.txt": {
+                "pid": "zut-001:2019:139:e225",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "816,313,139,29:main",
+                            "967,313,91,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id":"100177085"
+    },
+    {
+        "lastname": "Knonau",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "288,1091,107,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Meyer",
+        "firstname": [
+            "Ludwig"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "846,1088,98,33:main",
+                            "952,1091,84,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "405,1088,103,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Meyer",
+        "firstname": [
+            "Gerold"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "533,1124,88,25:main",
+                            "629,1126,85,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Meyer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Erziehungsrat"
+        ],
+        "other": [
+            [
+                "Erziehungsrat"
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0209.txt": {
+                "pid": "zut-001:2019:139:e212",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "164,1648,173,32:main",
+                            "345,1651,84,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "964,345,209,39:main",
+                            "141,392,99,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0218.txt": {
+                "pid": "zut-001:2019:139:e221",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "139,497,208,38:main",
+                            "358,500,99,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "733,755,208,39:main",
+                            "950,759,99,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "804,931,105,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "139,1091,84,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Moos",
+        "firstname": [
+            "Carlo"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "739,1661,75,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "680,527,82,29:main",
+                            "775,530,84,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "168,1628,75,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "168,1662,75,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id":"136379389"
+    },
+    {
+        "lastname": "Muralt",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0207.txt": {
+                "pid": "zut-001:2019:139:e210",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "207,1068,105,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0210.txt": {
+                "pid": "zut-001:2019:139:e213",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "226,1629,92,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Pate",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0218.txt": {
+                "pid": "zut-001:2019:139:e221",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "489,1362,62,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Pindar",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1000,908,96,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Rahn-Escher",
+        "firstname": [
+            "Hans Konrad"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "246,1522,63,21:main",
+                            "318,1521,93,22:main",
+                            "419,1520,165,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id":"116324945"
+    },
+    {
+        "lastname": "Scheitlin",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "140,1338,109,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Scherr",
+        "firstname": [
+            "Ignaz Thomas"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Seminardirektor"
+        ],
+        "other": [
+            [
+                ","
+            ]
+        ],
+        "references": {
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1096,1135,86,27;141,1176,169,30:main",
+                            "320,1180,81,35:main",
+                            "411,1176,123,30:main",
+                            "545,1176,141,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "141,1267,85,28:main",
+                            "141,1267,85,28:rpunc",
+                            "236,1269,69,31:main",
+                            "313,1267,110,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id":"118834126"
+    },
+    {
+        "lastname": "Schlag",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "170,1637,86,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "226,1670,86,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schleiermachers",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1048,649,131,28;141,692,121,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schulthess",
+        "firstname": [
+            "Johannes"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "165,1503,115,30:main",
+                            "290,1502,133,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schulthess",
+        "firstname": [
+            "Friedrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "140,1391,136,30:main",
+                            "140,1391,136,30:rpunc",
+                            "286,1391,121,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Schulthess",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Chorherr"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "722,1080,178,29:main",
+                            "914,1080,178,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1090,1123,92,28;142,1166,71,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "638,1252,143,29:main",
+                            "795,1252,164,35:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "477,1512,153,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gt_gnd_id":"100401961"
+    },
+    {
+        "lastname": "Schweizer",
+        "firstname": [
+            "Alexander"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Theologieprofessor",
+            "Universit\u00e4tsprofessor"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1015,583,166,38;141,627,137,38:main",
+                            "284,627,154,28:main",
+                            "447,627,158,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1109,1404,70,26;137,1444,296,39:main",
+                            "445,1444,156,29:main",
+                            "613,1444,155,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gt_gnd_id":"118612158"
+    },
+    {
+        "lastname": "Strauss",
+        "firstname": [
+            "David Friedrich"
+        ],
+        "abbr_firstname": [
+            "D. F."
+        ],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0206.txt": {
+                "pid": "zut-001:2019:139:e209",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "722,1666,101,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0207.txt": {
+                "pid": "zut-001:2019:139:e210",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "342,812,99,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "285,1029,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0209.txt": {
+                "pid": "zut-001:2019:139:e212",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "650,467,101,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "817,1116,101,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1010,1289,101,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "257,1419,99,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0210.txt": {
+                "pid": "zut-001:2019:139:e213",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1070,232,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "207,341,99,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "219,1075,108,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1014,455,47,25:main",
+                            "1072,455,97,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "143,1040,107,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1071,1515,101,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0214.txt": {
+                "pid": "zut-001:2019:139:e217",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "173,241,100,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "141,544,48,26:main",
+                            "201,544,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "364,673,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "605,1148,107,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1067,478,108,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "832,1170,48,26:main",
+                            "891,1170,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0216.txt": {
+                "pid": "zut-001:2019:139:e219",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "510,1188,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0217.txt": {
+                "pid": "zut-001:2019:139:e220",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "805,171,104,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "213,214,99,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "208,344,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "323,947,100,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "960,1422,107,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0218.txt": {
+                "pid": "zut-001:2019:139:e221",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "655,629,111,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "709,671,100,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0219.txt": {
+                "pid": "zut-001:2019:139:e222",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "626,650,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0220.txt": {
+                "pid": "zut-001:2019:139:e223",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "560,407,100,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "356,711,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "340,1013,102,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "579,1142,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "141,1315,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1073,775,104,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "141,991,99,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1070,1035,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "368,1338,102,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0222.txt": {
+                "pid": "zut-001:2019:139:e225",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "301,833,92,29:main",
+                            "406,832,139,30:main",
+                            "558,836,102,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1012,1399,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "986,823,34,26:main",
+                            "1033,824,26,25:main",
+                            "1072,823,100,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "638,605,99,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "273,1093,102,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "190,948,78,21:main",
+                            "277,948,41,22:main",
+                            "328,947,90,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gt_gnd_id":"118619055"
+    },
+    {
+        "lastname": "Surber",
+        "firstname": [
+            "Heinrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "F\u00fcrsprech"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1114,1041,65,25;141,1080,94,39:main",
+                            "245,1080,103,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "140,1607,89,29:main",
+                            "140,1607,89,29:rpunc",
+                            "239,1607,119,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 42,
+        "gt_gnd_id":"124488717X"
+    },
+    {
+        "lastname": "Suter",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "222,1556,68,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 43,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "V\u00f6geli",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dekan"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1072,382,101,29:main",
+                            "137,424,98,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0217.txt": {
+                "pid": "zut-001:2019:139:e220",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "314,1246,100,29:main",
+                            "423,1245,99,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 44,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Weinmann",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "824,312,173,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "167,1561,148,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 45,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Widmer",
+        "firstname": [
+            "Sigmund"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "450,689,134,39:main",
+                            "597,689,130,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "135,1080,131,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "166,1659,112,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 46,
+        "gt_gnd_id":"117342718"
+    },
+    {
+        "lastname": "Zehnder",
+        "firstname": [
+            "Ulrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Staatsanwalt"
+        ],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0215.txt": {
+                "pid": "zut-001:2019:139:e218",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1085,436,94,26;141,475,99,30:main",
+                            "253,475,104,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0217.txt": {
+                "pid": "zut-001:2019:139:e220",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "194,168,95,29:main",
+                            "295,168,128,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "646,1418,96,30:main",
+                            "749,1419,127,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 47,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Zollikofer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "315,1338,133,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 48,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Zwingiis",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "938,1123,136,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 49,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Z\u00fcriputsch",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "299,1554,143,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "240,1593,143,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "166,1692,136,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 50,
+        "gt_gnd_id":""
+    },
+    {
+        "name": "Aargau",
+        "tokens": [
+            "Aargau"
+        ],
+        "type": "CTR",
+        "references": {
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "285,1353,109,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 51
+    },
+    {
+        "name": "Adentschweil",
+        "tokens": [
+            "Adentschweil"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "654,1619,216,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 52
+    },
+    {
+        "name": "B\u00e4retswil",
+        "tokens": [
+            "B\u00e4retswil"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "527,1621,116,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 53
+    },
+    {
+        "name": "Deutschland",
+        "tokens": [
+            "Deutschland"
+        ],
+        "type": "CTR",
+        "references": {
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "140,1201,200,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "405,754,233,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 54
+    },
+    {
+        "name": "Elottingen",
+        "tokens": [
+            "Elottingen"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "180,395,154,37:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 55
+    },
+    {
+        "name": "Fluntern",
+        "tokens": [
+            "Fluntern"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1013,1621,113,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 56
+    },
+    {
+        "name": "Frauenfeld",
+        "tokens": [
+            "Frauenfeld"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "993,1124,138,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 57
+    },
+    {
+        "name": "Hamburg",
+        "tokens": [
+            "Hamburg"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "141,695,123,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 58
+    },
+    {
+        "name": "Kloten",
+        "tokens": [
+            "Kloten"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "140,425,103,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 59
+    },
+    {
+        "name": "Knonau",
+        "tokens": [
+            "Knonau"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "778,1126,107,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 60
+    },
+    {
+        "name": "Luzern",
+        "tokens": [
+            "Luzern"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "518,1353,109,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 61
+    },
+    {
+        "name": "Neum\u00fcnster",
+        "tokens": [
+            "Neum\u00fcnster"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "644,354,191,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 62
+    },
+    {
+        "name": "Pf\u00e4ffikon",
+        "tokens": [
+            "Pf\u00e4ffikon"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0223.txt": {
+                "pid": "zut-001:2019:139:e226",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "504,300,137,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "577,396,153,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 63
+    },
+    {
+        "name": "Richterswil",
+        "tokens": [
+            "Richterswil"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1027,1487,149,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 64
+    },
+    {
+        "name": "Schweiz",
+        "tokens": [
+            "Schweiz"
+        ],
+        "type": "CTR",
+        "references": {
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "682,1159,132,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 65
+    },
+    {
+        "name": "St. Gallen",
+        "tokens": [
+            "St.",
+            "Gallen"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "457,1340,29,23:main",
+                            "496,1338,83,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 66
+    },
+    {
+        "name": "Z\u00fcrich",
+        "tokens": [
+            "Z\u00fcrich"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0206.txt": {
+                "pid": "zut-001:2019:139:e209",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "586,321,102,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "385,1332,111,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0212.txt": {
+                "pid": "zut-001:2019:139:e215",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "501,1013,123,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0213.txt": {
+                "pid": "zut-001:2019:139:e216",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "345,1209,102,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0221.txt": {
+                "pid": "zut-001:2019:139:e224",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "833,1521,91,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0222.txt": {
+                "pid": "zut-001:2019:139:e225",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1057,703,114,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "251,1659,91,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "931,1607,86,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 67
+    },
+    {
+        "name": "Z\u00fcrich",
+        "tokens": [
+            "Z\u00fcrich"
+        ],
+        "type": "CTR",
+        "references": {
+            "zut-001_2019_139_0211.txt": {
+                "pid": "zut-001:2019:139:e214",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "571,468,101,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            },
+            "zut-001_2019_139_0225.txt": {
+                "pid": "zut-001:2019:139:e228",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "671,1302,87,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 68
+    },
+    {
+        "name": "Z\u00fcriputsch",
+        "tokens": [
+            "Z\u00fcriputsch"
+        ],
+        "type": "CIT",
+        "references": {
+            "zut-001_2019_139_0224.txt": {
+                "pid": "zut-001:2019:139:e227",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "704,1593,142,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e343"
+                ]
+            }
+        },
+        "id": 69
+    }
+]

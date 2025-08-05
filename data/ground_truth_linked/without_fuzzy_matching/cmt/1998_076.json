@@ -1,0 +1,3823 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Kilian"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "976,2002,87,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "0."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "217,375,36,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "H. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Jr."
+            ]
+        ],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 75,
+                        "coords": [
+                            "566,2370,44,23:main",
+                            "566,2370,44,23:main",
+                            "623,2370,25,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "u."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "185,1739,22,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Siemens"
+            ]
+        ],
+        "references": {
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 34,
+                        "coords": [
+                            "1301,1179,115,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Armstrong",
+        "firstname": [],
+        "abbr_firstname": [
+            "A. G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "239,945,150,29:main",
+                            "239,945,150,29:rpunc",
+                            "401,944,58,24:main",
+                            "401,944,58,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "219,1732,159,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Arnold",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "106,373,97,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Birchall",
+        "firstname": [],
+        "abbr_firstname": [
+            "D."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "107,455,101,29:main",
+                            "107,455,101,29:rpunc",
+                            "222,457,34,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": "171726375"
+    },
+    {
+        "lastname": "Bitschnau",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 47,
+                        "coords": [
+                            "284,1554,135,28:main",
+                            "284,1554,135,28:rpunc",
+                            "431,1555,54,27:main",
+                            "431,1555,54,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Borman",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "108,498,109,26:main",
+                            "108,498,109,26:rpunc",
+                            "232,498,40,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Bramaz",
+        "firstname": [],
+        "abbr_firstname": [
+            "H. R."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "164,2745,26,24:main",
+                            "205,2745,22,24:main",
+                            "242,2744,106,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": "135822513"
+    },
+    {
+        "lastname": "Byrne",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "108,538,79,30:main",
+                            "108,538,79,30:rpunc",
+                            "200,538,46,23:main",
+                            "200,538,46,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Chatterjee",
+        "firstname": [],
+        "abbr_firstname": [
+            "S."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1394,901,153,33:main",
+                            "1394,901,153,33:rpunc",
+                            "1562,903,31,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": "143232991"
+    },
+    {
+        "lastname": "Coleman",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 75,
+                        "coords": [
+                            "426,2368,127,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Crowston",
+        "firstname": [],
+        "abbr_firstname": [
+            "K."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 37,
+                        "coords": [
+                            "304,1270,136,27:main",
+                            "304,1270,136,27:rpunc",
+                            "455,1271,23,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Davidow",
+        "firstname": [],
+        "abbr_firstname": [
+            "W. H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "108,618,120,29:main",
+                            "108,618,120,29:rpunc",
+                            "240,620,72,27:main",
+                            "240,620,72,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": "170219712"
+    },
+    {
+        "lastname": "Dopfer",
+        "firstname": [],
+        "abbr_firstname": [
+            "K."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "108,699,94,31:main",
+                            "108,699,94,31:rpunc",
+                            "216,701,24,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": "114127565"
+    },
+    {
+        "lastname": "Eccles",
+        "firstname": [],
+        "abbr_firstname": [
+            "R. G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 40,
+                        "coords": [
+                            "264,1350,83,28:main",
+                            "264,1350,83,28:rpunc",
+                            "362,1351,53,24:main",
+                            "362,1351,53,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": "170020258"
+    },
+    {
+        "lastname": "Faisst",
+        "firstname": [],
+        "abbr_firstname": [
+            "W."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "268,375,76,28:main",
+                            "268,375,76,28:rpunc",
+                            "356,376,42,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": "12041368X"
+    },
+    {
+        "lastname": "Frost",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "206,672,74,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "52,1392,66,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1316,1223,65,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "GISIGER",
+        "firstname": [
+            "HANS PETER"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0062.txt": {
+                "pid": "cmt-004:1998:76:e65",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "96,1377,78,25:main",
+                            "189,1378,81,23:main",
+                            "284,1377,119,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Gabler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 43,
+                        "coords": [
+                            "1797,1391,90,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 79,
+                        "coords": [
+                            "1072,2449,91,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Gerhardt",
+        "firstname": [
+            "Stefan"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1551,1220,87,26:main",
+                            "1653,1220,124,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Ginsburg",
+        "firstname": [],
+        "abbr_firstname": [
+            "D."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1394,352,135,32:main",
+                            "1394,352,135,32:rpunc",
+                            "1543,354,37,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": "173247547"
+    },
+    {
+        "lastname": "Gisiger",
+        "firstname": [
+            "Hans Peter"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "225,239,76,23:main",
+                            "312,239,83,23:main",
+                            "406,237,110,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "501,787,69,25:main",
+                            "581,787,42,24;45,832,38,23:main",
+                            "94,830,97,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Goldman",
+        "firstname": [],
+        "abbr_firstname": [
+            "S. L."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "107,781,129,28:main",
+                            "107,781,129,28:rpunc",
+                            "250,782,52,27:main",
+                            "250,782,52,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": "132305437"
+    },
+    {
+        "lastname": "Grandori",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "107,820,124,30:main",
+                            "107,820,124,30:rpunc",
+                            "243,822,36,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": "171013476"
+    },
+    {
+        "lastname": "Grenier",
+        "firstname": [],
+        "abbr_firstname": [
+            "R."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "107,862,101,28:main",
+                            "107,862,101,28:rpunc",
+                            "223,864,29,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Griese",
+        "firstname": [
+            "Joachim"
+        ],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof.",
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 47,
+                        "coords": [
+                            "500,1554,88,28:main",
+                            "500,1554,88,28:rpunc",
+                            "600,1555,25,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "975,1624,71,25:main",
+                            "1061,1626,38,23:main",
+                            "1111,1624,126,25:main",
+                            "1250,1624,96,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": "143770640"
+    },
+    {
+        "lastname": "Hagel",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "108,943,81,31:main",
+                            "108,943,81,31:rpunc",
+                            "201,945,25,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "83,1731,87,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": "172149924"
+    },
+    {
+        "lastname": "Haupt",
+        "firstname": [
+            "Paul"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 87,
+                        "coords": [
+                            "626,2653,51,25:main",
+                            "692,2654,86,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": "1080612920"
+    },
+    {
+        "lastname": "Herrmann",
+        "firstname": [],
+        "abbr_firstname": [
+            "T."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "108,1026,139,27:main",
+                            "108,1026,139,27:rpunc",
+                            "260,1025,18,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id": "137049277"
+    },
+    {
+        "lastname": "Hopland",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "108,1106,119,31:main",
+                            "108,1106,119,31:rpunc",
+                            "239,1107,40,23:main",
+                            "239,1107,40,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "H\u00e4rtling",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "412,373,112,33:main",
+                            "412,373,112,33:rpunc",
+                            "538,376,40,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Jarillo",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. C."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "106,1187,82,29:main",
+                            "106,1187,82,29:rpunc",
+                            "200,1189,55,27:main",
+                            "200,1189,55,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id": "124672280"
+    },
+    {
+        "lastname": "K\u00e4mpfen",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1075,2002,150,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id": "1146470444"
+    },
+    {
+        "lastname": "LANE",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 33,
+                        "coords": [
+                            "1496,1434,72,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Lindemann",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 60,
+                        "coords": [
+                            "269,1961,154,28:main",
+                            "269,1961,154,28:rpunc",
+                            "438,1963,31,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id": "122493761"
+    },
+    {
+        "lastname": "Luedi",
+        "firstname": [],
+        "abbr_firstname": [
+            "A. F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 34,
+                        "coords": [
+                            "108,1228,77,28:main",
+                            "108,1228,77,28:rpunc",
+                            "197,1229,45,23:main",
+                            "197,1229,45,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0051.txt": {
+                "pid": "cmt-004:1998:76:e54",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "511,2449,91,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Lyons",
+        "firstname": [],
+        "abbr_firstname": [
+            "L."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "269,457,79,30:main",
+                            "269,457,79,30:rpunc",
+                            "362,457,18,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Magnusson",
+        "firstname": [],
+        "abbr_firstname": [
+            "L."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1512,701,161,29:main",
+                            "1512,701,161,29:rpunc",
+                            "1687,701,18,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gt_gnd_id": "123886872"
+    },
+    {
+        "lastname": "Malone",
+        "firstname": [],
+        "abbr_firstname": [
+            "M. S."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "327,618,106,29:main",
+                            "327,618,106,29:rpunc",
+                            "447,620,57,23:main",
+                            "447,620,57,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gt_gnd_id": "120087251"
+    },
+    {
+        "lastname": "Malone",
+        "firstname": [],
+        "abbr_firstname": [
+            "T. W."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 37,
+                        "coords": [
+                            "108,1268,106,29:main",
+                            "108,1268,106,29:rpunc",
+                            "227,1270,63,27:main",
+                            "227,1270,63,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 42,
+        "gt_gnd_id": "170638235"
+    },
+    {
+        "lastname": "Metes",
+        "firstname": [],
+        "abbr_firstname": [
+            "G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "267,864,86,27:main",
+                            "267,864,86,27:rpunc",
+                            "367,864,27,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 43,
+        "gt_gnd_id": "1024524167"
+    },
+    {
+        "lastname": "Miles",
+        "firstname": [],
+        "abbr_firstname": [
+            "R. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 75,
+                        "coords": [
+                            "269,2367,75,29:main",
+                            "269,2367,75,29:rpunc",
+                            "358,2369,55,27:main",
+                            "358,2369,55,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 44,
+        "gt_gnd_id": "170251462"
+    },
+    {
+        "lastname": "Nagel",
+        "firstname": [],
+        "abbr_firstname": [
+            "R. N."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "316,781,82,30:main",
+                            "316,781,82,30:rpunc",
+                            "412,782,60,27:main",
+                            "412,782,60,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 45,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Nohria",
+        "firstname": [],
+        "abbr_firstname": [
+            "N."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 40,
+                        "coords": [
+                            "108,1350,94,28:main",
+                            "108,1350,94,28:rpunc",
+                            "216,1351,35,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 46,
+        "gt_gnd_id": "170415708"
+    },
+    {
+        "lastname": "Oberquelle",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "323,1065,153,31:main",
+                            "323,1065,153,31:rpunc",
+                            "489,1067,26,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 46,
+                        "coords": [
+                            "1609,1472,151,32:main",
+                            "1609,1472,151,32:rpunc",
+                            "1775,1475,25,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 47,
+        "gt_gnd_id": "172292743"
+    },
+    {
+        "lastname": "Picot",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 42,
+                        "coords": [
+                            "108,1391,70,28:main",
+                            "108,1391,70,28:rpunc",
+                            "190,1392,35,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 48,
+        "gt_gnd_id": "124387195"
+    },
+    {
+        "lastname": "Piepenburg",
+        "firstname": [],
+        "abbr_firstname": [
+            "U."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 44,
+                        "coords": [
+                            "108,1472,158,31:main",
+                            "108,1472,158,31:rpunc",
+                            "280,1473,25,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 49,
+        "gt_gnd_id": "1054614431"
+    },
+    {
+        "lastname": "Preiss",
+        "firstname": [],
+        "abbr_firstname": [
+            "K."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "486,781,70,24:main",
+                            "569,782,23,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 50,
+        "gt_gnd_id": "171914252"
+    },
+    {
+        "lastname": "Probst",
+        "firstname": [
+            "Andr\u00e9"
+        ],
+        "abbr_firstname": [
+            "A. R.",
+            "R."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof.",
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 47,
+                        "coords": [
+                            "108,1554,88,28:main",
+                            "108,1554,88,28:rpunc",
+                            "208,1555,62,27:main",
+                            "208,1555,62,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 49,
+                        "coords": [
+                            "108,1635,88,29:main",
+                            "108,1635,88,29:rpunc",
+                            "209,1637,61,27:main",
+                            "209,1637,61,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 52,
+                        "coords": [
+                            "108,1716,88,29:main",
+                            "108,1716,88,29:rpunc",
+                            "209,1718,62,27:main",
+                            "209,1718,62,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 55,
+                        "coords": [
+                            "108,1798,88,29:main",
+                            "108,1798,88,29:rpunc",
+                            "208,1800,62,26:main",
+                            "208,1800,62,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "976,2379,70,26:main",
+                            "1060,2382,39,23:main",
+                            "1112,2379,96,26:main",
+                            "1219,2382,26,23:main",
+                            "1258,2380,101,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "84,1774,85,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 51,
+        "gt_gnd_id": "170104664"
+    },
+    {
+        "lastname": "Rambold",
+        "firstname": [
+            "Thomas"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dipl.",
+            "Ing."
+        ],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0060.txt": {
+                "pid": "cmt-004:1998:76:e63",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "1420,1713,106,27:main",
+                            "1420,1713,106,27:main",
+                            "1536,1713,93,22:main",
+                            "1641,1713,102,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 52,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Reichwald",
+        "firstname": [],
+        "abbr_firstname": [
+            "R."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 42,
+                        "coords": [
+                            "240,1390,141,29:main",
+                            "240,1390,141,29:rpunc",
+                            "395,1392,30,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 53,
+        "gt_gnd_id": "123191629"
+    },
+    {
+        "lastname": "Rheingold",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 58,
+                        "coords": [
+                            "108,1920,140,31:main",
+                            "108,1920,140,31:rpunc",
+                            "262,1922,25,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 54,
+        "gt_gnd_id": "133734382"
+    },
+    {
+        "lastname": "Ricart",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "269,1188,80,28:main",
+                            "269,1188,80,28:rpunc",
+                            "361,1189,41,23:main",
+                            "361,1189,41,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 55,
+        "gt_gnd_id": "128382805"
+    },
+    {
+        "lastname": "Schmid",
+        "firstname": [],
+        "abbr_firstname": [
+            "B."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 60,
+                        "coords": [
+                            "108,1961,103,28:main",
+                            "108,1961,103,28:rpunc",
+                            "225,1963,30,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 56,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schr\u00e4ge",
+        "firstname": [],
+        "abbr_firstname": [
+            "M."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 63,
+                        "coords": [
+                            "108,2042,112,31:main",
+                            "108,2042,112,31:rpunc",
+                            "235,2044,31,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 57,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schwarzer",
+        "firstname": [],
+        "abbr_firstname": [
+            "B."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 65,
+                        "coords": [
+                            "108,2083,141,29:main",
+                            "108,2083,141,29:rpunc",
+                            "262,2084,22,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 58,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Sieber",
+        "firstname": [],
+        "abbr_firstname": [
+            "P."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "592,374,84,29:main",
+                            "592,374,84,29:rpunc",
+                            "691,376,13,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 49,
+                        "coords": [
+                            "284,1635,85,29:main",
+                            "284,1635,85,29:rpunc",
+                            "383,1637,14,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 68,
+                        "coords": [
+                            "108,2164,84,30:main",
+                            "108,2164,84,30:rpunc",
+                            "207,2166,14,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 70,
+                        "coords": [
+                            "108,2245,85,29:main",
+                            "108,2245,85,29:rpunc",
+                            "207,2247,14,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 59,
+        "gt_gnd_id": "120128519"
+    },
+    {
+        "lastname": "Snow",
+        "firstname": [
+            "C"
+        ],
+        "abbr_firstname": [
+            "C."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 75,
+                        "coords": [
+                            "108,2369,78,27:main",
+                            "108,2369,78,27:rpunc",
+                            "200,2369,55,27:main",
+                            "200,2369,55,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 60,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Soda",
+        "firstname": [],
+        "abbr_firstname": [
+            "G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "293,820,71,30:main",
+                            "293,820,71,30:rpunc",
+                            "378,822,27,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 61,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Sullivan",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "326,670,130,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "161,1391,104,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1425,1220,112,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 62,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Suter",
+        "firstname": [
+            "Benno"
+        ],
+        "abbr_firstname": [
+            "B."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Lie"
+        ],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 47,
+                        "coords": [
+                            "639,1554,72,28:main",
+                            "639,1554,72,28:rpunc",
+                            "725,1555,21,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "976,1261,99,23:main",
+                            "1085,1260,88,28:main",
+                            "1085,1260,88,28:rpunc",
+                            "1185,1259,34,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 63,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Sydow",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 78,
+                        "coords": [
+                            "108,2449,93,32:main",
+                            "108,2449,93,32:rpunc",
+                            "213,2451,16,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 80,
+                        "coords": [
+                            "108,2491,93,30:main",
+                            "108,2491,93,30:rpunc",
+                            "213,2492,24,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 82,
+                        "coords": [
+                            "1539,2490,93,31:main",
+                            "1539,2490,93,31:rpunc",
+                            "1644,2493,26,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 64,
+        "gt_gnd_id": "121691756"
+    },
+    {
+        "lastname": "Tanenbaum",
+        "firstname": [],
+        "abbr_firstname": [
+            "A. S."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 84,
+                        "coords": [
+                            "106,2571,163,29:main",
+                            "106,2571,163,29:rpunc",
+                            "282,2573,51,24:main",
+                            "282,2573,51,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 65,
+        "gt_gnd_id": "120278979"
+    },
+    {
+        "lastname": "Thon",
+        "firstname": [
+            "Ren\u00e9"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0069.txt": {
+                "pid": "cmt-004:1998:76:e72",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1540,437,57,21:main",
+                            "1605,435,67,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 66,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Van Nostrand Reinhold",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1328,782,48,23:main",
+                            "1389,781,121,24:main",
+                            "1522,780,122,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 67,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Weber",
+        "firstname": [],
+        "abbr_firstname": [
+            "B."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 86,
+                        "coords": [
+                            "106,2612,93,29:main",
+                            "106,2612,93,29:rpunc",
+                            "213,2614,21,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 68,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Wenger",
+        "firstname": [],
+        "abbr_firstname": [
+            "D."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 52,
+                        "coords": [
+                            "283,1718,110,30:main",
+                            "283,1718,110,30:rpunc",
+                            "406,1718,26,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 55,
+                        "coords": [
+                            "283,1799,110,30:main",
+                            "283,1799,110,30:rpunc",
+                            "406,1800,26,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "246,1775,111,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 69,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Wigand",
+        "firstname": [],
+        "abbr_firstname": [
+            "R. T."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 42,
+                        "coords": [
+                            "438,1391,112,31:main",
+                            "438,1391,112,31:rpunc",
+                            "565,1393,41,22:main",
+                            "565,1393,41,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 70,
+        "gt_gnd_id": "13956974X"
+    },
+    {
+        "lastname": "Williams",
+        "firstname": [],
+        "abbr_firstname": [
+            "H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "284,496,120,28:main",
+                            "284,496,120,28:rpunc",
+                            "418,498,25,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 71,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Windeier",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 80,
+                        "coords": [
+                            "250,2490,125,29:main",
+                            "250,2490,125,29:rpunc",
+                            "388,2493,26,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 82,
+                        "coords": [
+                            "1681,2491,126,28:main",
+                            "1681,2491,126,28:rpunc",
+                            "1819,2493,27,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 72,
+        "gt_gnd_id": ""
+    },
+    {
+        "name": "Anaheim",
+        "tokens": [
+            "Anaheim"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "908,2579,127,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 73
+    },
+    {
+        "name": "Ascona",
+        "tokens": [
+            "Ascona"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 48,
+                        "coords": [
+                            "1188,1596,104,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 74
+    },
+    {
+        "name": "Belp",
+        "tokens": [
+            "Belp"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1640,1697,59,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "id": 75
+    },
+    {
+        "name": "Berlin",
+        "tokens": [
+            "Berlin"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 62,
+                        "coords": [
+                            "108,2001,89,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 76
+    },
+    {
+        "name": "Bern",
+        "tokens": [
+            "Bern"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 87,
+                        "coords": [
+                            "792,2654,67,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1168,1881,68,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0062.txt": {
+                "pid": "cmt-004:1998:76:e65",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "418,1378,71,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "id": 77
+    },
+    {
+        "name": "Boston",
+        "tokens": [
+            "Boston"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 41,
+                        "coords": [
+                            "1737,1352,97,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 78
+    },
+    {
+        "name": "China",
+        "tokens": [
+            "China"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1357,2561,70,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 79
+    },
+    {
+        "name": "Deutschland",
+        "tokens": [
+            "Deutschland"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "53,1943,172,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "id": 80
+    },
+    {
+        "name": "Dordrecht",
+        "tokens": [
+            "Dordrecht"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1494,740,138,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 81
+    },
+    {
+        "name": "Dortmund",
+        "tokens": [
+            "Dortmund"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "1698,1795,146,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 82
+    },
+    {
+        "name": "Epfl",
+        "tokens": [
+            "EPFL"
+        ],
+        "type": "STR",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1213,2422,71,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 83
+    },
+    {
+        "name": "Eth",
+        "tokens": [
+            "ETH"
+        ],
+        "type": "STR",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1701,2381,54,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "547,660,59,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "id": 84
+    },
+    {
+        "name": "Ethz",
+        "tokens": [
+            "ETHZ"
+        ],
+        "type": "STR",
+        "references": {
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "512,745,73,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "id": 85
+    },
+    {
+        "name": "Fr",
+        "tokens": [
+            "FR"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0059.txt": {
+                "pid": "cmt-004:1998:76:e62",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "820,589,32,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 86
+    },
+    {
+        "name": "Frankfurt",
+        "tokens": [
+            "Frankfurt"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1452,1306,128,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "id": 87
+    },
+    {
+        "name": "Frankreich",
+        "tokens": [
+            "Frankreich"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "286,1900,142,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            }
+        },
+        "id": 88
+    },
+    {
+        "name": "Genf",
+        "tokens": [
+            "Genf"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0068.txt": {
+                "pid": "cmt-004:1998:76:e71",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "373,1376,75,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            },
+            "cmt-004_1998_076_0069.txt": {
+                "pid": "cmt-004:1998:76:e72",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "577,2750,72,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            }
+        },
+        "id": 89
+    },
+    {
+        "name": "Germany",
+        "tokens": [
+            "Germany"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1357,2526,109,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 90
+    },
+    {
+        "name": "Harvard",
+        "tokens": [
+            "Harvard"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1400,943,101,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 91
+    },
+    {
+        "name": "India",
+        "tokens": [
+            "India"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1358,2598,61,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 92
+    },
+    {
+        "name": "Japan",
+        "tokens": [
+            "Japan"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1356,2488,72,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            },
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 41,
+                        "coords": [
+                            "1468,2665,80,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 93
+    },
+    {
+        "name": "Kalifornien",
+        "tokens": [
+            "Kalifornien"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1046,2578,181,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 94
+    },
+    {
+        "name": "Lausanne",
+        "tokens": [
+            "Lausanne"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 57,
+                        "coords": [
+                            "654,1841,124,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1491,2636,138,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 95
+    },
+    {
+        "name": "Linz",
+        "tokens": [
+            "Linz"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1095,1709,56,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 96
+    },
+    {
+        "name": "Lisbon",
+        "tokens": [
+            "Lisbon"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 67,
+                        "coords": [
+                            "612,2123,91,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 97
+    },
+    {
+        "name": "London",
+        "tokens": [
+            "London"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 85,
+                        "coords": [
+                            "1056,2572,106,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 98
+    },
+    {
+        "name": "Los Angeles",
+        "tokens": [
+            "Los",
+            "Angeles"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 39,
+                        "coords": [
+                            "1141,1311,42,23:main",
+                            "1193,1310,114,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "897,2623,44,25:main",
+                            "952,2621,111,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 99
+    },
+    {
+        "name": "Massachusetts",
+        "tokens": [
+            "Massachusetts"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "108,984,200,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 100
+    },
+    {
+        "name": "Montbrillant",
+        "tokens": [
+            "Montbrillant"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0069.txt": {
+                "pid": "cmt-004:1998:76:e72",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "367,2154,127,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            }
+        },
+        "id": 101
+    },
+    {
+        "name": "M\u00fcnchen",
+        "tokens": [
+            "M\u00fcnchen"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1477,1666,138,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "348,475,153,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            },
+            "cmt-004_1998_076_0060.txt": {
+                "pid": "cmt-004:1998:76:e63",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "1582,1777,111,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 102
+    },
+    {
+        "name": "New Jersey",
+        "tokens": [
+            "New",
+            "Jersey"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1803,864,60,23:main",
+                            "105,904,83,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 103
+    },
+    {
+        "name": "New York",
+        "tokens": [
+            "New",
+            "York"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 64,
+                        "coords": [
+                            "1378,2045,59,22:main",
+                            "1447,2042,66,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 33,
+                        "coords": [
+                            "1737,840,63,24:main",
+                            "1811,838,62,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 104
+    },
+    {
+        "name": "Prentice-Hall",
+        "tokens": [
+            "Prentice-Hall"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 85,
+                        "coords": [
+                            "748,2571,172,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 105
+    },
+    {
+        "name": "Rotterdam",
+        "tokens": [
+            "Rotterdam"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 72,
+                        "coords": [
+                            "1521,2285,147,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 106
+    },
+    {
+        "name": "St. Gallen",
+        "tokens": [
+            "St.",
+            "Gallen"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 62,
+                        "coords": [
+                            "568,2003,31,23:main",
+                            "612,2002,91,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1463,2214,32,25:main",
+                            "1511,2212,88,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 107
+    },
+    {
+        "name": "Stuttgart",
+        "tokens": [
+            "Stuttgart"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 87,
+                        "coords": [
+                            "871,2653,126,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 108
+    },
+    {
+        "name": "Tokyo",
+        "tokens": [
+            "Tokyo"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 41,
+                        "coords": [
+                            "1302,2664,80,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            }
+        },
+        "id": 109
+    },
+    {
+        "name": "Us",
+        "tokens": [
+            "US"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0055.txt": {
+                "pid": "cmt-004:1998:76:e58",
+                "refs": [
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1357,2373,36,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e599"
+                ]
+            }
+        },
+        "id": 110
+    },
+    {
+        "name": "Usa",
+        "tokens": [
+            "USA"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0052.txt": {
+                "pid": "cmt-004:1998:76:e55",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "1233,1753,56,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            },
+            "cmt-004_1998_076_0061.txt": {
+                "pid": "cmt-004:1998:76:e64",
+                "refs": [
+                    {
+                        "sent": 33,
+                        "coords": [
+                            "1466,882,58,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e600"
+                ]
+            },
+            "cmt-004_1998_076_0069.txt": {
+                "pid": "cmt-004:1998:76:e72",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "46,422,67,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            }
+        },
+        "id": 111
+    },
+    {
+        "name": "Wien",
+        "tokens": [
+            "Wien"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 87,
+                        "coords": [
+                            "1008,2653,77,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 112
+    },
+    {
+        "name": "Wiesbaden",
+        "tokens": [
+            "Wiesbaden"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0050.txt": {
+                "pid": "cmt-004:1998:76:e53",
+                "refs": [
+                    {
+                        "sent": 83,
+                        "coords": [
+                            "1500,2531,157,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e597"
+                ]
+            }
+        },
+        "id": 113
+    },
+    {
+        "name": "Z\u00fcrich",
+        "tokens": [
+            "Z\u00fcrich"
+        ],
+        "type": "CIT",
+        "references": {
+            "cmt-004_1998_076_0053.txt": {
+                "pid": "cmt-004:1998:76:e56",
+                "refs": [
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "1641,1734,85,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e598"
+                ]
+            },
+            "cmt-004_1998_076_0067.txt": {
+                "pid": "cmt-004:1998:76:e70",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "107,491,93,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e601"
+                ]
+            }
+        },
+        "id": 114
+    },
+    {
+        "name": "\u00d6sterreich",
+        "tokens": [
+            "\u00d6sterreich"
+        ],
+        "type": "CTR",
+        "references": {
+            "cmt-004_1998_076_0069.txt": {
+                "pid": "cmt-004:1998:76:e72",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "279,377,141,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e602"
+                ]
+            }
+        },
+        "id": 115
+    }
+]

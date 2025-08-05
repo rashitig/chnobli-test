@@ -1,0 +1,3 @@
+In diesem File gibt es viele Heilige, die dann nur mit Vornamen erkannt wurden. Enthält keine Verlinkung zur GND
+ID 23: Balthasars Vorname im Genitiv als Nachname erkannt, nicht gelinkt
+ID 24: Benward statt Renward, nicht gelinkt

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  linking:
+    image: registry.ethz.ch/library/adl/nla/linking:v1
+    container_name: linking
+    build: ./services/linking
+    volumes:
+      - ./private/docs:/docs
+      - /mnt/adl/output:/output
+    command: tail -F anything

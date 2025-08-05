@@ -1,0 +1,21 @@
+ID 24: Nachname typo (Curtius nicht Curttus)
+ID 28: Nach und Vorname zusammengeschrieben, EduardVischer
+ID 31: Umlaut nicht richtig (Fröbel nicht Frobel), gelinkt, 118536303
+ID 32: Nachname nicht vollständig, gelinkt, 118706314
+ID 36: Nachname und Vorname gehören zu zwei verschiedenen Personen
+ID 41: Nachname typo (Hohenlohe-Schillingsfürst nicht Hohenlohe-Schilhngsfurst), gelinkt, 118706314
+ID 50: Umlaut nicht richtig (Lätt nicht Latt), gelinkt, 1116531658
+ID 52: Beruf nicht korrekt (kein König), gelinkt, 118812637
+ID 53: Ort/Geografikum, keine Person
+ID 55: Nachname typo (Mercier nicht Merciers), gelinkt, 140378359
+ID 58: Napoleon III., in GND nur ohne Luis auffindbar, gelinkt, 118586416
+ID 60: Nachname typo (Pioda nicht Piodas)
+ID 62: Nachname typo (Schazmann nicht Scha^mann), gelinkt, 1108827888
+ID 62: Nachname typo (Schüßler nicht Schiißler), gelinkt, 117133418
+ID 65: Umlaut nicht richtig (Schüßler nicht Schußler), gelinkt, 117133418
+ID 71: Nachname typo (Uber Tschudi und nicht Tschudi), trotzdem gefunden, gelinkt, 119315130
+ID 74: Umlaut nicht richtig (Varnbüler nicht Varnbuler), gelinkt, 102512752
+ID 75: Nachname typo (Vischer nicht Viseber), gelinkt, 10471977X
+ID 78: Nachname typo (Heer nicht oachim Heer), gelinkt, 132987635
+ID 78: Nachname typo (Bismarck nicht Bismarcks), trotzdem gefunden, gelinkt, 11851136X
+ID 87: Scheint Doublette in GND zu geben (Philippsborn, Adolf von 1076476279), es wurde 1221560190 verlinkt

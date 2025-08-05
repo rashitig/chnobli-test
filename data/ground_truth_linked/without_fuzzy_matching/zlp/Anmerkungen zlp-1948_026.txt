@@ -1,0 +1,7 @@
+ID 14: GND Eintrag für Dr. Werner Ammann (Pro Senectute Zentralsekretär) nicht vorhanden, wäre vorschlagens-wert
+ID 18: Typo Nachname (Etter nicht Effer)
+ID 19: Typo Nachname (Etter nicht Eher)
+ID 22: Variation Vorname Filippo nicht in GND vermerkt
+ID 25: Berufsbezeichnung kein Name
+ID 26: Körperschaft kein Name (Druckerei Müller, Werder & Co. AG 1065423659)
+ID 28: Körperschaft kein Name (Druckerei Müller, Werder & Co. AG 1065423659)

@@ -1,0 +1,6995 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "M"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "v"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "425,1284,73,20:main",
+                            "507,1290,15,13:main",
+                            "535,1283,25,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Hohenlohe"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "229,681,159,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Katl"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "K\u00f6nig"
+        ],
+        "other": [
+            [
+                "I."
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "378,216,93,33:main",
+                            "486,215,64,25:main",
+                            "565,217,19,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Augustin Thierry"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "853,1140,112,27:main",
+                            "980,1140,93,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Bismarck"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "722,1332,151,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "604,967,133,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Heers"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "239,470,90,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "186,1051,82,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "1120,220,81,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "851,1869,81,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "F\u00fcrst",
+                "Hohenlohe"
+            ],
+            [
+                "Hohenlohe"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "152,1807,135,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "162,764,76,23:main",
+                            "247,763,168,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "386,394,167,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Philippsborn"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "472,1260,186,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Frau",
+                "A.",
+                "FI"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "941,1698,55,20:main",
+                            "1005,1697,28,21:main",
+                            "1040,1697,28,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Heer"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "193,1593,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Heerschen"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1159,1035,80,24;163,1076,77,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Cavours"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "171,786,117,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Andreas",
+        "firstname": [
+            "Willy"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "478,1875,60,27:main",
+                            "549,1875,102,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1014,1470,60,27:main",
+                            "1085,1470,94,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": "118649213"
+    },
+    {
+        "lastname": "Bancroft",
+        "firstname": [],
+        "abbr_firstname": [
+            "G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "417,1354,138,21:main",
+                            "417,1354,138,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": "118656996"
+    },
+    {
+        "lastname": "Bethusy-Huc",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Grafen"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "627,1621,83,21:main",
+                            "721,1621,165,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Bismarck",
+        "firstname": [],
+        "abbr_firstname": [
+            "O. V."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Graf",
+            "Amtsgenosse"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "288,1838,168,26:main",
+                            "288,1838,168,26:main",
+                            "288,1838,168,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "546,381,69,25:main",
+                            "622,382,133,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "162,837,68,25:main",
+                            "239,837,141,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "160,1455,152,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "362,1373,146,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1132,303,133,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "779,386,134,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "240,553,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "753,1050,133,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "504,1692,112,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "820,842,147,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "446,884,146,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "316,1616,123,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "161,263,134,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "838,387,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "389,1097,59,21:main",
+                            "454,1097,112,21:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1074,1358,112,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "757,968,145,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "499,1009,145,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "564,350,141,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "260,1583,112,21:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "405,267,145,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "440,640,146,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "156,803,134,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "596,1392,119,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "876,1619,122,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "954,309,134,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "860,475,135,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1141,682,132,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1066,807,151,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "673,1097,69,25:main",
+                            "754,1096,135,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "893,1260,135,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "195,1547,122,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "595,1510,123,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "869,1584,125,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "980,340,67,25:main",
+                            "1058,340,132,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1114,506,67,25:main",
+                            "1191,507,55,24;162,548,88,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "881,548,133,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "182,470,134,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "699,553,132,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "585,1842,125,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1112,1339,132,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1039,1505,131,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "533,1177,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "864,213,68,24:main",
+                            "947,213,132,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "741,496,208,33:main",
+                            "961,496,133,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "455,620,133,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "538,787,133,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "557,336,133,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": "11851136X"
+    },
+    {
+        "lastname": "Blum",
+        "firstname": [
+            "Hans"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "154,1317,40,21:main",
+                            "201,1317,61,21:main",
+                            "275,1317,73,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Bluntschli",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1078,1729,123,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "155,1810,129,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "744,1769,130,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Boeschenstein",
+        "firstname": [
+            "Hermann"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "857,1283,85,20:main",
+                            "952,1283,112,20:main",
+                            "1074,1283,170,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": "120528045"
+    },
+    {
+        "lastname": "Burckhardt",
+        "firstname": [
+            "Jacob"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "186,1709,82,33:main",
+                            "284,1709,176,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "214,1657,62,26:main",
+                            "286,1657,136,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": "11851752X"
+    },
+    {
+        "lastname": "Busch",
+        "firstname": [
+            "Moritz"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "304,1468,40,20:main",
+                            "356,1468,82,20:main",
+                            "450,1467,80,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": "118665421"
+    },
+    {
+        "lastname": "B\u00e9n\u00e9detti",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Botschafter"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "251,1374,163,25:main",
+                            "425,1373,142,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "583,1374,153,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": "11865814X"
+    },
+    {
+        "lastname": "Cavour",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "630,579,115,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Curtius",
+        "firstname": [
+            "Friedrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "152,1845,104,21:main",
+                            "264,1846,92,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": "11676662X"
+    },
+    {
+        "lastname": "Curttus",
+        "firstname": [
+            "Friedrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Gro\u00dfherzog"
+        ],
+        "other": [
+            [
+                "I."
+            ],
+            [
+                "I",
+                "von",
+                "Baden"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "383,1808,102,21:main",
+                            "495,1809,91,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "542,635,174,33:main",
+                            "729,635,143,25:main",
+                            "886,636,19,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "585,1730,147,27:main",
+                            "744,1730,112,21:main",
+                            "868,1731,10,19:main",
+                            "897,1737,46,14:main",
+                            "955,1730,75,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Dierauer",
+        "firstname": [
+            "Johannes"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "672,1004,131,32:main",
+                            "823,1004,129,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": "118671898"
+    },
+    {
+        "lastname": "Dismalek",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "188,1209,111,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Dubs",
+        "firstname": [
+            "Jakob"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "329,1801,73,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "848,466,87,33:main",
+                            "948,466,86,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id": "116231696"
+    },
+    {
+        "lastname": "EduardVischer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1070,1805,183,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Forckenbeck",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "248,1278,156,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Freytag",
+        "firstname": [
+            "Gustav"
+        ],
+        "abbr_firstname": [
+            "G."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "580,1888,88,27:main",
+                            "681,1889,93,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "261,1850,125,27:main",
+                            "261,1850,125,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": "118535455"
+    },
+    {
+        "lastname": "Frobel",
+        "firstname": [
+            "Julius"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "155,1279,70,27:main",
+                            "240,1279,86,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "F\u00fcrst",
+        "firstname": [
+            "Chlodwig"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "F\u00fcrst"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "218,1694,118,28:main",
+                            "346,1696,65,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "365,1847,63,20:main",
+                            "435,1847,120,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Gerhard",
+        "firstname": [
+            "Dietrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "529,1140,93,21:main",
+                            "635,1139,97,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id": "116566604"
+    },
+    {
+        "lastname": "Guizot",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "747,1140,90,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Heer",
+        "firstname": [
+            "Joachim"
+        ],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr.",
+            "Landammann",
+            "Bundespr\u00e4sident",
+            "Dr.",
+            "Minister"
+        ],
+        "other": [
+            [
+                "Minister"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "608,1128,47,24:main",
+                            "671,1128,119,32:main",
+                            "803,1129,81,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "272,1209,70,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1198,1612,44,20;157,1648,67,22:main",
+                            "234,1649,59,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1084,1172,39,21:main",
+                            "1129,1172,77,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "537,1694,40,21:main",
+                            "588,1693,88,27:main",
+                            "588,1693,88,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1149,476,69,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "189,683,68,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1167,848,67,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1029,1772,69,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1080,1005,69,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "980,1375,77,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "223,1801,59,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "223,1839,39,20:main",
+                            "273,1839,59,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "566,507,83,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "899,1215,71,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "399,682,70,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "215,1883,59,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1206,1759,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "334,303,69,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "751,345,76,29:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "895,885,70,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "835,1091,68,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "886,455,47,24:main",
+                            "947,455,110,33:main",
+                            "947,455,110,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1121,744,119,25:main",
+                            "162,787,69,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "913,1240,69,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1157,994,82,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "680,1648,70,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1146,1446,47,24:main",
+                            "1212,1445,22,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "166,247,70,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "885,330,120,25:main",
+                            "1013,331,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "622,1453,70,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "230,1908,197,25:main",
+                            "439,1909,76,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "386,1701,197,25:main",
+                            "599,1702,82,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "651,1102,201,27:main",
+                            "860,1103,41,21:main",
+                            "912,1103,91,26:main",
+                            "912,1103,91,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "338,838,119,25:main",
+                            "474,839,70,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1011,301,83,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id": "132987635"
+    },
+    {
+        "lastname": "Heer",
+        "firstname": [
+            "Mathy"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Landammann"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "420,1295,91,33:main",
+                            "526,1296,68,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1068,1338,70,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "730,1504,76,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "462,555,70,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "308,638,69,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "907,1013,70,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "616,1465,69,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1094,1506,70,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "445,296,69,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "312,379,76,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "210,1126,70,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "956,1248,80,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1162,1837,109,21;192,1881,66,14:main",
+                            "269,1875,60,20:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "396,1799,70,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Heer",
+        "firstname": [
+            "Gottfried"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "237,1102,104,27:main",
+                            "349,1102,63,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id": "116564938"
+    },
+    {
+        "lastname": "Heersche",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "281,475,130,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Heerschen",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "400,722,152,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Hohenlohe",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "F\u00fcrst"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1102,1806,133,21:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "889,1844,135,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "715,474,74,24:main",
+                            "803,473,168,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Hohenlohe-Schilhngsfurst",
+        "firstname": [
+            "Chlodwig"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Ministerpr\u00e4sident",
+            "F\u00fcrst"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "757,307,255,33:main",
+                            "1025,308,75,24:main",
+                            "1114,307,140,33:main",
+                            "166,348,380,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Jeismann",
+        "firstname": [],
+        "abbr_firstname": [
+            "K. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "156,1094,177,27:main",
+                            "156,1094,177,27:main",
+                            "156,1094,177,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 42,
+        "gt_gnd_id": "118822160"
+    },
+    {
+        "lastname": "Kaphahn",
+        "firstname": [
+            "F"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "637,1659,23,20:main",
+                            "670,1659,104,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 43,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Kardorff",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "567,1352,107,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 44,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Kerns",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "755,1364,48,25:main",
+                            "816,1365,86,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 45,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Keudell",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "von"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1005,908,96,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "488,1583,101,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "330,1665,47,14:main",
+                            "386,1659,103,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 46,
+        "gt_gnd_id": "116152133"
+    },
+    {
+        "lastname": "Konig",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1190,1428,84,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "1194,1692,82,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 47,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "K\u00f6nig",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "K\u00f6nigin"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "799,506,99,33:main",
+                            "799,506,99,33:rpunc",
+                            "913,506,121,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 48,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Landammann",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "421,1102,167,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 49,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Latt",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "457,1873,89,25:main",
+                            "457,1873,89,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 50,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Loe",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "997,1734,47,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 51,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Mathy",
+        "firstname": [
+            "Karl"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "K\u00f6nig",
+            "Ministerpr\u00e4sident"
+        ],
+        "other": [
+            [
+                "I."
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "446,1851,54,20:main",
+                            "513,1851,85,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "788,1888,55,21:main",
+                            "858,1889,83,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "324,1634,92,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "539,1718,287,33:main",
+                            "846,1718,97,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "182,345,113,32:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "632,1008,91,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "575,1091,91,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "417,1378,91,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "306,1502,112,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "353,219,103,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "444,842,102,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "751,1654,88,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "604,596,92,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "389,887,91,32:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1055,1012,93,32:main"
+                        ]
+                    },
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "584,1505,112,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "256,1725,76,26:main",
+                            "343,1724,56,20:main",
+                            "408,1725,17,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 52,
+        "gt_gnd_id": "118812637"
+    },
+    {
+        "lastname": "Mentana",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "402,673,125,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 53,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Mercier-Jenny",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1075,1697,174,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 54,
+        "gt_gnd_id": "1050232941"
+    },
+    {
+        "lastname": "Merciers",
+        "firstname": [
+            "Joachim"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "636,1736,40,20:main",
+                            "682,1736,101,26:main",
+                            "789,1736,114,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 55,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Metternich",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "246,351,156,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "242,1659,133,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1019,1546,151,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 56,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Meyer",
+        "firstname": [
+            "F"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "221,1622,16,20:main",
+                            "251,1622,83,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 57,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Napoleon",
+        "firstname": [
+            "Louis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "230,792,80,24:main",
+                            "325,792,142,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 58,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Oncken",
+        "firstname": [
+            "Hermann"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1150,1768,104,20:main",
+                            "174,1804,78,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 59,
+        "gt_gnd_id": "118589997"
+    },
+    {
+        "lastname": "Piodas",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "430,1363,92,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 60,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "R\u00fcssel",
+        "firstname": [
+            "William"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "654,1804,96,21:main",
+                            "761,1804,78,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 61,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Scha^mann",
+        "firstname": [],
+        "abbr_firstname": [
+            "P. E."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "610,1835,199,27:main",
+                            "610,1835,199,27:main",
+                            "610,1835,199,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 62,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schii\u00dfler",
+        "firstname": [
+            "Wilhelm"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "377,1842,91,22:main",
+                            "477,1842,100,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 63,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schurz",
+        "firstname": [
+            "K"
+        ],
+        "abbr_firstname": [
+            "K."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "973,1390,118,21:main",
+                            "973,1390,118,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "516,1697,21,20:main",
+                            "555,1697,88,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "222,1207,123,22:main",
+                            "222,1207,123,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 64,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schu\u00dfler",
+        "firstname": [
+            "Wilhelm"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "213,1545,92,21:main",
+                            "313,1546,95,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 65,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Shakespeare",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "491,1301,172,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 66,
+        "gt_gnd_id": "118613723"
+    },
+    {
+        "lastname": "Stern",
+        "firstname": [
+            "Alfred"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "555,723,93,25:main",
+                            "671,724,75,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 67,
+        "gt_gnd_id": "117274003"
+    },
+    {
+        "lastname": "St\u00e4helin-Brunner",
+        "firstname": [],
+        "abbr_firstname": [
+            "A."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "St\u00e4nderat"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "528,1875,113,21:main",
+                            "653,1875,26,22:main",
+                            "691,1875,201,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 68,
+        "gt_gnd_id": "138494541"
+    },
+    {
+        "lastname": "Thimme",
+        "firstname": [
+            "Friedrich"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "952,1394,102,22:main",
+                            "1063,1394,88,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 69,
+        "gt_gnd_id": "119183501"
+    },
+    {
+        "lastname": "Tschudi",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "202,496,47,24:main",
+                            "262,496,22,32:main",
+                            "292,495,146,33:main",
+                            "292,495,146,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "892,579,116,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "571,585,116,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "808,668,115,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "780,1453,115,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 70,
+        "gt_gnd_id": "119315130"
+    },
+    {
+        "lastname": "Uber Tschudi",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "223,1834,59,21:main",
+                            "292,1835,147,27:main",
+                            "292,1835,147,27:main",
+                            "292,1835,147,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 71,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Unruh",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "v."
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "479,917,21,13:main",
+                            "505,909,79,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 72,
+        "gt_gnd_id": "117310328"
+    },
+    {
+        "lastname": "Varnbuler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "221,1422,146,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "905,1654,135,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 73,
+        "gt_gnd_id": "102512752"
+    },
+    {
+        "lastname": "Varnb\u00fcler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "243,1795,146,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "697,1454,153,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 74,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Viseber",
+        "firstname": [
+            "Eduard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "226,1533,88,21:main",
+                            "322,1532,89,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 75,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "V\u00f6gelin",
+        "firstname": [
+            "Salomon"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "743,1709,125,26:main",
+                            "879,1709,118,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 76,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "de Baunevilles",
+        "firstname": [
+            "Marquis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1130,512,117,33:main",
+                            "161,554,31,24:main",
+                            "203,553,164,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 77,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "oachim Heer",
+        "firstname": [
+            "J"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Bundespr\u00e4sident",
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "440,714,272,34:main",
+                            "721,715,46,24:main",
+                            "779,715,13,33:main",
+                            "797,715,105,24:main",
+                            "911,715,77,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 78,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "v Bernstorff",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Botschafter"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "362,1058,138,22:main",
+                            "511,1059,149,21:main",
+                            "511,1059,149,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 79,
+        "gt_gnd_id": "116147601"
+    },
+    {
+        "lastname": "v Eckardt",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1218,1206,20,24:main",
+                            "154,1242,131,25:main",
+                            "154,1242,131,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 80,
+        "gt_gnd_id": "100833357"
+    },
+    {
+        "lastname": "v Muralt",
+        "firstname": [
+            "L"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [
+            "Prof"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "625,1173,57,20:main",
+                            "696,1172,55,21:main",
+                            "764,1173,18,20:main",
+                            "794,1180,15,13:main",
+                            "822,1172,82,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 81,
+        "gt_gnd_id": "118735306"
+    },
+    {
+        "lastname": "von",
+        "firstname": [
+            "Wolfram"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "den",
+                "Steinen"
+            ]
+        ],
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "301,1320,108,21:main",
+                            "420,1328,46,13:main",
+                            "477,1321,42,20:main",
+                            "531,1320,87,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "943,1741,47,13:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "987,1020,56,16:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 82,
+        "gt_gnd_id": "117252077"
+    },
+    {
+        "lastname": "von Bismarcks",
+        "firstname": [
+            "Otto"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [
+            "Graf"
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "966,1128,69,24:main",
+                            "1045,1129,66,23:main",
+                            "1124,1137,54,15:main",
+                            "1190,1128,55,24;160,1168,109,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "373,1207,87,22:main",
+                            "477,1213,54,16:main",
+                            "549,1207,144,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 83,
+        "gt_gnd_id": "11851136X"
+    },
+    {
+        "lastname": "von Br\u00fcck",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "222,1058,68,24:main",
+                            "300,1066,56,16:main",
+                            "366,1057,95,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "372,1262,86,24:main",
+                            "472,1271,55,16:main",
+                            "542,1262,86,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 84,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "von Friesen",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "235,1029,47,13:main",
+                            "291,1022,89,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 85,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "von Muralt",
+        "firstname": [
+            "Leonhard"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "309,1509,120,22:main",
+                            "441,1516,35,14:main",
+                            "490,1509,90,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 86,
+        "gt_gnd_id": "118735306"
+    },
+    {
+        "lastname": "von Philippsborn",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "543,1255,68,24:main",
+                            "624,1263,57,16:main",
+                            "694,1254,187,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 87,
+        "gt_gnd_id": "1221560190"
+    },
+    {
+        "lastname": "von R\u00f6der",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "825,470,87,24:main",
+                            "923,478,57,16:main",
+                            "991,468,89,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 88,
+        "gt_gnd_id": "111565876X"
+    },
+    {
+        "lastname": "von Tschudi",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "820,1836,44,27:main",
+                            "820,1836,44,27:main",
+                            "875,1842,46,14:main",
+                            "931,1835,104,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 89,
+        "gt_gnd_id": "119315130"
+    },
+    {
+        "lastname": "von Tschudis96",
+        "firstname": [
+            "Johann Jakob"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "468,1405,46,24:main",
+                            "523,1405,103,33:main",
+                            "632,1405,85,33:main",
+                            "724,1414,55,16:main",
+                            "787,1403,162,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 90,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "von Varnb\u00fcler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1024,255,85,24:main",
+                            "1118,263,55,16:main",
+                            "1183,255,83,24;178,296,77,25:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "715,795,85,24:main",
+                            "815,803,55,16:main",
+                            "886,794,145,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 91,
+        "gt_gnd_id": "102512752"
+    },
+    {
+        "name": "Alpnach",
+        "tokens": [
+            "Alpnach"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1129,465,120,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 92
+    },
+    {
+        "name": "Baden",
+        "tokens": [
+            "Baden"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "645,1378,90,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "690,1295,99,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "170,1011,107,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 93
+    },
+    {
+        "name": "Baden",
+        "tokens": [
+            "Baden"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1099,1295,87,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 94
+    },
+    {
+        "name": "Basel",
+        "tokens": [
+            "Basel"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "629,1320,80,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "952,1875,61,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 95
+    },
+    {
+        "name": "Bayern",
+        "tokens": [
+            "Bayern"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "160,1045,101,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "425,1137,100,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "184,602,111,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 96
+    },
+    {
+        "name": "Belgien",
+        "tokens": [
+            "Belgien"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "484,1330,107,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "474,257,107,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 97
+    },
+    {
+        "name": "Bennigsen",
+        "tokens": [
+            "Bennigsen"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1150,1240,123,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 98
+    },
+    {
+        "name": "Berlin",
+        "tokens": [
+            "Berlin"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1029,1838,73,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1043,1508,73,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "498,1057,73,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "886,1838,72,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1134,1842,73,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1096,1846,72,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "283,1094,95,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1204,462,59,25;177,504,38,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "685,828,87,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "320,627,87,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 99
+    },
+    {
+        "name": "Bern",
+        "tokens": [
+            "Bern"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1056,636,68,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "157,1321,75,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "834,595,67,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "846,1801,56,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 100
+    },
+    {
+        "name": "Deutschland",
+        "tokens": [
+            "Deutschland"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "486,218,179,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1124,1356,151,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "928,927,187,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "572,1016,192,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "319,884,191,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "164,471,179,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1035,1333,180,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "340,1528,179,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "476,295,191,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 101
+    },
+    {
+        "name": "Elsa\u00df-Lothringen",
+        "tokens": [
+            "Elsa\u00df-Lothringen"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "474,1771,224,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 102
+    },
+    {
+        "name": "England",
+        "tokens": [
+            "England"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1085,1454,121,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 103
+    },
+    {
+        "name": "Europa",
+        "tokens": [
+            "Europa"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "1057,1248,106,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 104
+    },
+    {
+        "name": "Florenz",
+        "tokens": [
+            "Florenz"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "572,1364,105,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 105
+    },
+    {
+        "name": "Frankreich",
+        "tokens": [
+            "Frankreich"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "240,1869,155,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "625,1542,156,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "159,1747,156,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "509,430,155,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "589,1578,155,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "549,1000,168,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 106
+    },
+    {
+        "name": "Frankreichs76",
+        "tokens": [
+            "Frankreichs76"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "1145,844,95,25;156,884,115,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 107
+    },
+    {
+        "name": "Freiburg",
+        "tokens": [
+            "Freiburg"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "632,1131,232,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 108
+    },
+    {
+        "name": "Friedrichshafen90",
+        "tokens": [
+            "Friedrichshafen90"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "920,216,255,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 109
+    },
+    {
+        "name": "Glarus",
+        "tokens": [
+            "Glarus"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "196,1735,79,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "681,1911,80,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 110
+    },
+    {
+        "name": "Glarus",
+        "tokens": [
+            "Glarus"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "583,1910,86,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "577,1742,94,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 111
+    },
+    {
+        "name": "Gottingen",
+        "tokens": [
+            "Gottingen"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0085.txt": {
+                "pid": "hvg-001:1960:59:e88",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "989,1509,124,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 112
+    },
+    {
+        "name": "Heers",
+        "tokens": [
+            "Heers"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "261,1692,70,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 113
+    },
+    {
+        "name": "Hessen",
+        "tokens": [
+            "Hessen"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "815,1378,104,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 114
+    },
+    {
+        "name": "Hohenlohe-Schillingsfurst",
+        "tokens": [
+            "Hohenlohe-Schillingsfurst"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "594,1847,327,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 115
+    },
+    {
+        "name": "Holland",
+        "tokens": [
+            "Holland"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "244,1874,116,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 116
+    },
+    {
+        "name": "Italien",
+        "tokens": [
+            "Italien"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1108,1703,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "992,1586,91,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "831,389,91,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 117
+    },
+    {
+        "name": "Karlsruhe",
+        "tokens": [
+            "Karlsruhe"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "603,1552,140,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "748,1465,142,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 118
+    },
+    {
+        "name": "Kerns",
+        "tokens": [
+            "Kerns"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "875,554,87,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 119
+    },
+    {
+        "name": "Konstanz",
+        "tokens": [
+            "Konstanz"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1057,1420,145,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 120
+    },
+    {
+        "name": "Leipzig",
+        "tokens": [
+            "Leipzig"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "786,1659,91,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 121
+    },
+    {
+        "name": "London",
+        "tokens": [
+            "London"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "700,1058,98,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "778,1000,114,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 122
+    },
+    {
+        "name": "Lukmanier",
+        "tokens": [
+            "Lukmanier"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "173,1543,159,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 123
+    },
+    {
+        "name": "Luxemburg",
+        "tokens": [
+            "Luxemburg"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "464,1213,168,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "974,391,167,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "351,668,180,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 124
+    },
+    {
+        "name": "Luxemburg68",
+        "tokens": [
+            "Luxemburg68"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "1063,265,201,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 125
+    },
+    {
+        "name": "Luzern",
+        "tokens": [
+            "Luzern"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0080.txt": {
+                "pid": "hvg-001:1960:59:e83",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "413,465,103,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 126
+    },
+    {
+        "name": "M-Leipzig",
+        "tokens": [
+            "m-Leipzig"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "1215,1593,40,17;173,1654,90,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 127
+    },
+    {
+        "name": "Marz",
+        "tokens": [
+            "Marz"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "343,1279,62,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 128
+    },
+    {
+        "name": "Mont Cenis",
+        "tokens": [
+            "Mont",
+            "Cenis"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "880,306,79,24:main",
+                            "975,306,77,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 129
+    },
+    {
+        "name": "M\u00fcnchen",
+        "tokens": [
+            "M\u00fcnchen"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "632,1131,232,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "626,1886,114,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "456,1593,134,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "527,846,135,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 130
+    },
+    {
+        "name": "M\u00fcnchen86",
+        "tokens": [
+            "M\u00fcnchen86"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "290,388,168,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 131
+    },
+    {
+        "name": "Nikolsburg",
+        "tokens": [
+            "Nikolsburg"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "356,428,166,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 132
+    },
+    {
+        "name": "Norddeutschland",
+        "tokens": [
+            "Norddeutschland"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1057,342,198,25;174,384,61,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 133
+    },
+    {
+        "name": "Nordsee",
+        "tokens": [
+            "Nordsee"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "806,716,138,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 134
+    },
+    {
+        "name": "Osterreich",
+        "tokens": [
+            "Osterreich"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "818,1786,156,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 135
+    },
+    {
+        "name": "Ostsee",
+        "tokens": [
+            "Ostsee"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "384,717,101,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 136
+    },
+    {
+        "name": "Paris",
+        "tokens": [
+            "Paris"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "503,961,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "915,1130,70,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "1029,554,67,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "417,1357,66,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "152,1770,58,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "564,1548,69,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "226,879,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "953,1364,68,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "849,752,69,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 137
+    },
+    {
+        "name": "Persigny",
+        "tokens": [
+            "Persigny"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "632,1130,104,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 138
+    },
+    {
+        "name": "Posen",
+        "tokens": [
+            "Posen"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "757,1455,85,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 139
+    },
+    {
+        "name": "Preu\u00dfen",
+        "tokens": [
+            "Preu\u00dfen"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "489,1827,118,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "397,301,118,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1131,1545,110,21:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0083.txt": {
+                "pid": "hvg-001:1960:59:e86",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "420,1545,111,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "940,1416,117,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "499,1626,118,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "522,1179,118,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "191,1468,118,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "765,1050,116,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "851,1672,119,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "461,1496,119,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "810,1374,116,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "961,1867,119,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "607,1287,119,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 140
+    },
+    {
+        "name": "Romanshorn",
+        "tokens": [
+            "Romanshorn"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "782,1420,185,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 141
+    },
+    {
+        "name": "Ru\u00dfland",
+        "tokens": [
+            "Ru\u00dfland"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "355,1412,122,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "655,965,113,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "970,1321,122,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "337,1124,142,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 142
+    },
+    {
+        "name": "Schweiz",
+        "tokens": [
+            "Schweiz"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0078.txt": {
+                "pid": "hvg-001:1960:59:e81",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "737,1330,115,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0081.txt": {
+                "pid": "hvg-001:1960:59:e84",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "749,594,115,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "330,304,116,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "763,1046,113,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "238,1336,116,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1068,430,116,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1072,1875,97,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "907,964,116,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 143
+    },
+    {
+        "name": "Spitzenberg",
+        "tokens": [
+            "Spitzenberg"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "224,1505,178,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 144
+    },
+    {
+        "name": "Stuttgart",
+        "tokens": [
+            "Stuttgart"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0088.txt": {
+                "pid": "hvg-001:1960:59:e91",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "930,1847,106,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0090.txt": {
+                "pid": "hvg-001:1960:59:e93",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "758,1692,105,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 145
+    },
+    {
+        "name": "S\u00fcddeutschland",
+        "tokens": [
+            "S\u00fcddeutschland"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "705,508,225,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0086.txt": {
+                "pid": "hvg-001:1960:59:e89",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "698,1003,223,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 146
+    },
+    {
+        "name": "S\u00fcddeutschland",
+        "tokens": [
+            "S\u00fcddeutschland"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0087.txt": {
+                "pid": "hvg-001:1960:59:e90",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "859,1842,193,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "538,952,224,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 147
+    },
+    {
+        "name": "Venetien",
+        "tokens": [
+            "Venetien"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "842,264,129,25:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 148
+    },
+    {
+        "name": "Westeuropa",
+        "tokens": [
+            "Westeuropa"
+        ],
+        "type": "GEO",
+        "references": {
+            "hvg-001_1960_059_0084.txt": {
+                "pid": "hvg-001:1960:59:e87",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "196,389,173,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 149
+    },
+    {
+        "name": "Wien",
+        "tokens": [
+            "Wien"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "455,1446,82,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "233,620,83,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 150
+    },
+    {
+        "name": "W\u00fcrttemberg",
+        "tokens": [
+            "W\u00fcrttemberg"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "170,1505,207,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1124,629,138,24;177,670,66,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "493,1725,165,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 151
+    },
+    {
+        "name": "Zurich",
+        "tokens": [
+            "Zurich"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0082.txt": {
+                "pid": "hvg-001:1960:59:e85",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "919,1173,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0094.txt": {
+                "pid": "hvg-001:1960:59:e97",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "555,1873,80,20:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 152
+    },
+    {
+        "name": "Z\u00fcrich",
+        "tokens": [
+            "Z\u00fcrich"
+        ],
+        "type": "CIT",
+        "references": {
+            "hvg-001_1960_059_0097.txt": {
+                "pid": "hvg-001:1960:59:e100",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1013,1102,83,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 153
+    },
+    {
+        "name": "\u00d6sterreich",
+        "tokens": [
+            "\u00d6sterreich"
+        ],
+        "type": "CTR",
+        "references": {
+            "hvg-001_1960_059_0079.txt": {
+                "pid": "hvg-001:1960:59:e82",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "360,671,176,37:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0089.txt": {
+                "pid": "hvg-001:1960:59:e92",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "636,1383,149,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0091.txt": {
+                "pid": "hvg-001:1960:59:e94",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "276,426,149,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0092.txt": {
+                "pid": "hvg-001:1960:59:e95",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "350,1576,149,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0093.txt": {
+                "pid": "hvg-001:1960:59:e96",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "500,1328,149,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0095.txt": {
+                "pid": "hvg-001:1960:59:e98",
+                "refs": [
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "660,1649,158,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            },
+            "hvg-001_1960_059_0096.txt": {
+                "pid": "hvg-001:1960:59:e99",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "955,1120,148,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e107"
+                ]
+            }
+        },
+        "id": 154
+    }
+]

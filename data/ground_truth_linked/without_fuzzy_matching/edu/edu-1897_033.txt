@@ -1,0 +1,25 @@
+110/110
+*ID 9: sollte nicht verlinkt werden, wir suchen keine Entität ohne Nachnamen.
+ID 24: Typo Nachname (BONNETON nicht BGNNETON)
+ID 35: Typo Umlaut Nachname (Dufour nicht DUFÖÜR), Kein Vorname sondern Titel (Général Dufour), gefunden, nicht gelinkt
+ID 41: Triplette in GND (am ausführlichsten 100947859, im Doppel: 1089829248, 115890830X), gemeldet
+ID 49: Typo Nachname (Gobat nicht Gobai)
+ID 50: Typo Accent Nachname (Gobàt nicht Gobat), gefunden und gelinkt
+ID 62: Keine Person sondern Körperschaft (CHARLES KUHN & Cie)
+ID 66: Nachname mit Vornamen ("L\u00e9on Genoud, " nicht "Genoud, Léon"), gefunden und gelinkt
+ GR: nicht verlinken. Auch wenn wir Leon Genoud gefunden hätten, wir würden nach jemanden suchen mit vornamen M. 
+ und das kann der linker nicht korrigieren, das muss vorher korrigiert werden (beim tagging). wäre 139664602
+ID 70: Kein Nachname sondern Verlag/Werk ("Meyers Koversations-Lexikon")
+ID 71: Kein Name (Mise ~Bereitstellen dt.)
+ID 80: Kein PER sondern CIT
+ID 81: Kein Nachname sondern Körperschaft (Progymnase)
+ID 83: Typo Nachname (PÉQUEGNAT nicht P\u00c9QUEGiSAT)
+ID 90: Keine Person sondern Körperschaft (L'IMPRIMERIE C. SCHWEIZER & Cie)
+ID 93: Keine Person sondern Körperschaft (L'IMPRIMERIE C. SCHWEIZER & Cie)
+ID 94: Keine Person sondern Körperschaft (L'IMPRIMERIE C. SCHWEIZER & Cie)
+ID 99: Kein Name/Person (Veiller ~Aufpassen dt.)
+ID 101: Vorname (Amiel) ist Nachname einer anderer Person
+ID 104: Keine Person sondern Werk (Gedicht)
+ID 108: lastname die Nachnamen von zwei verschiednen Personen
+ID 110: Kein Name (de)
+

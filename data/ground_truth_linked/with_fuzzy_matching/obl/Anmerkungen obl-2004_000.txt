@@ -1,0 +1,26 @@
+88/88
+ID 2: Anna Maria Josef Anton Katharina Magdalena sind 4 Personen (Anna Maria, Josef Anton, Katharina, Magdalena)
+ID 3: Sebastian Maria Rosa Johanna sind 3 Personen (Sebastian, Maria Rosa, Johanna)
+ID 14: Contamins kein Vorname sondern Nachname
+ID 15: Typo Vorname (Hans nicht Elans)
+ID 17: Typo other (liess nicht Hess), kein Name
+ID 18: Contamin nicht other sondern Nachname
+ID 19: Wittib nicht other sondern Nachname
+ID 21: Bossarts nicht other sondern Nachname
+ID 22: Abbt nicht Nachname sondern Titel/Beruf, Leodegarius Vorname nicht Nachname
+ID 38: Typo Nachname (Condamin nicht Condami)
+ID 39: Typo Nachname (Contamin nicht Contami)
+ID 48: Typo Nachname (Flury nicht Fluty), gelinkt, 188358641
+ID 50: Gallus Hälg Hälg, M Hans sind 2 Personen (Hälg, Gallus A. / Hälg, Hans A.)
+ID 53: Typo Nachname (Helfenberger nicht Helfenbergers)
+ID 57: Justino nicht Nachname sondern (zweiter) Vorname
+ID 59: Kein Name sondern Beruf
+ID 62: Charles nicht Nachname sondern (zweiter) Vorname
+ID 68: Maria nicht Nachname sondern (zweiter) Vorname
+ID 74: Typo Nachname (Schärtler nicht Schärtier)
+ID 75: Typo Nachname (Schärtler nicht Schärtier)
+ID 76: Typo Nachname (Schärtler nicht Schärtier)
+ID 77: Typo Nachname (Schärtler nicht Schärtier)
+ID 78: Kein Name sondern Ortschaft
+ID 80: Sohn kein Vorname, Sebastian kein Nachname sondern Vorname
+ID 86: dem kein Vorname

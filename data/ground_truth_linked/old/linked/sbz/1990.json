@@ -1,0 +1,4366 @@
+[
+    {
+        "id": "1",
+        "StdName": "Schweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "Schweizerische/ADJ",
+            "Schweizer/ADJ",
+            "Schweizerischen/ORG+ADJ",
+            "Schweizerischer/ADJ+ORG",
+            "Schweizerischen/ADJ",
+            "schweizerischen/ADJ",
+            "Schweiz/",
+            "Schweizer/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 3,
+                    "coord": "1162,84,138,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 28,
+                    "coord": "1052,398,201,34",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 107,
+                    "coord": "323,1095,231,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 4,
+                    "coord": "1109,81,139,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 576,
+                    "coord": "931,2036,264,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 1016,
+                    "coord": "1598,2629,143,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 3,
+                    "coord": "1159,83,138,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 339,
+                    "coord": "560,1166,201,34",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 657,
+                    "coord": "721,2234,161,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 3,
+                    "coord": "1107,81,138,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 337,
+                    "coord": "238,2494,144,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 415,
+                    "coord": "731,424,235,25",
+                    "note": "ORG+ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 977,
+                    "coord": "1487,2127,231,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 3,
+                    "coord": "1161,84,138,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 3,
+                    "coord": "1106,78,138,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 35,
+                    "coord": "270,308,206,22",
+                    "note": "ADJ+ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 225,
+                    "coord": "251,1525,232,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 396,
+                    "coord": "1103,1370,115,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 488,
+                    "coord": "1262,693,232,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 565,
+                    "coord": "1581,1178,162,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 614,
+                    "coord": "41,1994,287,57",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 770,
+                    "coord": "928,2574,122,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 832,
+                    "coord": "1603,2177,133,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 888,
+                    "coord": "1513,2722,235,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 3,
+                    "coord": "1165,84,138,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 28,
+                    "coord": "313,245,236,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 533,
+                    "coord": "714,1378,236,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 3,
+                    "coord": "1111,84,138,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 59,
+                    "coord": "375,1222,237,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 88,
+                    "coord": "47,1446,234,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 166,
+                    "coord": "46,2143,235,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 652,
+                    "coord": "1396,2191,192,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 669,
+                    "coord": "1394,2292,194,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 706,
+                    "coord": "1621,2529,193,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 723,
+                    "coord": "1336,2664,193,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 3,
+                    "coord": "1168,83,138,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4053881-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "2",
+        "StdName": "B\u00fchler, Ruedi",
+        "LastNames": [
+            "#B\u00fchler_den/",
+            "B\u00fchlers/",
+            "B\u00dcHLER/",
+            "B\u00fchler/"
+        ],
+        "FirstNames": [
+            "R./",
+            "RUEDI/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 22,
+                    "coord": "433,402,28,31",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 24,
+                    "coord": "476,399,123,34",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 44,
+                    "coord": "470,533,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 46,
+                    "coord": "513,532,152,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 140,
+                    "coord": "102,1558,28,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 142,
+                    "coord": "144,1557,108,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 371,
+                    "coord": "712,1188,31,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 373,
+                    "coord": "760,1187,98,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 508,
+                    "coord": "717,2394,28,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 510,
+                    "coord": "757,2393,96,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 799,
+                    "coord": "1324,2295,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 801,
+                    "coord": "1373,2294,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 219,
+                    "coord": "391,1884,28,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 221,
+                    "coord": "441,1883,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 357,
+                    "coord": "658,404,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 359,
+                    "coord": "703,404,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 418,
+                    "coord": "655,828,30,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 420,
+                    "coord": "710,828,98,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 489,
+                    "coord": "1068,1277,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 491,
+                    "coord": "1113,1276,109,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 578,
+                    "coord": "658,2156,29,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 580,
+                    "coord": "709,2155,95,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 664,
+                    "coord": "1487,243,28,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 666,
+                    "coord": "1528,243,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 684,
+                    "coord": "1270,405,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 686,
+                    "coord": "1314,405,96,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 809,
+                    "coord": "1688,1239,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 811,
+                    "coord": "1738,1239,98,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 824,
+                    "coord": "1270,1363,28,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 826,
+                    "coord": "1312,1362,97,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 50,
+                    "coord": "219,408,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 52,
+                    "coord": "266,407,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 126,
+                    "coord": "191,982,29,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 128,
+                    "coord": "232,981,102,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 215,
+                    "coord": "1245,899,30,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 217,
+                    "coord": "712,939,96,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 336,
+                    "coord": "381,1168,27,33",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 338,
+                    "coord": "423,1167,122,40",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 351,
+                    "coord": "348,1310,30,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 353,
+                    "coord": "392,1307,95,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 399,
+                    "coord": "571,1781,97,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 466,
+                    "coord": "577,2243,95,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 611,
+                    "coord": "790,1891,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 704,
+                    "coord": "1080,2529,107,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 723,
+                    "coord": "1023,2730,96,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 891,
+                    "coord": "1481,2352,95,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 171,
+                    "coord": "334,1389,97,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 301,
+                    "coord": "108,2292,85,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 465,
+                    "coord": "918,765,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 621,
+                    "coord": "1052,1891,96,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 644,
+                    "coord": "881,2090,95,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 739,
+                    "coord": "1371,302,95,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 821,
+                    "coord": "1470,908,96,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 875,
+                    "coord": "1645,1319,108,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 997,
+                    "coord": "1410,2278,95,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 52,
+                    "coord": "191,650,109,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 53,
+                    "coord": "314,645,149,34",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 161,
+                    "coord": "41,1116,47,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 163,
+                    "coord": "100,1116,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 591,
+                    "coord": "1612,1452,25,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 593,
+                    "coord": "1663,1450,87,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 595,
+                    "coord": "1775,1451,53,27",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 597,
+                    "coord": "1264,1485,147,27",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "dipl. Masch.-Ing./"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "3",
+        "StdName": "Fuchs, Hans",
+        "LastNames": [
+            "FUCHS/",
+            "Fuchs/"
+        ],
+        "FirstNames": [
+            "H./",
+            "Hans/",
+            "HANS/",
+            "#H.:_Sicherheit/",
+            "#H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 57,
+                    "coord": "194,687,93,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 58,
+                    "coord": "301,686,121,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 895,
+                    "coord": "1339,1953,71,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 896,
+                    "coord": "1424,1954,39,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 929,
+                    "coord": "1339,2122,71,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 930,
+                    "coord": "1423,2123,37,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 1000,
+                    "coord": "1338,2561,71,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 1001,
+                    "coord": "1419,2561,173,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 315,
+                    "coord": "1637,905,67,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 316,
+                    "coord": "1715,903,79,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 317,
+                    "coord": "1806,904,41,21",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 319,
+                    "coord": "1860,909,29,16",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 321,
+                    "coord": "1324,941,84,24",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 25,
+                    "coord": "728,375,35,31",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 27,
+                    "coord": "778,373,96,33",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 136,
+                    "coord": "581,1250,84,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 165,
+                    "coord": "325,1438,84,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 205,
+                    "coord": "246,1711,83,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 696,
+                    "coord": "1686,633,84,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 145,
+                    "coord": "296,1004,92,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 214,
+                    "coord": "40,1453,84,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Dr. sc. techn./"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "4",
+        "StdName": "Baden",
+        "LastNames": [],
+        "FirstNames": [
+            "BADEN/",
+            "Baden/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 61,
+                    "coord": "193,724,119,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 328,
+                    "coord": "1391,975,84,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4004164-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "5",
+        "StdName": "Hans im Schn\u00e4ggeloch",
+        "LastNames": [],
+        "FirstNames": [
+            "Hans/MYT"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 249,
+                    "coord": "389,2319,72,24",
+                    "note": "MYT",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Figur aus 1128185164",
+        "type": "PER"
+    },
+    {
+        "id": "6",
+        "StdName": "Heisenberg",
+        "LastNames": [
+            "Hei-senbergsche/ADJ"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 377,
+                    "coord": "1219,1184,60,24",
+                    "note": "ADJ",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 378,
+                    "coord": "713,1224,170,31",
+                    "note": "ADJ",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "118548670",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "7",
+        "StdName": "Deutschland",
+        "LastNames": [],
+        "FirstNames": [
+            "Deutschland/",
+            "Deutscher/ADJ",
+            "Deutschen/ADJ",
+            "Deutsche/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 659,
+                    "coord": "1581,1025,179,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 724,
+                    "coord": "1539,1525,152,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 276,
+                    "coord": "460,2270,150,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 308,
+                    "coord": "103,2543,150,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 508,
+                    "coord": "1072,1438,150,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 968,
+                    "coord": "1338,2326,115,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 988,
+                    "coord": "1428,2461,116,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 927,
+                    "coord": "1635,2611,152,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 702,
+                    "coord": "1538,671,150,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 734,
+                    "coord": "1657,945,151,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 937,
+                    "coord": "1410,2688,137,26",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 68,
+                    "coord": "105,512,117,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 184,
+                    "coord": "41,1266,151,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4011882-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "8",
+        "StdName": "Biblis",
+        "LastNames": [],
+        "FirstNames": [
+            "Biblis/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 711,
+                    "coord": "1519,1449,97,25",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4006470-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "9",
+        "StdName": "Frankreich",
+        "LastNames": [],
+        "FirstNames": [
+            "franz\u00f6sischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 839,
+                    "coord": "1769,2616,124,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1793.txt",
+                    "lineNo": 840,
+                    "coord": "1369,2655,80,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4018145-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "10",
+        "StdName": "Amerika",
+        "LastNames": [],
+        "FirstNames": [
+            "Amerikanische/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 23,
+                    "coord": "88,250,218,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4001670-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "11",
+        "StdName": "Beznau",
+        "LastNames": [],
+        "FirstNames": [
+            "Beznau/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 46,
+                    "coord": "508,401,103,23",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 179,
+                    "coord": "280,1448,104,23",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4477076-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "12",
+        "StdName": "Three Mile Island",
+        "LastNames": [],
+        "FirstNames": [
+            "Three Mile Island/ORG+EVE"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 254,
+                    "coord": "42,2195,83,23",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 255,
+                    "coord": "140,2195,64,23",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 256,
+                    "coord": "218,2195,86,24",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 856,
+                    "coord": "1673,1549,85,24",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 857,
+                    "coord": "1771,1549,65,24",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 858,
+                    "coord": "1271,1588,86,24",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Keiner der Links in der GND oder wikipedia ist korrekt, da sich der Name in dem Fall auf die Insel bzw. Auf das KKW auf der Insel bezieht. Der lobid link weist auf eine komplett andere Insel mit gleichem Namen.",
+        "type": "GEO"
+    },
+    {
+        "id": "13",
+        "StdName": "Miteff, L.",
+        "LastNames": [
+            "#Mite-ff/"
+        ],
+        "FirstNames": [
+            "L./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 932,
+                    "coord": "1476,2123,57,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 933,
+                    "coord": "1532,2121,29,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 934,
+                    "coord": "1572,2123,34,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 109969537",
+        "type": "PER"
+    },
+    {
+        "id": "14",
+        "StdName": "Karlsruhe",
+        "LastNames": [],
+        "FirstNames": [
+            "Karlsruhe/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 957,
+                    "coord": "1709,2224,105,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 958,
+                    "coord": "1337,2258,34,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4029713-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "15",
+        "StdName": "Rheinland",
+        "LastNames": [],
+        "FirstNames": [
+            "Rheinland/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 977,
+                    "coord": "1587,2360,139,23",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 321,
+                    "coord": "109,2427,139,23",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 371,
+                    "coord": "108,2697,139,22",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4049788-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "16",
+        "StdName": "K\u00f6ln",
+        "LastNames": [],
+        "FirstNames": [
+            "K\u00f6ln/",
+            "D\u00fcsseldorf/K\u00f6ln/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 979,
+                    "coord": "1753,2361,61,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1794.txt",
+                    "lineNo": 987,
+                    "coord": "1337,2461,71,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 322,
+                    "coord": "259,2427,68,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 372,
+                    "coord": "259,2697,68,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 60,
+                    "coord": "274,445,217,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4031483-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "17",
+        "StdName": "Tschernobyl",
+        "LastNames": [],
+        "FirstNames": [
+            "Tschernobyl/",
+            "Tschernobyl/ORG+EVE",
+            "Chernobyl/ENG+ORG",
+            "Tschernobyler/ORG+ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 68,
+                    "coord": "342,518,177,31",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 74,
+                    "coord": "485,566,176,30",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 92,
+                    "coord": "342,717,197,31",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 23,
+                    "coord": "369,202,177,30",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 92,
+                    "coord": "362,693,176,30",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 276,
+                    "coord": "420,2156,163,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 391,
+                    "coord": "743,238,194,30",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 404,
+                    "coord": "1114,313,106,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 405,
+                    "coord": "654,350,85,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 433,
+                    "coord": "795,538,207,30",
+                    "note": "ORG+ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 449,
+                    "coord": "650,653,177,31",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 101,
+                    "coord": "251,680,133,26",
+                    "note": "ENG+ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 178,
+                    "coord": "100,1228,178,30",
+                    "note": "ORG+EVE",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4127036-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "18",
+        "StdName": "Fritzsche, Andreas F.",
+        "LastNames": [
+            "FRITZSCHE/",
+            "Fritzsche/"
+        ],
+        "FirstNames": [
+            "A. F/",
+            "#A._F/",
+            "ANDREAS F/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 121,
+                    "coord": "399,942,129,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 366,
+                    "coord": "196,1472,166,25",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 367,
+                    "coord": "375,1473,25,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 369,
+                    "coord": "416,1472,196,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 312,
+                    "coord": "398,2326,51,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 314,
+                    "coord": "469,2324,119,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 326,
+                    "coord": "109,2461,51,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 328,
+                    "coord": "172,2460,119,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 353,
+                    "coord": "109,2596,51,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 355,
+                    "coord": "174,2594,120,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1054,
+                    "coord": "1582,2699,25,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1056,
+                    "coord": "1624,2698,19,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1058,
+                    "coord": "1660,2697,115,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1059,
+                    "coord": "1790,2698,39,21",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1061,
+                    "coord": "1264,2739,28,14",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1063,
+                    "coord": "1302,2732,83,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 29,
+                    "coord": "965,374,68,32",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 31,
+                    "coord": "1047,373,157,33",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 134,
+                    "coord": "356,1250,131,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 163,
+                    "coord": "100,1438,129,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 207,
+                    "coord": "416,1710,129,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 267,
+                    "coord": "102,2123,129,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 317,
+                    "coord": "102,2462,149,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 418,
+                    "coord": "865,994,154,30",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 243,
+                    "coord": "1086,237,130,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 256,
+                    "coord": "1139,350,78,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 257,
+                    "coord": "649,389,61,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 311,
+                    "coord": "941,687,130,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 494,
+                    "coord": "1466,730,131,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Dr. sc. techn../"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "170708659",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "19",
+        "StdName": "Pontresina",
+        "LastNames": [],
+        "FirstNames": [
+            "Pontresina/",
+            "PONTRESINA/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1795.txt",
+                    "lineNo": 372,
+                    "coord": "196,1510,220,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 1069,
+                    "coord": "1676,2732,133,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4046768-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "20",
+        "StdName": "Cerutti, H.",
+        "LastNames": [
+            "#Cerutti/"
+        ],
+        "FirstNames": [
+            "H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 271,
+                    "coord": "111,2156,27,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 273,
+                    "coord": "156,2156,95,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "21",
+        "StdName": "Z\u00fcrich",
+        "LastNames": [],
+        "FirstNames": [
+            "Z\u00fcrcher/ORG+ADJ",
+            "Z\u00dcRICH/",
+            "Z\u00fcrich/ORG",
+            "Z\u00fcrich/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 280,
+                    "coord": "185,2189,101,22",
+                    "note": "ORG+ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 653,
+                    "coord": "135,2416,134,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 815,
+                    "coord": "1447,2002,91,21",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 794,
+                    "coord": "1729,2731,91,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4068038-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "22",
+        "StdName": "Sowjetrussland",
+        "LastNames": [],
+        "FirstNames": [
+            "sowjetrussischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 400,
+                    "coord": "1182,283,38,17",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 401,
+                    "coord": "654,312,209,30",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4395034-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "23",
+        "StdName": "Sergejenko, Rolan",
+        "LastNames": [
+            "Sergejenko/"
+        ],
+        "FirstNames": [
+            "Rolan/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 406,
+                    "coord": "754,349,84,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1796.txt",
+                    "lineNo": 407,
+                    "coord": "848,350,162,31",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "24",
+        "StdName": "Maschwanden",
+        "LastNames": [],
+        "FirstNames": [
+            "Masch-wanden/",
+            "MASCHWANDEN/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 56,
+                    "coord": "191,688,283,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 604,
+                    "coord": "1739,1486,91,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 605,
+                    "coord": "1263,1520,104,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4336376-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "25",
+        "StdName": "Davies, P.",
+        "LastNames": [
+            "Davies/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 524,
+                    "coord": "859,1707,96,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 45,
+                    "coord": "108,378,82,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 46,
+                    "coord": "205,378,32,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "115686290",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "26",
+        "StdName": "Westeuropa",
+        "LastNames": [],
+        "FirstNames": [
+            "westeurop\u00e4ischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 632,
+                    "coord": "826,2617,252,31",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4079215-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "27",
+        "StdName": "UdSSR",
+        "LastNames": [],
+        "FirstNames": [
+            "USSR/ENG",
+            "UdSSR/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1797.txt",
+                    "lineNo": 793,
+                    "coord": "1577,1395,102,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 84,
+                    "coord": "106,613,75,21",
+                    "note": "ENG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4077548-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "28",
+        "StdName": "Howotny, H.",
+        "LastNames": [
+            "Nowotny/"
+        ],
+        "FirstNames": [
+            "H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 18,
+                    "coord": "108,242,119,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 19,
+                    "coord": "246,242,38,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "29",
+        "StdName": "Eisikovic, R.",
+        "LastNames": [
+            "Eisikovic/"
+        ],
+        "FirstNames": [
+            "R./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 21,
+                    "coord": "304,240,119,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 23,
+                    "coord": "444,241,37,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "30",
+        "StdName": "Bern",
+        "LastNames": [],
+        "FirstNames": [
+            "Bern/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 40,
+                    "coord": "339,343,66,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005762-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "31",
+        "StdName": "D\u00fcsseldorf",
+        "LastNames": [],
+        "FirstNames": [
+            "D\u00fcsseldorf/K\u00f6ln/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 60,
+                    "coord": "274,445,217,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4013255-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "32",
+        "StdName": "Wien",
+        "LastNames": [],
+        "FirstNames": [
+            "Vienna/ENG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 120,
+                    "coord": "516,780,69,21",
+                    "note": "ENG",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 121,
+                    "coord": "107,821,35,16",
+                    "note": "ENG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4066009-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "33",
+        "StdName": "Russland",
+        "LastNames": [],
+        "FirstNames": [
+            "russischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 239,
+                    "coord": "650,238,148,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 485,
+                    "coord": "1544,655,148,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4076899-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "34",
+        "StdName": "Leibstadt",
+        "LastNames": [],
+        "FirstNames": [
+            "Leibstadt/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 418,
+                    "coord": "1262,163,130,24",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4521672-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "35",
+        "StdName": "Th\u00fcrlimann, Bruno",
+        "LastNames": [
+            "Th\u00fcrlimann/"
+        ],
+        "FirstNames": [
+            "Bruno/",
+            "B./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 618,
+                    "coord": "439,2073,168,35",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 619,
+                    "coord": "621,2076,103,31",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 620,
+                    "coord": "737,2073,201,34",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 622,
+                    "coord": "142,2153,95,27",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 868,
+                    "coord": "1506,2610,88,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 869,
+                    "coord": "1604,2609,175,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 578,
+                    "coord": "1193,1642,87,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 49,
+                    "coord": "46,1186,87,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 50,
+                    "coord": "143,1184,176,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 107,
+                    "coord": "459,1559,87,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 453,
+                    "coord": "658,2693,86,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 454,
+                    "coord": "774,2692,174,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 640,
+                    "coord": "1342,2123,153,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 641,
+                    "coord": "1514,2123,35,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 675,
+                    "coord": "1341,2360,153,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 677,
+                    "coord": "1527,2361,34,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 73,
+                    "coord": "101,578,87,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 74,
+                    "coord": "201,578,176,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 495,
+                    "coord": "808,2170,86,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 496,
+                    "coord": "905,2168,176,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 679,
+                    "coord": "1433,1867,94,28",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 743,
+                    "coord": "1328,2318,94,26",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Professor/"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "107923564",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "36",
+        "StdName": "Bachmann, Hugo",
+        "LastNames": [],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            []
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "124345492",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Versehentlich doppelt eingetragen"
+    },
+    {
+        "id": "37",
+        "StdName": "USA",
+        "LastNames": [],
+        "FirstNames": [
+            "USA/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 679,
+                    "coord": "103,2613,75,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4078704-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "38",
+        "StdName": "Betlehem (USA)",
+        "LastNames": [],
+        "FirstNames": [
+            "Bethlehem/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 685,
+                    "coord": "44,2651,159,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4088200-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "39",
+        "StdName": "Kammerhuber, J\u00fcrgen",
+        "LastNames": [
+            "Kammenhu/"
+        ],
+        "FirstNames": [
+            "J\u00fcrgen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 349,
+                    "coord": "387,2544,93,29",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 350,
+                    "coord": "502,2542,171,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "40",
+        "StdName": "Aachen",
+        "LastNames": [],
+        "FirstNames": [
+            "Aachen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 359,
+                    "coord": "239,2622,116,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4000003-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "41",
+        "StdName": "St\u00fcssi, Fritz",
+        "LastNames": [
+            "St\u00fcssis/",
+            "St\u00fcssi/"
+        ],
+        "FirstNames": [
+            "Fritz/",
+            "F./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 417,
+                    "coord": "1327,1153,80,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 514,
+                    "coord": "875,1184,155,27",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 515,
+                    "coord": "1040,1186,92,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 539,
+                    "coord": "961,1416,133,24",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 540,
+                    "coord": "1117,1416,64,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 541,
+                    "coord": "1201,1416,82,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 551,
+                    "coord": "1057,1490,83,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 93,
+                    "coord": "377,1483,93,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 214,
+                    "coord": "130,2598,56,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 215,
+                    "coord": "194,2598,73,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 659,
+                    "coord": "1338,2259,79,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 660,
+                    "coord": "1436,2260,32,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 694,
+                    "coord": "1338,2496,79,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 696,
+                    "coord": "1444,2497,32,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Professor/"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "118756222",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "42",
+        "StdName": "Th\u00fcrlimann, Susi",
+        "LastNames": [
+            "Th\u00fcrlimann/"
+        ],
+        "FirstNames": [
+            "Susi/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 567,
+                    "coord": "1137,1565,58,27",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 568,
+                    "coord": "1208,1566,75,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1799.txt",
+                    "lineNo": 569,
+                    "coord": "717,1601,96,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "43",
+        "StdName": "Ziegler, Hans",
+        "LastNames": [
+            "Ziegler/"
+        ],
+        "FirstNames": [
+            "Hans/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 142,
+                    "coord": "555,1957,58,23",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 143,
+                    "coord": "47,1993,81,25",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 144,
+                    "coord": "145,1994,73,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 145,
+                    "coord": "232,1992,101,32",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Professor/"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "131514148",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "44",
+        "StdName": "D\u00fcbendorf",
+        "LastNames": [],
+        "FirstNames": [
+            "D\u00fcbendorf/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 360,
+                    "coord": "1064,1821,159,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4320231-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "45",
+        "StdName": "Wolfensberger, R.",
+        "LastNames": [
+            "Wolfensberger/"
+        ],
+        "FirstNames": [
+            "R./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 472,
+                    "coord": "1295,306,182,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 473,
+                    "coord": "1482,306,26,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 107814552",
+        "type": "PER"
+    },
+    {
+        "id": "46",
+        "StdName": "Bachmann, Hugo",
+        "LastNames": [
+            "#Bachmann/",
+            "Bachmann/",
+            "BACHMANN/"
+        ],
+        "FirstNames": [
+            "Hugo/",
+            "HUGO/",
+            "H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 649,
+                    "coord": "135,2384,106,24",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1798.txt",
+                    "lineNo": 650,
+                    "coord": "257,2384,212,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 483,
+                    "coord": "1291,407,131,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 484,
+                    "coord": "1433,408,39,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 776,
+                    "coord": "1663,2593,76,31",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 777,
+                    "coord": "1749,2592,148,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 783,
+                    "coord": "1625,2697,59,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 785,
+                    "coord": "1695,2697,38,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 787,
+                    "coord": "1747,2698,67,27",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 788,
+                    "coord": "1824,2697,68,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 789,
+                    "coord": "1326,2739,75,15",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [
+            "Prof. Dr./"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "124345492",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "47",
+        "StdName": "Lampert, P.",
+        "LastNames": [
+            "#Lampert/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 495,
+                    "coord": "1292,544,105,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 496,
+                    "coord": "1405,544,33,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 109807375",
+        "type": "PER"
+    },
+    {
+        "id": "48",
+        "StdName": "Grob, J.",
+        "LastNames": [
+            "#Kn\u00f6pf-el/",
+            "Grob/"
+        ],
+        "FirstNames": [
+            "J./",
+            "H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 506,
+                    "coord": "1293,643,83,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 507,
+                    "coord": "1374,643,20,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 508,
+                    "coord": "1403,644,27,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 519,
+                    "coord": "1294,745,60,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 520,
+                    "coord": "1361,746,19,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "49",
+        "StdName": "L\u00fcchinger, P.",
+        "LastNames": [
+            "L\u00fcchinger/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 533,
+                    "coord": "1293,845,127,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 534,
+                    "coord": "1427,847,32,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "107923572",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "50",
+        "StdName": "M\u00fcller, P.",
+        "LastNames": [
+            "M\u00fcller/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 547,
+                    "coord": "1292,981,84,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 548,
+                    "coord": "1383,982,32,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 100867545",
+        "type": "PER"
+    },
+    {
+        "id": "51",
+        "StdName": "Zimmerli, B.",
+        "LastNames": [
+            "Zimmerli/"
+        ],
+        "FirstNames": [
+            "B./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 558,
+                    "coord": "1291,1082,116,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 559,
+                    "coord": "1416,1083,34,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 108945960",
+        "type": "PER"
+    },
+    {
+        "id": "52",
+        "StdName": "Marti, P.",
+        "LastNames": [
+            "Marti/"
+        ],
+        "FirstNames": [
+            "P./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 565,
+                    "coord": "1292,1151,70,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 566,
+                    "coord": "1371,1151,33,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1021356972",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "53",
+        "StdName": "Pralong, J.",
+        "LastNames": [
+            "#Pralong_J/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 575,
+                    "coord": "1293,1251,132,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 109341694",
+        "type": "PER"
+    },
+    {
+        "id": "54",
+        "StdName": "Br\u00e4ndli, W.",
+        "LastNames": [
+            "#Br\u00e4ndli/"
+        ],
+        "FirstNames": [
+            "W./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 583,
+                    "coord": "1294,1351,92,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 584,
+                    "coord": "1398,1352,42,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 109341708",
+        "type": "PER"
+    },
+    {
+        "id": "55",
+        "StdName": "Frey, R.",
+        "LastNames": [
+            "#Frey_R/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 594,
+                    "coord": "1294,1454,99,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 110067967",
+        "type": "PER"
+    },
+    {
+        "id": "56",
+        "StdName": "Kanellopoulos, A.",
+        "LastNames": [
+            "Kanellopoulos/"
+        ],
+        "FirstNames": [
+            "A./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 604,
+                    "coord": "1295,1554,179,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 605,
+                    "coord": "1482,1554,38,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "DNB 111175704",
+        "type": "PER"
+    },
+    {
+        "id": "57",
+        "StdName": "Muttoni, A.",
+        "LastNames": [
+            "Muttoni/",
+            "Maier/"
+        ],
+        "FirstNames": [
+            "#J._E/",
+            "A./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 615,
+                    "coord": "1295,1657,75,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 616,
+                    "coord": "1374,1657,59,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 622,
+                    "coord": "1295,1759,100,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-003_1990_108_1800.txt",
+                    "lineNo": 623,
+                    "coord": "1404,1759,38,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "172269156",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "58",
+        "StdName": "Opfikon",
+        "LastNames": [],
+        "FirstNames": [
+            "Opfikon/ORG+?"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 43,
+                    "coord": "547,352,119,31",
+                    "note": "ORG+?",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4398631-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "59",
+        "StdName": "Delft",
+        "LastNames": [],
+        "FirstNames": [
+            "Delft/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 538,
+                    "coord": "817,2429,72,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4011369-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "60",
+        "StdName": "Europa",
+        "LastNames": [],
+        "FirstNames": [
+            "Europa/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-003_1990_108_1801.txt",
+                    "lineNo": 549,
+                    "coord": "982,2504,103,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4015701-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    }
+]

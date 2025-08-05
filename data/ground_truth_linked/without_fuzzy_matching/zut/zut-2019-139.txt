@@ -1,0 +1,8 @@
+ID 16: Geizer statt Gelzer, nicht gelinkt
+ID 20: Htirlimann-Landis statt Hürlimann-Landis, nicht gelinkt, wäre 1015549659
+ID 24: Möglicherweise Ort
+
+---- merge ----
+ID 14: in zut-2019_139_CS verlinkt als 100130607, in zut-2019_139 verlinkt als 108979844X, dublette in der GND, 100130607 ist genauer, wurde der GND gemeldet
+
+

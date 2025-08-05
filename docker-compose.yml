@@ -1,0 +1,9 @@
+version: '3'
+services:
+  linking:
+    image: linking:v1
+    build: ./services/linking
+    volumes:
+      - /mnt/adl:/data/adl:ro
+      - /home/chadhat/output:/data/output
+    command: tail -F anything

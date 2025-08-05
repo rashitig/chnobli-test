@@ -1,0 +1,1132 @@
+[
+    {
+        "lastname": "",
+        "firstname": ["Noël"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0080.txt": {
+            "pid": "zlp-001:1948:26:e83",
+            "refs": [{
+                "sent": 6,
+                "coords": ["92,935,77,31:main"]
+            }],
+            "elements": ["e202"]
+        }},
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": ["M"],
+        "abbr_firstname": ["A."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Ehefrau"]],
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 2,
+                "coords": [
+                    "143,216,172,25:main",
+                    "332,216,36,28:main",
+                    "332,216,36,28:rpunc",
+                    "387,216,42,31:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": ["P R"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0089.txt": {
+            "pid": "zlp-001:1948:26:e92",
+            "refs": [{
+                "sent": 8,
+                "coords": [
+                    "185,1361,28,28:main",
+                    "185,1361,28,28:rpunc",
+                    "239,1362,22,25:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["M."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Ehefrau"]],
+        "references": {"zlp-001_1948_026_0083.txt": {
+            "pid": "zlp-001:1948:26:e86",
+            "refs": [{
+                "sent": 4,
+                "coords": [
+                    "179,1560,165,25:main",
+                    "370,1560,45,30:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "F.",
+            "G. F."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Witwe"]],
+        "references": {
+            "zlp-001_1948_026_0084.txt": {
+                "pid": "zlp-001:1948:26:e87",
+                "refs": [{
+                    "sent": 12,
+                    "coords": [
+                        "173,1061,132,27:main",
+                        "324,1061,32,26:main",
+                        "373,1062,37,30:main"
+                    ]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0088.txt": {
+                "pid": "zlp-001:1948:26:e91",
+                "refs": [{
+                    "sent": 7,
+                    "coords": [
+                        "473,820,132,25:main",
+                        "627,820,37,30:main"
+                    ]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0093.txt": {
+                "pid": "zlp-001:1948:26:e96",
+                "refs": [{
+                    "sent": 9,
+                    "coords": ["420,1009,27,26:main"]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["D."],
+        "address": [],
+        "titles": [],
+        "profession": ["Witwe"],
+        "other": [],
+        "references": {"zlp-001_1948_026_0087.txt": {
+            "pid": "zlp-001:1948:26:e90",
+            "refs": [{
+                "sent": 9,
+                "coords": [
+                    "699,1376,134,25:main",
+                    "856,1376,30,26:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["G. E."],
+        "address": [],
+        "titles": [],
+        "profession": ["Stadtbürger"],
+        "other": [],
+        "references": {"zlp-001_1948_026_0090.txt": {
+            "pid": "zlp-001:1948:26:e93",
+            "refs": [{
+                "sent": 3,
+                "coords": [
+                    "413,446,265,32:main",
+                    "698,446,31,28:main",
+                    "748,447,37,30:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["R. E."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Witwe"]],
+        "references": {"zlp-001_1948_026_0090.txt": {
+            "pid": "zlp-001:1948:26:e93",
+            "refs": [{
+                "sent": 10,
+                "coords": [
+                    "179,874,135,25:main",
+                    "340,874,31,26:main",
+                    "398,874,37,30:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["S. L."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Witwe"]],
+        "references": {"zlp-001_1948_026_0090.txt": {
+            "pid": "zlp-001:1948:26:e93",
+            "refs": [{
+                "sent": 16,
+                "coords": [
+                    "179,1300,134,26:main",
+                    "334,1300,24,28:main",
+                    "378,1300,36,32:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": ["P. L."],
+        "address": [],
+        "titles": [],
+        "profession": ["Stadtbürger"],
+        "other": [],
+        "references": {"zlp-001_1948_026_0092.txt": {
+            "pid": "zlp-001:1948:26:e95",
+            "refs": [{
+                "sent": 1,
+                "coords": [
+                    "224,245,265,32:main",
+                    "508,245,27,25:main",
+                    "555,246,36,29:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [
+            "L.",
+            "M. L."
+        ],
+        "address": ["Frau"],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0093.txt": {
+            "pid": "zlp-001:1948:26:e96",
+            "refs": [
+                {
+                    "sent": 5,
+                    "coords": [
+                        "160,692,95,24:main",
+                        "275,691,37,26:main",
+                        "333,692,35,33:main"
+                    ]
+                },
+                {
+                    "sent": 9,
+                    "coords": ["372,1009,28,28:main"]
+                }
+            ],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Witwe",
+                "F.",
+                "V."
+            ],
+            [
+                "Witwe",
+                "V.",
+                "M."
+            ],
+            [
+                "Witwe",
+                "E"
+            ],
+            [
+                "Frl.",
+                "M.",
+                "F."
+            ],
+            [
+                "Frl.",
+                "E."
+            ]
+        ],
+        "references": {
+            "zlp-001_1948_026_0084.txt": {
+                "pid": "zlp-001:1948:26:e87",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "170,819,132,25:main",
+                            "324,820,28,26:main",
+                            "373,820,39,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 16,
+                        "coords": [
+                            "171,1265,69,25:main",
+                            "262,1265,37,24:main",
+                            "320,1266,36,33:main"
+                        ]
+                    },
+                    {
+                        "sent": 24,
+                        "coords": [
+                            "172,1669,134,25:main",
+                            "322,1670,30,26:main",
+                            "368,1670,46,28:main"
+                        ]
+                    }
+                ],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0088.txt": {
+                "pid": "zlp-001:1948:26:e91",
+                "refs": [{
+                    "sent": 1,
+                    "coords": [
+                        "157,312,134,25:main",
+                        "315,312,37,32:main"
+                    ]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0093.txt": {
+                "pid": "zlp-001:1948:26:e96",
+                "refs": [{
+                    "sent": 4,
+                    "coords": [
+                        "649,563,52,25:main",
+                        "716,563,29,26:main"
+                    ]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [[
+            "W.",
+            "J"
+        ]],
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 6,
+                "coords": [
+                    "144,406,41,25:main",
+                    "204,406,32,29:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["L."]],
+        "references": {"zlp-001_1948_026_0089.txt": {
+            "pid": "zlp-001:1948:26:e92",
+            "refs": [{
+                "sent": 8,
+                "coords": ["381,1362,36,30:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Ammann",
+        "firstname": [],
+        "abbr_firstname": ["W."],
+        "address": [],
+        "titles": [],
+        "profession": ["Dr."],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "922,378,39,22:main",
+                    "974,378,31,17:main",
+                    "1019,377,111,23:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Amstutz",
+        "firstname": [],
+        "abbr_firstname": ["J."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 7,
+                "coords": [
+                    "616,614,16,18:main",
+                    "643,615,100,17:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Delaquis",
+        "firstname": [],
+        "abbr_firstname": ["E."],
+        "address": ["Herr"],
+        "titles": [],
+        "profession": [
+            "Prof.",
+            "Dr"
+        ],
+        "other": [[","]],
+        "references": {"zlp-001_1948_026_0083.txt": {
+            "pid": "zlp-001:1948:26:e86",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "203,303,97,28:main",
+                    "317,303,78,29:main",
+                    "411,303,50,29:main",
+                    "411,303,50,29:rpunc",
+                    "478,303,31,27:main",
+                    "525,302,152,36:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": "11605753X"
+    },
+    {
+        "lastname": "E",
+        "firstname": [],
+        "abbr_firstname": ["B."],
+        "address": [],
+        "titles": [],
+        "profession": ["Kantonsbürgerin"],
+        "other": [],
+        "references": {"zlp-001_1948_026_0092.txt": {
+            "pid": "zlp-001:1948:26:e95",
+            "refs": [{
+                "sent": 19,
+                "coords": [
+                    "227,1719,375,31:main",
+                    "620,1719,28,26:main",
+                    "668,1719,36,29:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Effer",
+        "firstname": ["Philippe"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0080.txt": {
+            "pid": "zlp-001:1948:26:e83",
+            "refs": [{
+                "sent": 10,
+                "coords": [
+                    "582,1653,120,34:main",
+                    "721,1655,73,30:main"
+                ]
+            }],
+            "elements": ["e202"]
+        }},
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Eher",
+        "firstname": ["Philipp"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Bundesrat",
+            "Präsident"
+        ],
+        "other": [],
+        "references": {"zlp-001_1948_026_0078.txt": {
+            "pid": "zlp-001:1948:26:e81",
+            "refs": [{
+                "sent": 8,
+                "coords": [
+                    "599,1685,145,28:main",
+                    "765,1684,101,34:main",
+                    "891,1686,73,30:main",
+                    "891,1686,73,30:rpunc",
+                    "483,1738,135,27:main"
+                ]
+            }],
+            "elements": ["e202"]
+        }},
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": "118531298"
+    },
+    {
+        "lastname": "Etter",
+        "firstname": ["Philipp"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 4,
+                "coords": [
+                    "273,568,78,22:main",
+                    "364,568,65,18:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": "118531298"
+    },
+    {
+        "lastname": "Etter",
+        "firstname": ["Philippe"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 5,
+                "coords": [
+                    "829,567,90,22:main",
+                    "931,567,65,18:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": "118531298"
+    },
+    {
+        "lastname": "Etter",
+        "firstname": ["Filippo"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zlp-001_1948_026_0075.txt": {
+                "pid": "zlp-001:1948:26:e78",
+                "refs": [{
+                    "sent": 5,
+                    "coords": [
+                        "433,591,78,22:main",
+                        "526,591,64,18:main"
+                    ]
+                }],
+                "elements": []
+            },
+            "zlp-001_1948_026_0082.txt": {
+                "pid": "zlp-001:1948:26:e85",
+                "refs": [{
+                    "sent": 9,
+                    "coords": [
+                        "569,1643,101,33:main",
+                        "688,1644,73,31:main"
+                    ]
+                }],
+                "elements": ["e202"]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "F",
+        "firstname": [],
+        "abbr_firstname": ["B."],
+        "address": [],
+        "titles": [],
+        "profession": ["Frl."],
+        "other": [],
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 8,
+                "coords": [
+                    "143,519,70,27:main",
+                    "232,519,28,26:main",
+                    "279,520,37,29:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": "118531298"
+    },
+    {
+        "lastname": "Falk",
+        "firstname": ["Hans"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0091.txt": {
+            "pid": "zlp-001:1948:26:e94",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "317,1689,67,23:main",
+                    "401,1689,68,26:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": "118685880"
+    },
+    {
+        "lastname": "Knecht",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 6,
+                "coords": ["549,406,115,30:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Müller",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 3,
+                "coords": ["285,431,81,23:main"]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Thoma",
+        "firstname": ["Hans"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0077.txt": {
+            "pid": "zlp-001:1948:26:e80",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "403,1675,67,22:main",
+                    "481,1673,99,25:main"
+                ]
+            }],
+            "elements": ["e202"]
+        }},
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id": "118622064"
+    },
+    {
+        "lastname": "Werder",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"zlp-001_1948_026_0075.txt": {
+            "pid": "zlp-001:1948:26:e78",
+            "refs": [{
+                "sent": 3,
+                "coords": ["375,431,87,19:main"]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Witwe",
+        "firstname": ["E"],
+        "abbr_firstname": ["H."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "zlp-001_1948_026_0088.txt": {
+                "pid": "zlp-001:1948:26:e91",
+                "refs": [{
+                    "sent": 15,
+                    "coords": ["104,1604,32,27:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0092.txt": {
+                "pid": "zlp-001:1948:26:e95",
+                "refs": [{
+                    "sent": 6,
+                    "coords": [
+                        "135,655,135,27:main",
+                        "295,655,29,27:main",
+                        "295,655,29,27:rpunc",
+                        "351,655,39,32:main"
+                    ]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Witwer",
+        "firstname": ["h"],
+        "abbr_firstname": ["J."],
+        "address": [],
+        "titles": [],
+        "profession": ["Sc"],
+        "other": [],
+        "references": {"zlp-001_1948_026_0084.txt": {
+            "pid": "zlp-001:1948:26:e87",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "174,137,157,26:main",
+                    "355,138,43,26:main",
+                    "408,138,24,26:main",
+                    "408,138,24,26:rpunc",
+                    "457,138,32,32:main"
+                ]
+            }],
+            "elements": ["e203"]
+        }},
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": ""
+    },
+    {
+        "name": "Aargau",
+        "tokens": ["Aargau"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0083.txt": {
+            "pid": "zlp-001:1948:26:e86",
+            "refs": [{
+                "sent": 3,
+                "coords": ["402,1219,123,35:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 31
+    },
+    {
+        "name": "Amerika",
+        "tokens": ["Amerika"],
+        "type": "CTR",
+        "references": {
+            "zlp-001_1948_026_0086.txt": {
+                "pid": "zlp-001:1948:26:e89",
+                "refs": [{
+                    "sent": 13,
+                    "coords": ["90,1332,134,26:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0092.txt": {
+                "pid": "zlp-001:1948:26:e95",
+                "refs": [{
+                    "sent": 13,
+                    "coords": ["947,1223,133,26:main"]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "id": 32
+    },
+    {
+        "name": "Arnerika",
+        "tokens": ["Arnerika"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 15,
+                "coords": ["1001,1446,83,24;91,1483,61,27:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 33
+    },
+    {
+        "name": "Deutschland",
+        "tokens": ["Deutschland"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0092.txt": {
+            "pid": "zlp-001:1948:26:e95",
+            "refs": [{
+                "sent": 9,
+                "coords": ["726,920,188,27:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 34
+    },
+    {
+        "name": "Europa",
+        "tokens": ["Europa"],
+        "type": "GEO",
+        "references": {"zlp-001_1948_026_0092.txt": {
+            "pid": "zlp-001:1948:26:e95",
+            "refs": [{
+                "sent": 14,
+                "coords": ["591,1262,110,32:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 35
+    },
+    {
+        "name": "Fr",
+        "tokens": ["Fr"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0084.txt": {
+            "pid": "zlp-001:1948:26:e87",
+            "refs": [{
+                "sent": 11,
+                "coords": ["586,970,42,27:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 36
+    },
+    {
+        "name": "Gallen",
+        "tokens": ["Gallen"],
+        "type": "CIT",
+        "references": {
+            "zlp-001_1948_026_0083.txt": {
+                "pid": "zlp-001:1948:26:e86",
+                "refs": [{
+                    "sent": 2,
+                    "coords": ["595,760,109,28:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0086.txt": {
+                "pid": "zlp-001:1948:26:e89",
+                "refs": [{
+                    "sent": 11,
+                    "coords": ["439,884,108,28:main"]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "id": 37
+    },
+    {
+        "name": "Schweiz",
+        "tokens": ["Schweiz"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0088.txt": {
+            "pid": "zlp-001:1948:26:e91",
+            "refs": [{
+                "sent": 7,
+                "coords": ["213,895,124,25:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 38
+    },
+    {
+        "name": "Schweiz.",
+        "tokens": ["Schweiz."],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0084.txt": {
+            "pid": "zlp-001:1948:26:e87",
+            "refs": [{
+                "sent": 20,
+                "coords": ["980,1468,133,26:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 39
+    },
+    {
+        "name": "St",
+        "tokens": ["St"],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0086.txt": {
+            "pid": "zlp-001:1948:26:e89",
+            "refs": [{
+                "sent": 11,
+                "coords": ["373,884,42,30:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 40
+    },
+    {
+        "name": "St.",
+        "tokens": ["St."],
+        "type": "CTR",
+        "references": {"zlp-001_1948_026_0083.txt": {
+            "pid": "zlp-001:1948:26:e86",
+            "refs": [{
+                "sent": 2,
+                "coords": ["533,759,41,29:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 41
+    },
+    {
+        "name": "Suisse",
+        "tokens": ["suisse"],
+        "type": "CTR",
+        "references": {
+            "zlp-001_1948_026_0080.txt": {
+                "pid": "zlp-001:1948:26:e83",
+                "refs": [{
+                    "sent": 10,
+                    "coords": ["998,1708,84,25:main"]
+                }],
+                "elements": ["e202"]
+            },
+            "zlp-001_1948_026_0094.txt": {
+                "pid": "zlp-001:1948:26:e97",
+                "refs": [{
+                    "sent": 2,
+                    "coords": ["850,511,96,27:main"]
+                }],
+                "elements": ["e204"]
+            }
+        },
+        "id": 42
+    },
+    {
+        "name": "Zürich",
+        "tokens": ["Zürich"],
+        "type": "CIT",
+        "references": {
+            "zlp-001_1948_026_0075.txt": {
+                "pid": "zlp-001:1948:26:e78",
+                "refs": [{
+                    "sent": 4,
+                    "coords": ["808,519,94,26:main"]
+                }],
+                "elements": []
+            },
+            "zlp-001_1948_026_0083.txt": {
+                "pid": "zlp-001:1948:26:e86",
+                "refs": [{
+                    "sent": 2,
+                    "coords": ["801,760,107,27:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0090.txt": {
+                "pid": "zlp-001:1948:26:e93",
+                "refs": [{
+                    "sent": 22,
+                    "coords": ["605,1753,95,26:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0093.txt": {
+                "pid": "zlp-001:1948:26:e96",
+                "refs": [{
+                    "sent": 9,
+                    "coords": ["327,1046,96,28:main"]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "id": 43
+    },
+    {
+        "name": "Zürich",
+        "tokens": ["Zürich"],
+        "type": "CTR",
+        "references": {
+            "zlp-001_1948_026_0089.txt": {
+                "pid": "zlp-001:1948:26:e92",
+                "refs": [{
+                    "sent": 6,
+                    "coords": ["398,830,107,28:main"]
+                }],
+                "elements": ["e203"]
+            },
+            "zlp-001_1948_026_0092.txt": {
+                "pid": "zlp-001:1948:26:e95",
+                "refs": [{
+                    "sent": 6,
+                    "coords": ["486,693,96,26:main"]
+                }],
+                "elements": ["e203"]
+            }
+        },
+        "id": 44
+    },
+    {
+        "name": "Zürieh",
+        "tokens": ["Zürieh"],
+        "type": "CIT",
+        "references": {"zlp-001_1948_026_0090.txt": {
+            "pid": "zlp-001:1948:26:e93",
+            "refs": [{
+                "sent": 16,
+                "coords": ["1070,1300,49,26;128,1339,57,24:main"]
+            }],
+            "elements": ["e203"]
+        }},
+        "id": 45
+    }
+]

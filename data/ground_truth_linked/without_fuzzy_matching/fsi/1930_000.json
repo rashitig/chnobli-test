@@ -1,0 +1,2172 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Maggis"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "217,1876,103,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "124,2228,102,28:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Maggi's"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1442,868,111,29:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Ludwig"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "864,2098,146,44:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "A.",
+                "G."
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0106.txt": {
+                "pid": "fsi-001:1930:0:e337",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "493,1854,166,63:main",
+                            "493,1854,166,63:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e335"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Gott"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0109.txt": {
+                "pid": "fsi-001:1930:0:e341",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1008,495,64,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Henni",
+                "For",
+                "ch",
+                "hammer",
+                ",",
+                "Delegierte"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0109.txt": {
+                "pid": "fsi-001:1930:0:e341",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "1174,2147,87,24:main",
+                            "1280,2147,66,23:main",
+                            "1356,2147,27,23:main",
+                            "1393,2147,168,26:main",
+                            "1393,2147,168,26:rpunc",
+                            "1173,2182,148,29:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Maggi's"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 20,
+                        "coords": [
+                            "964,1008,110,28:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0112.txt": {
+                "pid": "fsi-001:1930:0:e365",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "517,534,110,31:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "357,1227,111,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "91,1297,110,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "958,1360,110,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e361"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Pomanti"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "768,193,48,22;80,228,80,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "604,401,120,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Persil"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "892,808,86,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "897,842,87,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Baumann",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "104,486,254,52:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Birch",
+        "firstname": [
+            "Max Edwin"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr.",
+            "Med."
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "239,1866,44,29:main",
+                            "300,1867,76,29:main",
+                            "395,1867,66,29:main",
+                            "481,1867,96,29:main",
+                            "598,1867,86,29:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Bircher",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0117.txt": {
+                "pid": "fsi-001:1930:0:e382",
+                "refs": [
+                    {
+                        "sent": 40,
+                        "coords": [
+                            "1286,1503,45,23:main",
+                            "1357,1503,104,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Bircher-Benners",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "79,2027,40,18:main",
+                            "134,2026,266,19:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Cailler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "537,897,103,27:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Chooolats Nestle",
+        "firstname": [
+            "Peter"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "138,896,139,23:main",
+                            "301,897,100,26:main",
+                            "301,897,100,26:rpunc",
+                            "425,897,86,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Duncan",
+        "firstname": [
+            "Isadora"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0114.txt": {
+                "pid": "fsi-001:1930:0:e372",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "119,439,109,23:main",
+                            "260,440,115,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id":"118528122"
+    },
+    {
+        "lastname": "Edel",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [
+            "Elektriker"
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "135,459,86,23:main",
+                            "240,459,148,23:main",
+                            "405,459,73,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Edison",
+        "firstname": [],
+        "abbr_firstname": [
+            "A. K."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0113.txt": {
+                "pid": "fsi-001:1930:0:e366",
+                "refs": [
+                    {
+                        "sent": 25,
+                        "coords": [
+                            "1485,1625,31,23:main",
+                            "1525,1625,30,23:main",
+                            "867,1691,104,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 29,
+                        "coords": [
+                            "864,2069,98,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gabarell",
+        "firstname": [
+            "Rudolf"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Herr"
+        ],
+        "titles": [],
+        "profession": [
+            "Architekt"
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "146,251,86,22:main",
+                            "260,251,135,23:main",
+                            "423,251,99,23:main",
+                            "549,252,126,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gaffner",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1075,2098,155,39:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Gallmann",
+        "firstname": [
+            "Louise"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Frau"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "662,2073,62,17:main",
+                            "79,2096,109,18:main",
+                            "209,2095,171,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "H\u00f6fer",
+        "firstname": [
+            "Ida"
+        ],
+        "abbr_firstname": [],
+        "address": [
+            "Frau"
+        ],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 41,
+                        "coords": [
+                            "1350,2226,67,22:main",
+                            "1438,2226,48,21:main",
+                            "1505,2225,88,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "H\u00fcni's",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Musikfreund"
+            ]
+        ],
+        "references": {
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "1256,1480,107,27:main",
+                            "1395,1478,204,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "1499,1928,104,27:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id":""
+    },
+    {
+        "lastname": "Koelliker",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "381,483,240,47:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Kohler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "665,897,105,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "K\u00fcnzle",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0106.txt": {
+                "pid": "fsi-001:1930:0:e337",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1020,1696,159,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e335"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Leitz",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0115.txt": {
+                "pid": "fsi-001:1930:0:e379",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "59,857,65,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e378"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Liithi",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 19,
+                        "coords": [
+                            "869,729,22,29:main",
+                            "915,729,77,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "L\u00fcthi",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1148,138,22,29:main",
+                            "1190,138,77,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 23,
+                        "coords": [
+                            "1476,1042,21,29:main",
+                            "1530,1041,68,24:main"
+                        ]
+                    },
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1110,1354,22,29:main",
+                            "1162,1354,77,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "L\u00fcthy",
+        "firstname": [],
+        "abbr_firstname": [
+            "J."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "869,589,21,30:main",
+                            "900,590,84,30:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Maggi",
+        "firstname": [
+            "Julius"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "1192,834,86,29:main",
+                            "1293,833,96,30:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "345,1134,103,29:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": "11906667X"
+    },
+    {
+        "lastname": "Maggi's",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "40,1303,104,31:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "PATEK\"PHILIPPE",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0116.txt": {
+                "pid": "fsi-001:1930:0:e380",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "256,1985,387,39:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e378"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Pfenninger",
+        "firstname": [
+            "Mathilde"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Vorsteherin"
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1015,1316,130,23:main",
+                            "1169,1316,167,29:main",
+                            "1169,1316,167,29:rpunc",
+                            "881,1359,171,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "REBSAHEN",
+        "firstname": [
+            "ALBERT"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "933,840,202,35:main",
+                            "1153,840,286,35:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Ryff",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0108.txt": {
+                "pid": "fsi-001:1930:0:e340",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "153,1912,65,44:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e338"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Sulzer",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "664,322,91,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Widmann",
+        "firstname": [],
+        "abbr_firstname": [
+            "J. V."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1324,1682,22,23:main",
+                            "1354,1683,24,17:main",
+                            "1387,1682,120,22:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id": "118632302"
+    },
+    {
+        "lastname": "Woeikow",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof."
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0114.txt": {
+                "pid": "fsi-001:1930:0:e372",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "573,170,73,23:main",
+                            "671,170,138,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Zumstein",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1530,138,69,25;868,174,68,22:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 39,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "von Gavel",
+        "firstname": [
+            "Mary"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0109.txt": {
+                "pid": "fsi-001:1930:0:e341",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1262,1456,76,29:main",
+                            "1370,1464,50,15:main",
+                            "1450,1455,89,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "1372,2206,76,30:main",
+                            "1457,2214,51,14:main",
+                            "1521,2204,87,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 40,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "von Gonzenbach",
+        "firstname": [],
+        "abbr_firstname": [
+            "W."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Prof.",
+            "Dr."
+        ],
+        "other": [],
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 14,
+                        "coords": [
+                            "1490,660,73,23:main",
+                            "825,699,43,23:main",
+                            "888,699,37,23:main",
+                            "936,707,50,15:main",
+                            "1006,699,173,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "type": "PER",
+        "id": 41,
+        "gt_gnd_id": "124621287"
+    },
+    {
+        "name": "Aarau",
+        "tokens": [
+            "Aarau"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "1459,1935,78,17:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 42
+    },
+    {
+        "name": "Arbon",
+        "tokens": [
+            "Arbon"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "388,425,90,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "id": 43
+    },
+    {
+        "name": "Basel",
+        "tokens": [
+            "Basel"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "430,1580,86,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1492,1980,68,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 44
+    },
+    {
+        "name": "Bern",
+        "tokens": [
+            "Bern"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0108.txt": {
+                "pid": "fsi-001:1930:0:e340",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "173,2022,66,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e338"
+                ]
+            },
+            "fsi-001_1930_000_0112.txt": {
+                "pid": "fsi-001:1930:0:e365",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "1339,1013,94,41:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e361"
+                ]
+            },
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1256,2098,91,33:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1361,2026,61,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 45
+    },
+    {
+        "name": "Bern",
+        "tokens": [
+            "Bern"
+        ],
+        "type": "CTR",
+        "references": {
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "225,539,87,29:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 46
+    },
+    {
+        "name": "Biel",
+        "tokens": [
+            "Biel"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0108.txt": {
+                "pid": "fsi-001:1930:0:e340",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "174,2107,53,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e338"
+                ]
+            },
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "770,2079,56,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 47
+    },
+    {
+        "name": "Burgdorf",
+        "tokens": [
+            "Burgdorf"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1040,1458,139,30:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 48
+    },
+    {
+        "name": "Cavel",
+        "tokens": [
+            "Cavel"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0107.txt": {
+                "pid": "fsi-001:1930:0:e339",
+                "refs": [
+                    {
+                        "sent": 21,
+                        "coords": [
+                            "1125,1100,87,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e338"
+                ]
+            }
+        },
+        "id": 49
+    },
+    {
+        "name": "Davos",
+        "tokens": [
+            "Davos"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "495,460,96,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "177,2078,112,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 50
+    },
+    {
+        "name": "D\u00e4nemark",
+        "tokens": [
+            "D\u00e4nemark"
+        ],
+        "type": "CTR",
+        "references": {
+            "fsi-001_1930_000_0109.txt": {
+                "pid": "fsi-001:1930:0:e341",
+                "refs": [
+                    {
+                        "sent": 32,
+                        "coords": [
+                            "1406,2182,155,22:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 51
+    },
+    {
+        "name": "Genf",
+        "tokens": [
+            "Genf"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0109.txt": {
+                "pid": "fsi-001:1930:0:e341",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1022,1632,76,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 52
+    },
+    {
+        "name": "Hotfingen",
+        "tokens": [
+            "Hotfingen"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "1311,1507,146,31:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 53
+    },
+    {
+        "name": "Kempt",
+        "tokens": [
+            "Kempt"
+        ],
+        "type": "GEO",
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1234,91,95,28:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 54
+    },
+    {
+        "name": "Kempttal",
+        "tokens": [
+            "Kempttal"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0111.txt": {
+                "pid": "fsi-001:1930:0:e359",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "39,1165,129,30:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0112.txt": {
+                "pid": "fsi-001:1930:0:e365",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "209,2134,135,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e361"
+                ]
+            }
+        },
+        "id": 55
+    },
+    {
+        "name": "Kirchberg",
+        "tokens": [
+            "Kirchberg"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "676,505,142,30:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 56
+    },
+    {
+        "name": "Limmat",
+        "tokens": [
+            "Limmat"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "191,2117,84,19:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 57
+    },
+    {
+        "name": "Luzern",
+        "tokens": [
+            "Luzern"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1272,1051,106,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "178,1924,119,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 58
+    },
+    {
+        "name": "R\u00fcti",
+        "tokens": [
+            "R\u00fcTI"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1088,894,121,36:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 59
+    },
+    {
+        "name": "Schweiz",
+        "tokens": [
+            "Schweiz"
+        ],
+        "type": "CTR",
+        "references": {
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 31,
+                        "coords": [
+                            "1058,2067,112,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "320,1224,112,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "1494,451,104,25:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "1200,119,111,23:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            }
+        },
+        "id": 60
+    },
+    {
+        "name": "Schweiz.",
+        "tokens": [
+            "Schweiz."
+        ],
+        "type": "CTR",
+        "references": {
+            "fsi-001_1930_000_0122.txt": {
+                "pid": "fsi-001:1930:0:e413",
+                "refs": [
+                    {
+                        "sent": 27,
+                        "coords": [
+                            "939,1527,118,22:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "1031,1723,191,36:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 61
+    },
+    {
+        "name": "St. Gallen",
+        "tokens": [
+            "St.",
+            "Gallen"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1272,1011,35,24:main",
+                            "1321,1011,100,27:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1359,2073,27,18:main",
+                            "1396,2072,83,19:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 62
+    },
+    {
+        "name": "Winterthur",
+        "tokens": [
+            "Winterthur"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "933,1048,169,28:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0120.txt": {
+                "pid": "fsi-001:1930:0:e408",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "69,355,173,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e407"
+                ]
+            }
+        },
+        "id": 63
+    },
+    {
+        "name": "Zizers",
+        "tokens": [
+            "Zizers"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0106.txt": {
+                "pid": "fsi-001:1930:0:e337",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "1201,1697,141,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e335"
+                ]
+            }
+        },
+        "id": 64
+    },
+    {
+        "name": "Zurich",
+        "tokens": [
+            "ZURICH"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0106.txt": {
+                "pid": "fsi-001:1930:0:e337",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "681,1854,266,56:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e335"
+                ]
+            }
+        },
+        "id": 65
+    },
+    {
+        "name": "Z\u00fcrich",
+        "tokens": [
+            "Z\u00fcrich"
+        ],
+        "type": "CIT",
+        "references": {
+            "fsi-001_1930_000_0108.txt": {
+                "pid": "fsi-001:1930:0:e340",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "173,2149,93,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e338"
+                ]
+            },
+            "fsi-001_1930_000_0110.txt": {
+                "pid": "fsi-001:1930:0:e352",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "933,1010,98,27:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0118.txt": {
+                "pid": "fsi-001:1930:0:e389",
+                "refs": [
+                    {
+                        "sent": 28,
+                        "coords": [
+                            "1556,1548,44,23;870,1584,59,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0119.txt": {
+                "pid": "fsi-001:1930:0:e398",
+                "refs": [
+                    {
+                        "sent": 22,
+                        "coords": [
+                            "1270,1427,99,24:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0123.txt": {
+                "pid": "fsi-001:1930:0:e422",
+                "refs": [
+                    {
+                        "sent": 26,
+                        "coords": [
+                            "1044,2081,96,26:main"
+                        ]
+                    }
+                ],
+                "elements": []
+            },
+            "fsi-001_1930_000_0124.txt": {
+                "pid": "fsi-001:1930:0:e430",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1356,2118,80,18:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e427"
+                ]
+            }
+        },
+        "id": 66
+    }
+]

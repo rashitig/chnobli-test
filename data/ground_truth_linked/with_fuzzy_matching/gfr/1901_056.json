@@ -1,0 +1,1838 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Calvinus"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0305.txt": {
+                "pid": "gfr-001:1901:56:e306",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "399,1405,123,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Herodes"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0306.txt": {
+                "pid": "gfr-001:1901:56:e307",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "462,1135,123,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0307.txt": {
+                "pid": "gfr-001:1901:56:e308",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "385,707,123,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "534,1189,123,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0308.txt": {
+                "pid": "gfr-001:1901:56:e309",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "211,400,102,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "600,500,118,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "473,833,124,26:main"
+                        ]
+                    },
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "593,1436,125,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0309.txt": {
+                "pid": "gfr-001:1901:56:e310",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "621,1390,126,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0310.txt": {
+                "pid": "gfr-001:1901:56:e311",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "583,675,127,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "583,931,126,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "580,1287,125,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0311.txt": {
+                "pid": "gfr-001:1901:56:e312",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "636,275,123,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "793,1381,103,22:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "383,1637,123,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0312.txt": {
+                "pid": "gfr-001:1901:56:e313",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "323,1448,124,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Pluto"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0307.txt": {
+                "pid": "gfr-001:1901:56:e308",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "358,1482,70,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Jamer"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0308.txt": {
+                "pid": "gfr-001:1901:56:e309",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "390,560,99,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Josephs"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Heiligen"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "556,632,110,28:main",
+                            "682,632,96,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Christi"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "1019,630,96,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Balthasar"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "527,1409,144,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0316.txt": {
+                "pid": "gfr-001:1901:56:e317",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "550,670,156,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "534,1090,156,27:main"
+                        ]
+                    },
+                    {
+                        "sent": 15,
+                        "coords": [
+                            "538,1406,155,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "526,199,146,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "650,758,155,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0320.txt": {
+                "pid": "gfr-001:1901:56:e321",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "555,476,155,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "553,778,155,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0323.txt": {
+                "pid": "gfr-001:1901:56:e324",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "600,1436,131,23:main"
+                        ]
+                    },
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "638,1633,151,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Maria"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "K\u00f6nige",
+                ","
+            ],
+            [
+                "Holla",
+                ",",
+                "Holla"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "561,1582,106,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "418,351,86,33:main",
+                            "418,351,86,33:rpunc",
+                            "526,351,79,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0321.txt": {
+                "pid": "gfr-001:1901:56:e322",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "656,408,103,28:main"
+                        ]
+                    },
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "719,1726,101,28:main",
+                            "719,1726,101,28:rpunc",
+                            "837,1725,86,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0322.txt": {
+                "pid": "gfr-001:1901:56:e323",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "576,1292,104,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0323.txt": {
+                "pid": "gfr-001:1901:56:e324",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "667,1203,100,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [
+            "Melchior"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0321.txt": {
+                "pid": "gfr-001:1901:56:e322",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "479,310,111,24:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Bey",
+                "Theutschen"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0305.txt": {
+                "pid": "gfr-001:1901:56:e306",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "397,1179,58,33:main",
+                            "477,1179,172,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Merck"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0306.txt": {
+                "pid": "gfr-001:1901:56:e307",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "321,201,94,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Christum"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0306.txt": {
+                "pid": "gfr-001:1901:56:e307",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "608,840,120,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Assmodeus"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0307.txt": {
+                "pid": "gfr-001:1901:56:e308",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "612,1338,166,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Herode"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0308.txt": {
+                "pid": "gfr-001:1901:56:e309",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "355,188,91,23:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Darnach"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0309.txt": {
+                "pid": "gfr-001:1901:56:e310",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "362,306,125,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Morpheus"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0312.txt": {
+                "pid": "gfr-001:1901:56:e313",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "564,345,150,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Joseph"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "568,700,104,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "668,615,104,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "679,501,104,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "675,1193,104,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0320.txt": {
+                "pid": "gfr-001:1901:56:e321",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "579,649,103,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "575,1267,104,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "J\u00fcdin"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "1111,1618,101,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Kindlin"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0316.txt": {
+                "pid": "gfr-001:1901:56:e317",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "498,616,105,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Caspar"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "555,726,107,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 17,
+                        "coords": [
+                            "622,1564,103,34:main"
+                        ]
+                    },
+                    {
+                        "sent": 18,
+                        "coords": [
+                            "566,1676,109,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0322.txt": {
+                "pid": "gfr-001:1901:56:e323",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "599,1532,89,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0323.txt": {
+                "pid": "gfr-001:1901:56:e324",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "667,229,110,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Th\u00fcr"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "751,351,79,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Becht"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0320.txt": {
+                "pid": "gfr-001:1901:56:e321",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "313,838,94,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [
+            [
+                "Thust"
+            ]
+        ],
+        "references": {
+            "gfr-001_1901_056_0324.txt": {
+                "pid": "gfr-001:1901:56:e325",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "306,351,85,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Balthasars",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0317.txt": {
+                "pid": "gfr-001:1901:56:e318",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "862,1503,141,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Brandstetter",
+        "firstname": [
+            "Benward"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "896,1732,127,22:main",
+                            "1034,1732,167,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Drey K\u00f6nig",
+        "firstname": [],
+        "abbr_firstname": [
+            "H. H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0316.txt": {
+                "pid": "gfr-001:1901:56:e317",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "247,577,33,24:main",
+                            "299,578,30,22:main",
+                            "347,578,68,29:main",
+                            "433,578,82,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": ""
+
+    },
+    {
+        "lastname": "Dreyk\u00f6nigen",
+        "firstname": [],
+        "abbr_firstname": [
+            "H. H."
+        ],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "822,495,31,23:main",
+                            "872,495,32,23:main",
+                            "922,494,171,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "K\u00f6nig",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 13,
+                        "coords": [
+                            "409,1345,80,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "588,1252,97,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0322.txt": {
+                "pid": "gfr-001:1901:56:e323",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "357,1351,88,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0323.txt": {
+                "pid": "gfr-001:1901:56:e324",
+                "refs": [
+                    {
+                        "sent": 3,
+                        "coords": [
+                            "445,1256,88,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Melchior",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "535,380,133,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0321.txt": {
+                "pid": "gfr-001:1901:56:e322",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "641,853,135,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Wildman",
+        "firstname": [
+            "Caspars"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0316.txt": {
+                "pid": "gfr-001:1901:56:e317",
+                "refs": [
+                    {
+                        "sent": 9,
+                        "coords": [
+                            "493,1468,115,35:main",
+                            "631,1469,143,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0317.txt": {
+                "pid": "gfr-001:1901:56:e318",
+                "refs": [
+                    {
+                        "sent": 12,
+                        "coords": [
+                            "1102,1502,108,30:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 4,
+                        "coords": [
+                            "467,552,115,35:main",
+                            "606,552,142,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Wildman",
+        "firstname": [
+            "Melchiors"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0317.txt": {
+                "pid": "gfr-001:1901:56:e318",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "558,251,141,27:main",
+                            "723,251,143,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "446,206,138,27:main",
+                            "609,206,142,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "lmfeld",
+        "firstname": [
+            "Hans Peter"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "624,1619,69,22:main",
+                            "706,1620,70,22:main",
+                            "787,1619,94,29:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "wildman",
+        "firstname": [
+            "Balthasars"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0316.txt": {
+                "pid": "gfr-001:1901:56:e317",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "474,1113,158,28:main",
+                            "651,1114,134,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "wildman",
+        "firstname": [
+            "Balthasar's"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {
+            "gfr-001_1901_056_0318.txt": {
+                "pid": "gfr-001:1901:56:e319",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "442,908,169,27:main",
+                            "630,908,134,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id": ""
+    },
+    {
+        "name": "Basel",
+        "tokens": [
+            "Basel"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0315.txt": {
+                "pid": "gfr-001:1901:56:e316",
+                "refs": [
+                    {
+                        "sent": 11,
+                        "coords": [
+                            "366,1807,72,22:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 34
+    },
+    {
+        "name": "Bern",
+        "tokens": [
+            "Bern"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0305.txt": {
+                "pid": "gfr-001:1901:56:e306",
+                "refs": [
+                    {
+                        "sent": 8,
+                        "coords": [
+                            "643,1541,78,33:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 35
+    },
+    {
+        "name": "Bethlehem",
+        "tokens": [
+            "Bethlehem"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0311.txt": {
+                "pid": "gfr-001:1901:56:e312",
+                "refs": [
+                    {
+                        "sent": 5,
+                        "coords": [
+                            "474,841,158,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            },
+            "gfr-001_1901_056_0319.txt": {
+                "pid": "gfr-001:1901:56:e320",
+                "refs": [
+                    {
+                        "sent": 10,
+                        "coords": [
+                            "633,1523,159,28:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 36
+    },
+    {
+        "name": "Egypten",
+        "tokens": [
+            "Egypten"
+        ],
+        "type": "CTR",
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "312,1499,125,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 37
+    },
+    {
+        "name": "Egyptenlandt",
+        "tokens": [
+            "Egyptenlandt"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0305.txt": {
+                "pid": "gfr-001:1901:56:e306",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "662,997,209,34:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 38
+    },
+    {
+        "name": "Franckenreich",
+        "tokens": [
+            "Franckenreich"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0305.txt": {
+                "pid": "gfr-001:1901:56:e306",
+                "refs": [
+                    {
+                        "sent": 7,
+                        "coords": [
+                            "767,1361,213,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 39
+    },
+    {
+        "name": "Moisen",
+        "tokens": [
+            "Moisen"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 1,
+                        "coords": [
+                            "632,1726,104,26:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 40
+    },
+    {
+        "name": "Nazareth",
+        "tokens": [
+            "Nazareth"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0320.txt": {
+                "pid": "gfr-001:1901:56:e321",
+                "refs": [
+                    {
+                        "sent": 0,
+                        "coords": [
+                            "695,370,143,32:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 41
+    },
+    {
+        "name": "Sion",
+        "tokens": [
+            "Sion"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0314.txt": {
+                "pid": "gfr-001:1901:56:e315",
+                "refs": [
+                    {
+                        "sent": 6,
+                        "coords": [
+                            "511,1590,63,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 42
+    },
+    {
+        "name": "Thun",
+        "tokens": [
+            "Thun"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0307.txt": {
+                "pid": "gfr-001:1901:56:e308",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "386,389,79,27:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 43
+    },
+    {
+        "name": "Vermaledeyen",
+        "tokens": [
+            "Vermaledeyen"
+        ],
+        "type": "CIT",
+        "references": {
+            "gfr-001_1901_056_0312.txt": {
+                "pid": "gfr-001:1901:56:e313",
+                "refs": [
+                    {
+                        "sent": 2,
+                        "coords": [
+                            "327,641,211,35:main"
+                        ]
+                    }
+                ],
+                "elements": [
+                    "e444"
+                ]
+            }
+        },
+        "id": 44
+    }
+]

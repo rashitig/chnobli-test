@@ -1,0 +1,2128 @@
+[
+    {
+        "lastname": "",
+        "firstname": [
+            "Ernst",
+            "Ernst Uli"
+        ],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Gemeindepräsident"],
+        "other": [["Uli."]],
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [
+                {
+                    "sent": 25,
+                    "coords": [
+                        "744,1547,291,32:main",
+                        "744,1547,291,32:rpunc",
+                        "1052,1548,74,24:main",
+                        "1144,1547,42,29:main"
+                    ]
+                },
+                {
+                    "sent": 29,
+                    "coords": [
+                        "1376,277,283,32:main",
+                        "1685,279,73,24:main",
+                        "1783,278,42,24:main"
+                    ]
+                }
+            ],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 0,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Meier+Steinauer"]],
+        "references": {"woh-002_1982_057_0004.txt": {
+            "pid": "woh-002:1982:57:e6",
+            "refs": [{
+                "sent": 9,
+                "coords": ["122,1543,748,108:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 1,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Bajus"]],
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 22,
+                "coords": ["1897,1670,79,31:main"]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 2,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Hitler"]],
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 24,
+                "coords": ["562,2200,84,25:main"]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 3,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [["Graenicher"]],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["168,558,172,22:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 4,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Basler",
+        "firstname": [],
+        "abbr_firstname": ["B. A."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 5,
+                "coords": [
+                    "1590,997,49,21:main",
+                    "1590,997,49,21:main",
+                    "1649,996,79,23:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 5,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Bosshard",
+        "firstname": [],
+        "abbr_firstname": ["J."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0004.txt": {
+            "pid": "woh-002:1982:57:e6",
+            "refs": [{
+                "sent": 9,
+                "coords": [
+                    "1039,1676,41,40:main",
+                    "1093,1675,240,41:main"
+                ]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 6,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Büchler",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["990,557,120,23:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 7,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Crombie",
+        "firstname": ["Peter"],
+        "abbr_firstname": ["S."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0009.txt": {
+            "pid": "woh-002:1982:57:e11",
+            "refs": [{
+                "sent": 23,
+                "coords": [
+                    "124,2077,79,24:main",
+                    "209,2077,23,24:main",
+                    "243,2076,125,25:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 8,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Dürstende",
+        "firstname": [],
+        "abbr_firstname": ["M."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0016.txt": {
+            "pid": "woh-002:1982:57:e18",
+            "refs": [{
+                "sent": 23,
+                "coords": [
+                    "1854,2226,36,24:main",
+                    "1350,2370,156,25:main"
+                ]
+            }],
+            "elements": ["e359"]
+        }},
+        "type": "PER",
+        "id": 9,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Eichenberger",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 3,
+                "coords": ["1334,1008,234,40:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 10,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "FURRER",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 0,
+                "coords": ["318,161,392,64:main"]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 11,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Frauenlob",
+        "firstname": [],
+        "abbr_firstname": ["P."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0007.txt": {
+            "pid": "woh-002:1982:57:e9",
+            "refs": [{
+                "sent": 33,
+                "coords": [
+                    "1632,975,24,23:main",
+                    "1666,974,148,25:main"
+                ]
+            }],
+            "elements": ["e335"]
+        }},
+        "type": "PER",
+        "id": 12,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Furrer",
+        "firstname": [],
+        "abbr_firstname": ["J."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [
+                {
+                    "sent": 2,
+                    "coords": [
+                        "148,2235,23,21:main",
+                        "184,2236,82,20:main"
+                    ]
+                },
+                {
+                    "sent": 0,
+                    "coords": ["295,1475,92,24:main"]
+                }
+            ],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 13,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Gross",
+        "firstname": ["Werner"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Präsident"],
+        "other": [[
+            "der",
+            "Baugenossenschaft",
+            "der",
+            "Strassenbahner",
+            "und",
+            "Referent"
+        ]],
+        "references": {
+            "woh-002_1982_057_0006.txt": {
+                "pid": "woh-002:1982:57:e8",
+                "refs": [{
+                    "sent": 0,
+                    "coords": [
+                        "94,179,108,24:main",
+                        "209,179,86,24:main"
+                    ]
+                }],
+                "elements": ["e335"]
+            },
+            "woh-002_1982_057_0007.txt": {
+                "pid": "woh-002:1982:57:e9",
+                "refs": [{
+                    "sent": 37,
+                    "coords": [
+                        "1668,2016,107,24:main",
+                        "1786,2016,91,28:main",
+                        "1786,2016,91,28:rpunc",
+                        "1891,2015,78,25;1386,2051,63,26:main",
+                        "1466,2052,49,25:main",
+                        "1532,2052,276,32:main",
+                        "1825,2052,48,26:main",
+                        "1889,2053,81,25;1385,2090,151,24:main",
+                        "1546,2090,53,25:main",
+                        "1609,2090,125,25:main"
+                    ]
+                }],
+                "elements": ["e335"]
+            }
+        },
+        "type": "PER",
+        "id": 14,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Göring",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Generalfeldmarschall"],
+        "other": [],
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 24,
+                "coords": [
+                    "125,2237,314,25:main",
+                    "455,2237,104,32:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 15,
+        "gt_gnd_id": "118540157"
+    },
+    {
+        "lastname": "Haller",
+        "firstname": [],
+        "abbr_firstname": ["V."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0002.txt": {
+            "pid": "woh-002:1982:57:e4",
+            "refs": [{
+                "sent": 1,
+                "coords": [
+                    "280,376,26,20:main",
+                    "1414,528,334,93:main"
+                ]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 16,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Hassler",
+        "firstname": ["Hans"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 11,
+                "coords": [
+                    "1461,2676,75,25:main",
+                    "1543,2676,111,26:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 17,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Hoffmann-Nowotny",
+        "firstname": ["Hans-Joachim"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [
+            "Soziologe",
+            "Prof.",
+            "Dr."
+        ],
+        "other": [],
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [
+                {
+                    "sent": 14,
+                    "coords": [
+                        "202,2081,143,31:main",
+                        "362,2080,66,26:main",
+                        "446,2081,42,24:main",
+                        "505,2081,202,30:main",
+                        "125,2118,291,32:main"
+                    ]
+                },
+                {
+                    "sent": 21,
+                    "coords": ["1130,802,208,25;755,846,89,27:main"]
+                },
+                {
+                    "sent": 24,
+                    "coords": ["968,1102,288,30:main"]
+                }
+            ],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 18,
+        "gt_gnd_id": "107458861"
+    },
+    {
+        "lastname": "Keller",
+        "firstname": ["Gottfried"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0015.txt": {
+            "pid": "woh-002:1982:57:e17",
+            "refs": [{
+                "sent": 19,
+                "coords": [
+                    "870,580,134,26:main",
+                    "1023,581,89,25:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 19,
+        "gt_gnd_id": "11856109X"
+    },
+    {
+        "lastname": "Koch",
+        "firstname": ["Robert"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0008.txt": {
+            "pid": "woh-002:1982:57:e10",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "28,148,101,26:main",
+                    "137,148,78,25:main"
+                ]
+            }],
+            "elements": ["e336"]
+        }},
+        "type": "PER",
+        "id": 20,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Koelliker",
+        "firstname": ["Hans U"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0006.txt": {
+            "pid": "woh-002:1982:57:e8",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "29,142,75,24:main",
+                    "114,141,27,25:main",
+                    "152,141,138,25:main"
+                ]
+            }],
+            "elements": ["e335"]
+        }},
+        "type": "PER",
+        "id": 21,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Kollwitz",
+        "firstname": ["Käthe"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0016.txt": {
+            "pid": "woh-002:1982:57:e18",
+            "refs": [{
+                "sent": 5,
+                "coords": [
+                    "669,1586,79,22:main",
+                    "755,1586,116,25:main"
+                ]
+            }],
+            "elements": ["e359"]
+        }},
+        "type": "PER",
+        "id": 22,
+        "gt_gnd_id": "118564943"
+    },
+    {
+        "lastname": "Merki",
+        "firstname": ["Karl"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Gemeindeschreiber"],
+        "other": [],
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 29,
+                "coords": [
+                    "1836,316,51,24;1306,351,239,25:main",
+                    "1563,352,61,25:main",
+                    "1643,352,84,25:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 23,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Metz",
+        "firstname": ["Hans"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0007.txt": {
+            "pid": "woh-002:1982:57:e9",
+            "refs": [{
+                "sent": 37,
+                "coords": [
+                    "1576,2129,75,23:main",
+                    "1667,2129,80,27:main"
+                ]
+            }],
+            "elements": ["e335"]
+        }},
+        "type": "PER",
+        "id": 24,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Morel",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["1524,710,75,22:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 25,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Müller",
+        "firstname": ["Ernst"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Präsident"],
+        "other": [],
+        "references": {"woh-002_1982_057_0007.txt": {
+            "pid": "woh-002:1982:57:e9",
+            "refs": [{
+                "sent": 37,
+                "coords": [
+                    "1558,2166,75,24:main",
+                    "1651,2165,101,29:main",
+                    "1651,2165,101,29:rpunc",
+                    "1771,2165,136,25:main"
+                ]
+            }],
+            "elements": ["e335"]
+        }},
+        "type": "PER",
+        "id": 26,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Nauer",
+        "firstname": ["Otto"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 3,
+                "coords": [
+                    "1660,861,58,22:main",
+                    "1728,862,78,21:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 27,
+        "gt_gnd_id": "1051655595"
+    },
+    {
+        "lastname": "Nigg",
+        "firstname": ["Fritz"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": ["Dr."],
+        "other": [],
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 5,
+                "coords": [
+                    "1399,996,37,21:main",
+                    "1445,995,59,23:main",
+                    "1513,996,68,28:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 28,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "PETROCCHI",
+        "firstname": ["PAUL"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0002.txt": {
+            "pid": "woh-002:1982:57:e4",
+            "refs": [{
+                "sent": 1,
+                "coords": [
+                    "1211,1317,145,44:main",
+                    "1376,1317,325,45:main"
+                ]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 29,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Rumiz",
+        "firstname": ["Franco"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0002.txt": {
+            "pid": "woh-002:1982:57:e4",
+            "refs": [{
+                "sent": 1,
+                "coords": [
+                    "1387,1374,97,26:main",
+                    "1498,1375,90,24:main"
+                ]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 30,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "S",
+        "firstname": [],
+        "abbr_firstname": ["E."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 33,
+                "coords": [
+                    "1831,614,25,24:main",
+                    "1864,614,24,24:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 31,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Scheiwiller",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 3,
+                "coords": ["1090,1008,192,32:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 32,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schmidt",
+        "firstname": ["Otto"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0015.txt": {
+            "pid": "woh-002:1982:57:e17",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "230,243,65,25:main",
+                    "303,244,120,25:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 33,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Schneider",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0002.txt": {
+            "pid": "woh-002:1982:57:e4",
+            "refs": [{
+                "sent": 1,
+                "coords": ["1466,2592,257,46:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 34,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Stump",
+        "firstname": ["Martin"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0009.txt": {
+            "pid": "woh-002:1982:57:e11",
+            "refs": [{
+                "sent": 21,
+                "coords": [
+                    "1471,1346,98,26:main",
+                    "1583,1347,98,31:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 35,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Stössel",
+        "firstname": [],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["1449,619,104,23:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 36,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "WYSS",
+        "firstname": ["MIRELLA"],
+        "abbr_firstname": [],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0018.txt": {
+            "pid": "woh-002:1982:57:e20",
+            "refs": [
+                {
+                    "sent": 25,
+                    "coords": [
+                        "795,1974,334,105:main",
+                        "1146,2018,339,61:main"
+                    ]
+                },
+                {
+                    "sent": 26,
+                    "coords": [
+                        "1029,2587,100,28:main",
+                        "1143,2587,146,27:main"
+                    ]
+                }
+            ],
+            "elements": []
+        }},
+        "type": "PER",
+        "id": 37,
+        "gt_gnd_id": ""
+    },
+    {
+        "lastname": "Willisch",
+        "firstname": [],
+        "abbr_firstname": ["R."],
+        "address": [],
+        "titles": [],
+        "profession": [],
+        "other": [],
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": [
+                    "1449,682,29,21:main",
+                    "1489,682,119,22:main"
+                ]
+            }],
+            "elements": ["e328"]
+        }},
+        "type": "PER",
+        "id": 38,
+        "gt_gnd_id": ""
+    },
+    {
+        "name": "Aarau",
+        "tokens": ["Aarau"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 11,
+                "coords": ["1726,2678,100,29:main"]
+            }],
+            "elements": []
+        }},
+        "id": 39
+    },
+    {
+        "name": "Ag",
+        "tokens": ["AG"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 2,
+                "coords": ["839,2233,40,21:main"]
+            }],
+            "elements": []
+        }},
+        "id": 40
+    },
+    {
+        "name": "Almere",
+        "tokens": ["Almere"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 17,
+                "coords": ["1286,732,41,24;746,778,70,17:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 41
+    },
+    {
+        "name": "Amerika",
+        "tokens": ["Amerika"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 28,
+                "coords": ["1218,1897,123,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 42
+    },
+    {
+        "name": "Amsterdam",
+        "tokens": ["Amsterdam"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 18,
+                "coords": ["849,846,174,24:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 43
+    },
+    {
+        "name": "Ar",
+        "tokens": ["AR"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1748,2725,45,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 44
+    },
+    {
+        "name": "Australien",
+        "tokens": ["Australien"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 21,
+                "coords": ["858,1705,148,26:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 45
+    },
+    {
+        "name": "Baar",
+        "tokens": ["Baar"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 2,
+                "coords": ["1589,1386,65,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 46
+    },
+    {
+        "name": "Basel",
+        "tokens": ["Basel"],
+        "type": "CIT",
+        "references": {
+            "woh-002_1982_057_0016.txt": {
+                "pid": "woh-002:1982:57:e18",
+                "refs": [{
+                    "sent": 20,
+                    "coords": ["1308,1850,74,25:main"]
+                }],
+                "elements": ["e359"]
+            },
+            "woh-002_1982_057_0019.txt": {
+                "pid": "woh-002:1982:57:e21",
+                "refs": [{
+                    "sent": 0,
+                    "coords": ["242,649,66,21:main"]
+                }],
+                "elements": ["e328"]
+            }
+        },
+        "id": 47
+    },
+    {
+        "name": "Bl",
+        "tokens": ["BL"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1219,2726,38,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 48
+    },
+    {
+        "name": "Bs",
+        "tokens": ["BS"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1166,2726,41,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 49
+    },
+    {
+        "name": "Büron",
+        "tokens": ["Büron"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0018.txt": {
+            "pid": "woh-002:1982:57:e20",
+            "refs": [{
+                "sent": 27,
+                "coords": ["1130,2747,107,30:main"]
+            }],
+            "elements": []
+        }},
+        "id": 50
+    },
+    {
+        "name": "Chur",
+        "tokens": ["Chur"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["677,651,68,20:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 51
+    },
+    {
+        "name": "Den Haag",
+        "tokens": [
+            "Den",
+            "Haag"
+        ],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 6,
+                "coords": [
+                    "637,1144,57,24:main",
+                    "113,1181,82,31:main"
+                ]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 52
+    },
+    {
+        "name": "Deutschland",
+        "tokens": ["Deutschland"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 14,
+                "coords": ["392,2456,203,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 53
+    },
+    {
+        "name": "Dottingen",
+        "tokens": ["Dottingen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0002.txt": {
+            "pid": "woh-002:1982:57:e4",
+            "refs": [{
+                "sent": 1,
+                "coords": ["52,2185,126,26:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 54
+    },
+    {
+        "name": "Emmenbrucke",
+        "tokens": ["Emmenbrucke"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0018.txt": {
+            "pid": "woh-002:1982:57:e20",
+            "refs": [{
+                "sent": 25,
+                "coords": ["1663,1819,219,29:main"]
+            }],
+            "elements": []
+        }},
+        "id": 55
+    },
+    {
+        "name": "Europas",
+        "tokens": ["Europas"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 28,
+                "coords": ["1267,1823,75,24;758,1867,46,24:main"]
+            }],
+            "elements": []
+        }},
+        "id": 56
+    },
+    {
+        "name": "Finnland",
+        "tokens": ["Finnland"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 9,
+                "coords": ["1663,1256,124,26:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 57
+    },
+    {
+        "name": "Flevoland",
+        "tokens": ["Flevoland"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 17,
+                "coords": ["888,768,147,25:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 58
+    },
+    {
+        "name": "Frankfurt",
+        "tokens": ["Frankfurt"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 18,
+                "coords": ["813,578,134,27:main"]
+            }],
+            "elements": []
+        }},
+        "id": 59
+    },
+    {
+        "name": "Frauenfeld",
+        "tokens": ["Frauenfeld"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 15,
+                "coords": ["449,2567,161,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 60
+    },
+    {
+        "name": "Genf",
+        "tokens": ["Genf"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 25,
+                "coords": ["1133,1819,79,29:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 61
+    },
+    {
+        "name": "Gl",
+        "tokens": ["GL"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1847,2725,43,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 62
+    },
+    {
+        "name": "Gr",
+        "tokens": ["GR"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1900,2725,39,22:main"]
+            }],
+            "elements": []
+        }},
+        "id": 63
+    },
+    {
+        "name": "Grossbritannien",
+        "tokens": ["Grossbritannien"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 2,
+                "coords": ["1491,206,231,25:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 64
+    },
+    {
+        "name": "Holland",
+        "tokens": ["Holland"],
+        "type": "CTR",
+        "references": {
+            "woh-002_1982_057_0003.txt": {
+                "pid": "woh-002:1982:57:e5",
+                "refs": [{
+                    "sent": 9,
+                    "coords": ["1599,2111,115,25:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0011.txt": {
+                "pid": "woh-002:1982:57:e13",
+                "refs": [{
+                    "sent": 12,
+                    "coords": ["175,1705,128,26:main"]
+                }],
+                "elements": ["e340"]
+            }
+        },
+        "id": 65
+    },
+    {
+        "name": "Höngg",
+        "tokens": ["Höngg"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 38,
+                "coords": ["1650,1700,104,31:main"]
+            }],
+            "elements": []
+        }},
+        "id": 66
+    },
+    {
+        "name": "Israel",
+        "tokens": ["Israel"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 9,
+                "coords": ["1860,1257,30,25;1308,1294,52,25:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 67
+    },
+    {
+        "name": "Kanada",
+        "tokens": ["Kanada"],
+        "type": "CTR",
+        "references": {
+            "woh-002_1982_057_0009.txt": {
+                "pid": "woh-002:1982:57:e11",
+                "refs": [{
+                    "sent": 23,
+                    "coords": ["376,2076,134,30:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0010.txt": {
+                "pid": "woh-002:1982:57:e12",
+                "refs": [{
+                    "sent": 17,
+                    "coords": ["1310,2345,111,26:main"]
+                }],
+                "elements": ["e338"]
+            }
+        },
+        "id": 68
+    },
+    {
+        "name": "Kloten",
+        "tokens": ["Kloten"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0020.txt": {
+            "pid": "woh-002:1982:57:e22",
+            "refs": [{
+                "sent": 1,
+                "coords": ["219,2278,118,30:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 69
+    },
+    {
+        "name": "Lausanne",
+        "tokens": ["Lausanne"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0014.txt": {
+            "pid": "woh-002:1982:57:e16",
+            "refs": [{
+                "sent": 27,
+                "coords": ["1410,961,134,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 70
+    },
+    {
+        "name": "Lippstadt",
+        "tokens": ["Lippstadt"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 15,
+                "coords": ["226,2568,136,32:main"]
+            }],
+            "elements": []
+        }},
+        "id": 71
+    },
+    {
+        "name": "Locarno",
+        "tokens": ["Locarno"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 6,
+                "coords": ["1848,1782,120,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 72
+    },
+    {
+        "name": "Luzern",
+        "tokens": ["Luzern"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 33,
+                "coords": ["1444,763,106,28:main"]
+            }],
+            "elements": []
+        }},
+        "id": 73
+    },
+    {
+        "name": "Mutschellen",
+        "tokens": ["Mutschellen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["1361,474,210,24:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 74
+    },
+    {
+        "name": "Nazi-Deutschland",
+        "tokens": ["Nazi-Deutschland"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 24,
+                "coords": ["289,2274,258,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 75
+    },
+    {
+        "name": "Neuchätel",
+        "tokens": ["Neuchätel"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["241,714,139,21:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 76
+    },
+    {
+        "name": "Neuhausen",
+        "tokens": ["Neuhausen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 24,
+                "coords": ["677,1436,160,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 77
+    },
+    {
+        "name": "Neuseeland",
+        "tokens": ["Neuseeland"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 29,
+                "coords": ["1275,1936,66,25;758,1972,106,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 78
+    },
+    {
+        "name": "Niederlande",
+        "tokens": ["Niederlande"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 0,
+                "coords": ["435,508,175,25:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 79
+    },
+    {
+        "name": "Norwegen",
+        "tokens": ["Norwegen"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 18,
+                "coords": ["1037,1294,151,31:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 80
+    },
+    {
+        "name": "Osteuropa",
+        "tokens": ["Osteuropa"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 30,
+                "coords": ["757,2047,151,32:main"]
+            }],
+            "elements": []
+        }},
+        "id": 81
+    },
+    {
+        "name": "Palais De Beaulieu",
+        "tokens": [
+            "Palais",
+            "de",
+            "Beaulieu"
+        ],
+        "type": "STR",
+        "references": {"woh-002_1982_057_0014.txt": {
+            "pid": "woh-002:1982:57:e16",
+            "refs": [{
+                "sent": 27,
+                "coords": [
+                    "1664,922,82,25:main",
+                    "1759,923,33,24:main",
+                    "1807,924,78,24;1303,960,48,25:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "id": 82
+    },
+    {
+        "name": "Ramsen",
+        "tokens": ["Ramsen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0019.txt": {
+            "pid": "woh-002:1982:57:e21",
+            "refs": [{
+                "sent": 0,
+                "coords": ["1066,651,135,22:main"]
+            }],
+            "elements": ["e328"]
+        }},
+        "id": 83
+    },
+    {
+        "name": "Rhenania",
+        "tokens": ["Rhenania"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 21,
+                "coords": ["676,1210,135,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 84
+    },
+    {
+        "name": "Riehen",
+        "tokens": ["Riehen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1359,2627,97,22:main"]
+            }],
+            "elements": []
+        }},
+        "id": 85
+    },
+    {
+        "name": "Rohr",
+        "tokens": ["Rohr"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 2,
+                "coords": ["768,2234,63,20:main"]
+            }],
+            "elements": []
+        }},
+        "id": 86
+    },
+    {
+        "name": "Schaffhausen",
+        "tokens": ["Schaffhausen"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 32,
+                "coords": ["1425,537,190,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 87
+    },
+    {
+        "name": "Schweden",
+        "tokens": ["Schweden"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 18,
+                "coords": ["674,1329,146,27:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 88
+    },
+    {
+        "name": "Schweiz",
+        "tokens": ["Schweiz"],
+        "type": "CTR",
+        "references": {
+            "woh-002_1982_057_0003.txt": {
+                "pid": "woh-002:1982:57:e5",
+                "refs": [{
+                    "sent": 9,
+                    "coords": ["1496,1435,107,22:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0005.txt": {
+                "pid": "woh-002:1982:57:e7",
+                "refs": [{
+                    "sent": 29,
+                    "coords": ["1013,2167,118,25:main"]
+                }],
+                "elements": ["e334"]
+            },
+            "woh-002_1982_057_0013.txt": {
+                "pid": "woh-002:1982:57:e15",
+                "refs": [{
+                    "sent": 14,
+                    "coords": ["334,2381,119,25:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0014.txt": {
+                "pid": "woh-002:1982:57:e16",
+                "refs": [{
+                    "sent": 5,
+                    "coords": ["36,1377,121,24:main"]
+                }],
+                "elements": []
+            }
+        },
+        "id": 89
+    },
+    {
+        "name": "Sg",
+        "tokens": ["SG"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1584,2725,45,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 90
+    },
+    {
+        "name": "Sh",
+        "tokens": ["SH"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1640,2725,45,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 91
+    },
+    {
+        "name": "So",
+        "tokens": ["SO"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1326,2725,45,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 92
+    },
+    {
+        "name": "Sowjetunion",
+        "tokens": ["Sowjetunion"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 27,
+                "coords": ["312,2650,183,31:main"]
+            }],
+            "elements": []
+        }},
+        "id": 93
+    },
+    {
+        "name": "St. Gallen",
+        "tokens": [
+            "St.",
+            "Gallen"
+        ],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": [
+                    "1801,2626,37,22:main",
+                    "1848,2626,91,22:main"
+                ]
+            }],
+            "elements": []
+        }},
+        "id": 94
+    },
+    {
+        "name": "Suisse",
+        "tokens": ["Suisse"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 3,
+                "coords": ["1328,758,77,22:main"]
+            }],
+            "elements": []
+        }},
+        "id": 95
+    },
+    {
+        "name": "Südamerika",
+        "tokens": ["Südamerika"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0010.txt": {
+            "pid": "woh-002:1982:57:e12",
+            "refs": [{
+                "sent": 9,
+                "coords": ["1477,1256,177,29:main"]
+            }],
+            "elements": ["e338"]
+        }},
+        "id": 96
+    },
+    {
+        "name": "Tg",
+        "tokens": ["TG"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 36,
+                "coords": ["1693,2725,45,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 97
+    },
+    {
+        "name": "Usa",
+        "tokens": ["USA"],
+        "type": "CTR",
+        "references": {
+            "woh-002_1982_057_0009.txt": {
+                "pid": "woh-002:1982:57:e11",
+                "refs": [{
+                    "sent": 27,
+                    "coords": ["1905,2739,69,25:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0010.txt": {
+                "pid": "woh-002:1982:57:e12",
+                "refs": [{
+                    "sent": 16,
+                    "coords": ["1814,2157,77,29:main"]
+                }],
+                "elements": ["e338"]
+            }
+        },
+        "id": 98
+    },
+    {
+        "name": "Wellington",
+        "tokens": ["Wellington"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 26,
+                "coords": ["473,2500,161,32:main"]
+            }],
+            "elements": []
+        }},
+        "id": 99
+    },
+    {
+        "name": "Welt",
+        "tokens": ["Welt"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0006.txt": {
+            "pid": "woh-002:1982:57:e8",
+            "refs": [{
+                "sent": 21,
+                "coords": ["929,949,68,26:main"]
+            }],
+            "elements": ["e335"]
+        }},
+        "id": 100
+    },
+    {
+        "name": "Westeuropas",
+        "tokens": ["Westeuropas"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0017.txt": {
+            "pid": "woh-002:1982:57:e19",
+            "refs": [{
+                "sent": 30,
+                "coords": ["1261,2123,80,25;757,2167,113,24:main"]
+            }],
+            "elements": []
+        }},
+        "id": 101
+    },
+    {
+        "name": "Westschweiz",
+        "tokens": ["Westschweiz"],
+        "type": "GEO",
+        "references": {"woh-002_1982_057_0014.txt": {
+            "pid": "woh-002:1982:57:e16",
+            "refs": [{
+                "sent": 25,
+                "coords": ["1614,512,187,26:main"]
+            }],
+            "elements": []
+        }},
+        "id": 102
+    },
+    {
+        "name": "Woningbouw",
+        "tokens": ["WONINGBOUW"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 0,
+                "coords": ["746,206,409,40:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 103
+    },
+    {
+        "name": "Zoetermeer",
+        "tokens": ["Zoetermeer"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0011.txt": {
+            "pid": "woh-002:1982:57:e13",
+            "refs": [{
+                "sent": 8,
+                "coords": ["334,1331,176,25:main"]
+            }],
+            "elements": ["e340"]
+        }},
+        "id": 104
+    },
+    {
+        "name": "Zurich",
+        "tokens": ["ZURICH"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0013.txt": {
+            "pid": "woh-002:1982:57:e15",
+            "refs": [{
+                "sent": 9,
+                "coords": ["1727,2648,166,29:main"]
+            }],
+            "elements": []
+        }},
+        "id": 105
+    },
+    {
+        "name": "Zürich",
+        "tokens": ["Zürich"],
+        "type": "CIT",
+        "references": {
+            "woh-002_1982_057_0001.txt": {
+                "pid": "woh-002:1982:57:e3",
+                "refs": [{
+                    "sent": 1,
+                    "coords": ["256,2593,88,23:main"]
+                }],
+                "elements": ["e328"]
+            },
+            "woh-002_1982_057_0002.txt": {
+                "pid": "woh-002:1982:57:e4",
+                "refs": [{
+                    "sent": 3,
+                    "coords": ["1297,2762,95,26:main"]
+                }],
+                "elements": ["e328"]
+            },
+            "woh-002_1982_057_0003.txt": {
+                "pid": "woh-002:1982:57:e5",
+                "refs": [{
+                    "sent": 7,
+                    "coords": ["1586,1333,89,22:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0004.txt": {
+                "pid": "woh-002:1982:57:e6",
+                "refs": [{
+                    "sent": 9,
+                    "coords": ["1354,1674,261,52:main"]
+                }],
+                "elements": ["e328"]
+            },
+            "woh-002_1982_057_0005.txt": {
+                "pid": "woh-002:1982:57:e7",
+                "refs": [{
+                    "sent": 42,
+                    "coords": ["1875,2091,101,29:main"]
+                }],
+                "elements": ["e334"]
+            },
+            "woh-002_1982_057_0007.txt": {
+                "pid": "woh-002:1982:57:e9",
+                "refs": [{
+                    "sent": 37,
+                    "coords": ["1503,2203,96,25:main"]
+                }],
+                "elements": ["e335"]
+            },
+            "woh-002_1982_057_0009.txt": {
+                "pid": "woh-002:1982:57:e11",
+                "refs": [{
+                    "sent": 22,
+                    "coords": ["1697,1383,95,26:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0011.txt": {
+                "pid": "woh-002:1982:57:e13",
+                "refs": [{
+                    "sent": 29,
+                    "coords": ["1695,2046,100,25:main"]
+                }],
+                "elements": ["e340"]
+            },
+            "woh-002_1982_057_0012.txt": {
+                "pid": "woh-002:1982:57:e14",
+                "refs": [{
+                    "sent": 0,
+                    "coords": ["314,142,147,39:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0013.txt": {
+                "pid": "woh-002:1982:57:e15",
+                "refs": [{
+                    "sent": 18,
+                    "coords": ["1050,540,93,26:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0014.txt": {
+                "pid": "woh-002:1982:57:e16",
+                "refs": [{
+                    "sent": 22,
+                    "coords": ["1008,2504,94,25:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0016.txt": {
+                "pid": "woh-002:1982:57:e18",
+                "refs": [{
+                    "sent": 16,
+                    "coords": ["1617,988,95,25:main"]
+                }],
+                "elements": ["e359"]
+            },
+            "woh-002_1982_057_0017.txt": {
+                "pid": "woh-002:1982:57:e19",
+                "refs": [{
+                    "sent": 22,
+                    "coords": ["410,1936,94,25:main"]
+                }],
+                "elements": []
+            },
+            "woh-002_1982_057_0019.txt": {
+                "pid": "woh-002:1982:57:e21",
+                "refs": [{
+                    "sent": 7,
+                    "coords": ["1592,2641,156,40:main"]
+                }],
+                "elements": ["e328"]
+            },
+            "woh-002_1982_057_0020.txt": {
+                "pid": "woh-002:1982:57:e22",
+                "refs": [{
+                    "sent": 1,
+                    "coords": ["142,2190,111,31:main"]
+                }],
+                "elements": ["e328"]
+            }
+        },
+        "id": 106
+    },
+    {
+        "name": "Zürich",
+        "tokens": ["Zürich"],
+        "type": "CTR",
+        "references": {"woh-002_1982_057_0012.txt": {
+            "pid": "woh-002:1982:57:e14",
+            "refs": [{
+                "sent": 0,
+                "coords": ["312,351,94,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 107
+    },
+    {
+        "name": "Zürich,Tel",
+        "tokens": ["Zürich,Tel"],
+        "type": "CIT",
+        "references": {"woh-002_1982_057_0003.txt": {
+            "pid": "woh-002:1982:57:e5",
+            "refs": [{
+                "sent": 4,
+                "coords": ["1315,927,143,25:main"]
+            }],
+            "elements": []
+        }},
+        "id": 108
+    }
+]

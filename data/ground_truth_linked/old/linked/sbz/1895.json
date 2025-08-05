@@ -1,0 +1,5972 @@
+[
+    {
+        "id": "1",
+        "StdName": "Schweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "Pariser/ADJ",
+            "schweizerische/ADJ",
+            "schweizerischen/ADJ",
+            "schweizerische/",
+            "Schweizer/ADJ",
+            "SCHWEIZERISCHE/",
+            "#Schweiz/",
+            "SCHWEIZERISCHE/ADJ",
+            "Schweiz/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 7,
+                    "coord": "803,130,305,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 74,
+                    "coord": "483,323,108,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0676.txt",
+                    "lineNo": 3,
+                    "coord": "910,126,305,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 6,
+                    "coord": "790,118,305,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 514,
+                    "coord": "1512,742,106,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 3,
+                    "coord": "929,128,304,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 1009,
+                    "coord": "2074,2135,112,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 1010,
+                    "coord": "1316,2177,119,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 1054,
+                    "coord": "1864,2400,238,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 6,
+                    "coord": "806,83,305,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 57,
+                    "coord": "106,368,235,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 61,
+                    "coord": "544,369,116,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 394,
+                    "coord": "178,1684,220,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 3,
+                    "coord": "931,100,303,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 974,
+                    "coord": "1334,794,129,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 6,
+                    "coord": "791,98,303,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 202,
+                    "coord": "689,765,187,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 805,
+                    "coord": "1165,1130,94,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4053881-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "2",
+        "StdName": "Berner Jura",
+        "LastNames": [],
+        "FirstNames": [
+            "Berner Jura/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 19,
+                    "coord": "115,218,73,15",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 20,
+                    "coord": "200,217,52,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 179,
+                    "coord": "621,499,135,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 180,
+                    "coord": "780,498,96,36",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005782-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "3",
+        "StdName": "Z\u00fcrich",
+        "LastNames": [],
+        "FirstNames": [
+            "Z\u00fcrcher/ADJ",
+            "Z\u00fcrich/",
+            "z\u00fcrcherischen/ADJ",
+            "#Z\u00fcrich/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 41,
+                    "coord": "710,246,75,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 147,
+                    "coord": "1107,301,76,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 161,
+                    "coord": "1643,329,77,16",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 938,
+                    "coord": "1869,1743,141,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 1058,
+                    "coord": "1494,2439,201,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 1108,
+                    "coord": "1877,2664,117,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 22,
+                    "coord": "583,182,202,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 381,
+                    "coord": "106,1646,104,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 576,
+                    "coord": "886,2007,96,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1045,
+                    "coord": "1167,2186,96,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1081,
+                    "coord": "1693,2378,76,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1091,
+                    "coord": "1824,2489,93,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1199,
+                    "coord": "1919,2920,83,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4068038-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "4",
+        "StdName": "Paris",
+        "LastNames": [],
+        "FirstNames": [
+            "parisienne/ADJ+FR",
+            "Paris/",
+            "#Pariser/ADJ",
+            "Pariser/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 48,
+                    "coord": "114,270,78,16",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 55,
+                    "coord": "710,272,59,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 391,
+                    "coord": "963,1648,83,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 845,
+                    "coord": "1245,971,91,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 857,
+                    "coord": "1243,1010,57,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 887,
+                    "coord": "1979,1090,58,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1169,
+                    "coord": "1814,2106,57,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1227,
+                    "coord": "1685,2330,83,19",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1273,
+                    "coord": "1585,2516,69,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1286,
+                    "coord": "1615,2556,60,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1314,
+                    "coord": "1978,2635,59,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1339,
+                    "coord": "1555,2744,83,20",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 56,
+                    "coord": "1140,273,55,23",
+                    "note": "ADJ+FR",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 57,
+                    "coord": "251,315,72,19",
+                    "note": "ADJ+FR",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 169,
+                    "coord": "627,690,58,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 214,
+                    "coord": "490,841,81,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 270,
+                    "coord": "873,1029,80,17",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 313,
+                    "coord": "187,1095,81,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4044660-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "5",
+        "StdName": "Genf",
+        "LastNames": [],
+        "FirstNames": [
+            "Genf/",
+            "Genfer/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 76,
+                    "coord": "822,325,53,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 976,
+                    "coord": "1731,792,53,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 986,
+                    "coord": "1608,831,57,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1006,
+                    "coord": "1402,908,80,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4020137-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "6",
+        "StdName": "Deutschland",
+        "LastNames": [],
+        "FirstNames": [
+            "deutschem/ADJ",
+            "deutscher/ADJ",
+            "Deutschland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 87,
+                    "coord": "453,350,103,17",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1088,
+                    "coord": "1522,1328,121,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1177,
+                    "coord": "2070,1669,124,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1185,
+                    "coord": "2081,1705,114,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1321,
+                    "coord": "1869,2272,112,19",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1346,
+                    "coord": "1687,2385,111,19",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 807,
+                    "coord": "1108,1206,148,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4011882-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "7",
+        "StdName": "Mailand",
+        "LastNames": [],
+        "FirstNames": [
+            "Mailand/",
+            "Mail\u00e4nder/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 103,
+                    "coord": "1654,194,110,19",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1363,
+                    "coord": "2076,2565,126,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1418,
+                    "coord": "1297,2749,95,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1437,
+                    "coord": "2151,2780,53,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1438,
+                    "coord": "1258,2812,59,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4037100-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "8",
+        "StdName": "Nordb\u00f6hmen",
+        "LastNames": [],
+        "FirstNames": [
+            "Nordb\u00f6hmisches/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 106,
+                    "coord": "1868,195,183,18",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 12,
+                    "coord": "185,153,202,24",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4075449-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "9",
+        "StdName": "Reichenberg",
+        "LastNames": [],
+        "FirstNames": [
+            "#Reichenberg/",
+            "Reichenberg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 109,
+                    "coord": "1340,220,58,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 110,
+                    "coord": "1401,227,21,10",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 111,
+                    "coord": "1426,222,53,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 15,
+                    "coord": "700,154,156,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4103609-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "10",
+        "StdName": "Budapest",
+        "LastNames": [],
+        "FirstNames": [
+            "Budapester/ADJ",
+            "Budapest/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 117,
+                    "coord": "1946,222,105,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 252,
+                    "coord": "562,2355,135,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 322,
+                    "coord": "249,2693,163,31",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 475,
+                    "coord": "1762,555,132,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 69,
+                    "coord": "753,305,121,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 76,
+                    "coord": "384,333,105,29",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4008684-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "11",
+        "StdName": "Hannover",
+        "LastNames": [],
+        "FirstNames": [
+            "Hannover/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 120,
+                    "coord": "1349,246,113,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 105,
+                    "coord": "466,425,122,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4023349-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "12",
+        "StdName": "Elberfeld",
+        "LastNames": [],
+        "FirstNames": [
+            "Elberfeld/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 124,
+                    "coord": "1636,247,106,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 137,
+                    "coord": "363,514,118,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4070734-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "13",
+        "StdName": "F. Georg Thomas Lommel",
+        "LastNames": [
+            "#Lommel/"
+        ],
+        "FirstNames": [
+            "F. Georg Thomas/",
+            "G. F/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 129,
+                    "coord": "1952,249,19,15",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 131,
+                    "coord": "1983,248,68,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 132,
+                    "coord": "1107,274,84,16",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 133,
+                    "coord": "1206,273,94,17",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 164,
+                    "coord": "207,704,19,21",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 166,
+                    "coord": "241,702,71,29",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 167,
+                    "coord": "323,704,95,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 168,
+                    "coord": "433,704,100,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 191,
+                    "coord": "1001,737,31,18",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 192,
+                    "coord": "89,765,88,24",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 193,
+                    "coord": "194,765,24,20",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 195,
+                    "coord": "234,765,20,18",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 197,
+                    "coord": "269,765,103,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 338,
+                    "coord": "917,1157,115,26",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 339,
+                    "coord": "87,1184,98,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Ingenieur/"
+        ],
+        "Other": [],
+        "Gnd": "101325401",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "14",
+        "StdName": "Patrick Stirling",
+        "LastNames": [
+            "Stirling/"
+        ],
+        "FirstNames": [
+            "Patrick/"
+        ],
+        "Gender": "m",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 135,
+                    "coord": "1349,273,78,17",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0675.txt",
+                    "lineNo": 136,
+                    "coord": "1444,273,88,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 470,
+                    "coord": "205,1574,88,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 471,
+                    "coord": "306,1573,99,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "15",
+        "StdName": "St. Imier",
+        "LastNames": [],
+        "FirstNames": [
+            "St. Imier/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0676.txt",
+                    "lineNo": 252,
+                    "coord": "607,2861,36,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0676.txt",
+                    "lineNo": 254,
+                    "coord": "660,2861,87,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4434140-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "16",
+        "StdName": "La Goule",
+        "LastNames": [],
+        "FirstNames": [
+            "La Goule/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0676.txt",
+                    "lineNo": 267,
+                    "coord": "1049,2894,36,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0676.txt",
+                    "lineNo": 268,
+                    "coord": "1108,2893,87,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "17",
+        "StdName": "Donau",
+        "LastNames": [],
+        "FirstNames": [
+            "Donau/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 490,
+                    "coord": "1392,628,96,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4012712-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "18",
+        "StdName": "Claret",
+        "LastNames": [
+            "#Claret/",
+            "#Claret/?"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 700,
+                    "coord": "1316,1642,174,28",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 701,
+                    "coord": "1514,1643,92,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 835,
+                    "coord": "1812,2244,90,23",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 391,
+                    "coord": "837,1953,90,23",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 779,
+                    "coord": "1753,980,90,22",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Ingenieuren/"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "https://fr.wikipedia.org/wiki/Jean_Claret",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "19",
+        "StdName": "Vuilleumier",
+        "LastNames": [
+            "Vuilleumier/",
+            "Vuilleumier/?"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 700,
+                    "coord": "1316,1642,174,28",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 703,
+                    "coord": "1716,1641,181,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 837,
+                    "coord": "1965,2243,76,24",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 838,
+                    "coord": "1096,2280,114,24",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 393,
+                    "coord": "1010,1950,180,23",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 781,
+                    "coord": "1890,977,179,29",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Ingenieuren/"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "20",
+        "StdName": "Amerika",
+        "LastNames": [],
+        "FirstNames": [
+            "amerikanischen/ADJ",
+            "amerikanische/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 735,
+                    "coord": "1183,1830,231,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 830,
+                    "coord": "1096,2243,230,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 352,
+                    "coord": "752,1764,231,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 734,
+                    "coord": "2080,753,98,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 735,
+                    "coord": "1233,791,145,23",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 603,
+                    "coord": "1026,2236,183,19",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 643,
+                    "coord": "1135,2385,76,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 644,
+                    "coord": "266,2428,102,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4001670-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "\u00dcblicherweise die USA gemeint",
+        "type": "GEO"
+    },
+    {
+        "id": "21",
+        "StdName": "J. Wheless",
+        "LastNames": [
+            "Wheless'schen/ADJ+?",
+            "Wheless/",
+            "Wheless/?"
+        ],
+        "FirstNames": [
+            "J. Wheless/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 736,
+                    "coord": "1436,1830,166,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 737,
+                    "coord": "1620,1830,17,28",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 739,
+                    "coord": "1654,1830,121,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 772,
+                    "coord": "1615,1978,211,25",
+                    "note": "ADJ+?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 885,
+                    "coord": "1097,2469,121,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 402,
+                    "coord": "967,1988,57,23",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 451,
+                    "coord": "1057,2212,59,23",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 546,
+                    "coord": "562,2670,59,22",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 811,
+                    "coord": "1626,1129,123,22",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Elektrikern/"
+        ],
+        "Other": [
+            "Wh/?"
+        ],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "22",
+        "StdName": "G. Westinghouse junior",
+        "LastNames": [
+            "Westinghouse/",
+            "#Westinghouse/ORG",
+            "Westinghouse/ORG",
+            "Westing-house/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 736,
+                    "coord": "1436,1830,166,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 743,
+                    "coord": "1907,1830,134,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 744,
+                    "coord": "1097,1868,89,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 745,
+                    "coord": "1216,1866,61,31",
+                    "note": "",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 766,
+                    "coord": "1830,1943,210,29",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 893,
+                    "coord": "1832,2469,208,30",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 399,
+                    "coord": "803,1992,54,21",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 454,
+                    "coord": "249,2258,56,23",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 548,
+                    "coord": "638,2669,52,23",
+                    "note": "?",
+                    "category": "OT",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 824,
+                    "coord": "1759,1167,211,28",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Elektrikern/"
+        ],
+        "Other": [
+            "Ws/?",
+            "und/?",
+            "jun/"
+        ],
+        "Gnd": "117574252",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "23",
+        "StdName": "Washington",
+        "LastNames": [],
+        "FirstNames": [
+            "Washington/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0677.txt",
+                    "lineNo": 786,
+                    "coord": "1864,2018,176,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 813,
+                    "coord": "1803,1129,180,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1060,
+                    "coord": "1279,1097,149,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4064682-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "24",
+        "StdName": "Lyon",
+        "LastNames": [],
+        "FirstNames": [
+            "Lyon/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 787,
+                    "coord": "1664,1016,71,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4036770-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "25",
+        "StdName": "Berlin",
+        "LastNames": [],
+        "FirstNames": [
+            "Berlin/",
+            "Berliner/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 831,
+                    "coord": "1393,1206,117,22",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 998,
+                    "coord": "1899,2100,95,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 332,
+                    "coord": "534,1459,102,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 320,
+                    "coord": "439,1219,71,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1323,
+                    "coord": "1257,2311,78,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1349,
+                    "coord": "2062,2384,69,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 126,
+                    "coord": "368,485,70,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005728-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "26",
+        "StdName": "Pittsburg(h), PA",
+        "LastNames": [],
+        "FirstNames": [
+            "Pittsburg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 844,
+                    "coord": "2033,1240,146,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4115567-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Falsch/Veraltete Schreibweise im Dokument, linking vermutlich unm\u00f6glich",
+        "type": "CIT"
+    },
+    {
+        "id": "27",
+        "StdName": "Denzler, A., Dr.",
+        "LastNames": [
+            "#Denzler/"
+        ],
+        "FirstNames": [
+            "A./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 928,
+                    "coord": "1914,1654,44,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 930,
+                    "coord": "1981,1654,29,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 932,
+                    "coord": "2035,1652,108,30",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [
+            "Dr./"
+        ],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "28",
+        "StdName": "Fellner",
+        "LastNames": [
+            "#Fellner/",
+            "Fellner/ORG"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 942,
+                    "coord": "1510,1797,97,19",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 945,
+                    "coord": "1798,1795,142,19",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 598,
+                    "coord": "408,2625,109,23",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Architekten/"
+        ],
+        "Other": [],
+        "Gnd": "118686623",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "29",
+        "StdName": "Helmer",
+        "LastNames": [
+            "Helmer/ORG",
+            "#Helmer/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 944,
+                    "coord": "1670,1796,107,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 945,
+                    "coord": "1798,1795,142,19",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 284,
+                    "coord": "285,1271,79,22",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 286,
+                    "coord": "389,1271,118,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 600,
+                    "coord": "555,2625,112,22",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Architekten/",
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "118710230",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "30",
+        "StdName": "Wien",
+        "LastNames": [],
+        "FirstNames": [
+            "Wien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 947,
+                    "coord": "2007,1794,70,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4066009-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "31",
+        "StdName": "Schmitz, Bruno",
+        "LastNames": [
+            "Schmitz/"
+        ],
+        "FirstNames": [
+            "Bruno/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 994,
+                    "coord": "1494,2101,85,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 995,
+                    "coord": "1602,2101,86,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0678.txt",
+                    "lineNo": 996,
+                    "coord": "1711,2100,116,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 326,
+                    "coord": "963,1422,85,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 327,
+                    "coord": "106,1460,79,22",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 329,
+                    "coord": "218,1458,85,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 330,
+                    "coord": "334,1458,116,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 528,
+                    "coord": "313,2322,87,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 529,
+                    "coord": "417,2322,116,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Herrn/"
+        ],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "118819453",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "32",
+        "StdName": "Andr\u00e9",
+        "LastNames": [
+            "Andr\u00e9/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 276,
+                    "coord": "749,1234,77,22",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 278,
+                    "coord": "856,1232,97,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "120527308",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "33",
+        "StdName": "Bluntschli",
+        "LastNames": [
+            "Bluntschli/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 280,
+                    "coord": "975,1234,71,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 282,
+                    "coord": "106,1270,156,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 602,
+                    "coord": "743,2625,143,24",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 603,
+                    "coord": "897,2626,147,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 768,
+                    "coord": "1951,523,84,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 769,
+                    "coord": "1096,558,140,24",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 770,
+                    "coord": "1251,560,154,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Prof./",
+            "Professor/"
+        ],
+        "Address": [
+            "#HH./",
+            "Herrn/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "119074206",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "34",
+        "StdName": "Pestalozzi",
+        "LastNames": [
+            "Pestalozzi/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 288,
+                    "coord": "529,1271,217,29",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 289,
+                    "coord": "763,1271,154,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Stadtpr\u00e4sident/"
+        ],
+        "Other": [],
+        "Gnd": "1051658608",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "35",
+        "StdName": "Hegar",
+        "LastNames": [
+            "#Hegar/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 290,
+                    "coord": "939,1271,109,29",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 291,
+                    "coord": "106,1309,112,22",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 292,
+                    "coord": "246,1308,44,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 294,
+                    "coord": "328,1309,99,30",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [
+            "Dr./"
+        ],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Kapellmeister/"
+        ],
+        "Other": [],
+        "Gnd": "11889112X",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "36",
+        "StdName": "Hindermann",
+        "LastNames": [
+            "Hindermann/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 295,
+                    "coord": "455,1308,299,25",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 296,
+                    "coord": "781,1308,187,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Tonhalle-Verwalter/"
+        ],
+        "Other": [],
+        "Gnd": "116896604",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "37",
+        "StdName": "Ch\u00e2telain",
+        "LastNames": [
+            "Ch\u00e2telain/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 298,
+                    "coord": "106,1346,79,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 300,
+                    "coord": "210,1345,138,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "1046323482",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "38",
+        "StdName": "Auer",
+        "LastNames": [
+            "Auer/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 274,
+                    "coord": "660,1234,56,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 305,
+                    "coord": "803,1348,62,21",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 307,
+                    "coord": "882,1345,67,23",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 309,
+                    "coord": "969,1344,78,32",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Prof./"
+        ],
+        "Address": [
+            "#HH./",
+            "Hrn./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "123723515",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "39",
+        "StdName": "Kuder",
+        "LastNames": [
+            "Kuder/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 342,
+                    "coord": "404,1497,86,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 343,
+                    "coord": "508,1497,76,21",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 345,
+                    "coord": "603,1496,91,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 408,
+                    "coord": "988,1723,58,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 410,
+                    "coord": "105,1759,78,24",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 412,
+                    "coord": "208,1759,99,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./",
+            "Herrn/"
+        ],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "1046593781",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "40",
+        "StdName": "Strassburg",
+        "LastNames": [],
+        "FirstNames": [
+            "Strassburg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 347,
+                    "coord": "750,1496,160,30",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4057878-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "41",
+        "StdName": "G. Frentzen",
+        "LastNames": [
+            "Frentzen/"
+        ],
+        "FirstNames": [
+            "G./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 358,
+                    "coord": "683,1534,86,23",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 359,
+                    "coord": "786,1534,69,24",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 361,
+                    "coord": "874,1534,30,23",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 363,
+                    "coord": "920,1534,128,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Prof./"
+        ],
+        "Address": [
+            "Herrn/"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "133767663",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "42",
+        "StdName": "Aachen",
+        "LastNames": [],
+        "FirstNames": [
+            "Aachen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 365,
+                    "coord": "150,1571,114,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4000003-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "43",
+        "StdName": "Chiodera",
+        "LastNames": [
+            "#Chiodera/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 374,
+                    "coord": "370,1609,58,23",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 376,
+                    "coord": "458,1609,172,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 377,
+                    "coord": "660,1610,134,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 408,
+                    "coord": "988,1723,58,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 410,
+                    "coord": "105,1759,78,24",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 413,
+                    "coord": "331,1759,135,23",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Architekten/",
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "130070343",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "44",
+        "StdName": "Tschudy",
+        "LastNames": [
+            "Tschudy/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 374,
+                    "coord": "370,1609,58,23",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 376,
+                    "coord": "458,1609,172,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 379,
+                    "coord": "870,1609,123,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 408,
+                    "coord": "988,1723,58,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 410,
+                    "coord": "105,1759,78,24",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 415,
+                    "coord": "528,1759,123,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Architekten/",
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "130070335",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "45",
+        "StdName": "Karch",
+        "LastNames": [
+            "Karch/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 382,
+                    "coord": "232,1646,80,23",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 384,
+                    "coord": "329,1647,88,22",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "1112387323",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "46",
+        "StdName": "Mannheim",
+        "LastNames": [],
+        "FirstNames": [
+            "Mannheim/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 386,
+                    "coord": "476,1647,151,23",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4037372-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "47",
+        "StdName": "Meyer, Eugen",
+        "LastNames": [
+            "Meyer/"
+        ],
+        "FirstNames": [
+            "Eugen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 388,
+                    "coord": "712,1648,89,29",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 389,
+                    "coord": "817,1647,91,29",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 408,
+                    "coord": "988,1723,58,22",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 410,
+                    "coord": "105,1759,78,24",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 417,
+                    "coord": "748,1761,91,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "48",
+        "StdName": "Paris",
+        "LastNames": [],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            []
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4044660-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": ""
+    },
+    {
+        "id": "49",
+        "StdName": "Laffargue, J.",
+        "LastNames": [
+            "Lafargue/",
+            "#Laffargue/"
+        ],
+        "FirstNames": [
+            "J./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1289,
+                    "coord": "1814,2559,49,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1291,
+                    "coord": "1872,2558,24,25",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1293,
+                    "coord": "1908,2559,129,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 265,
+                    "coord": "475,1030,56,19",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 266,
+                    "coord": "549,1029,105,28",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Herr/",
+            "HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "50",
+        "StdName": "Meyer, J.",
+        "LastNames": [
+            "Meyer/"
+        ],
+        "FirstNames": [
+            "J./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1289,
+                    "coord": "1814,2559,49,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1295,
+                    "coord": "1154,2593,24,26",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1297,
+                    "coord": "1195,2593,79,24",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "51",
+        "StdName": "Edison",
+        "LastNames": [
+            "Edison/ORG"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0681.txt",
+                    "lineNo": 1358,
+                    "coord": "1759,2821,102,28",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "118528912",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "52",
+        "StdName": "Saint Ouen",
+        "LastNames": [],
+        "FirstNames": [
+            "St. Ouen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 15,
+                    "coord": "543,164,29,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 17,
+                    "coord": "589,164,70,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "5351531-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "53",
+        "StdName": "Clichy",
+        "LastNames": [],
+        "FirstNames": [
+            "Clichy/ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 40,
+                    "coord": "732,237,74,25",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4527553-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "54",
+        "StdName": "Saint-Fargeau",
+        "LastNames": [],
+        "FirstNames": [
+            "Saint-Fargeau/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 100,
+                    "coord": "312,465,166,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4338171-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "55",
+        "StdName": "Champs-Elys\u00e9es",
+        "LastNames": [],
+        "FirstNames": [
+            "Champs Elis\u00e9es/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 120,
+                    "coord": "1101,498,94,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 121,
+                    "coord": "254,540,93,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4075878-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "STR"
+    },
+    {
+        "id": "56",
+        "StdName": "Pantheon (Paris)",
+        "LastNames": [],
+        "FirstNames": [
+            "Pantheon/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 160,
+                    "coord": "860,650,109,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4075889-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "STR"
+    },
+    {
+        "id": "57",
+        "StdName": "Issy",
+        "LastNames": [],
+        "FirstNames": [
+            "Issy/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 167,
+                    "coord": "516,690,42,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4249380-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "58",
+        "StdName": "Borsig, A.",
+        "LastNames": [
+            "Borsig'schen/DERIV",
+            "Borsig'schen/ADJ+?",
+            "Borsig/ORG"
+        ],
+        "FirstNames": [
+            "A./ORG"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 316,
+                    "coord": "259,1221,25,19",
+                    "note": "ORG",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 318,
+                    "coord": "301,1219,77,26",
+                    "note": "ORG",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 359,
+                    "coord": "621,1330,149,26",
+                    "note": "ADJ+?",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 406,
+                    "coord": "707,1518,146,25",
+                    "note": "DERIV",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "118661981",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "59",
+        "StdName": "Dessau",
+        "LastNames": [],
+        "FirstNames": [
+            "Dessauer/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 345,
+                    "coord": "257,1294,107,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4011536-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "60",
+        "StdName": "L\u00fchrig",
+        "LastNames": [
+            "#L\u00fchrig/?"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 348,
+                    "coord": "748,1292,87,25",
+                    "note": "?",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "137878745",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "61",
+        "StdName": "London",
+        "LastNames": [],
+        "FirstNames": [
+            "London/ORG",
+            "London/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 804,
+                    "coord": "1748,193,88,20",
+                    "note": "ORG",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 531,
+                    "coord": "752,1728,90,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 563,
+                    "coord": "733,1848,92,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4074335-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "62",
+        "StdName": "England",
+        "LastNames": [],
+        "FirstNames": [
+            "englischen/ADJ",
+            "Englands/",
+            "engl/ADJ+ABK"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 868,
+                    "coord": "1242,420,55,25",
+                    "note": "ADJ+ABK",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1046,
+                    "coord": "1885,1019,122,25",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 490,
+                    "coord": "682,1637,111,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4014770-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "63",
+        "StdName": "Pictet, Raoul",
+        "LastNames": [
+            "Pictet/"
+        ],
+        "FirstNames": [
+            "Raoul/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 989,
+                    "coord": "1931,831,78,19",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 990,
+                    "coord": "2018,830,82,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "117687162",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "64",
+        "StdName": "Aubert, Henri",
+        "LastNames": [
+            "#Aubert/"
+        ],
+        "FirstNames": [
+            "Henri/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1025,
+                    "coord": "2059,944,48,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1027,
+                    "coord": "2121,943,66,19",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1028,
+                    "coord": "1245,986,89,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1146304927",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "65",
+        "StdName": "Jaquet, Marc",
+        "LastNames": [
+            "Jaquet/"
+        ],
+        "FirstNames": [
+            "Marc/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1025,
+                    "coord": "2059,944,48,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1029,
+                    "coord": "1350,986,61,17",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1030,
+                    "coord": "1424,985,84,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "66",
+        "StdName": "Cartier, Alfred",
+        "LastNames": [
+            "Cartier/"
+        ],
+        "FirstNames": [
+            "Alfred/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1025,
+                    "coord": "2059,944,48,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1031,
+                    "coord": "1524,983,75,19",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1032,
+                    "coord": "1615,983,83,18",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "105514532X",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "67",
+        "StdName": "Galopin, Paul",
+        "LastNames": [
+            "Galopin/"
+        ],
+        "FirstNames": [
+            "Paul/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1025,
+                    "coord": "2059,944,48,18",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": false
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1034,
+                    "coord": "1776,982,51,18",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1035,
+                    "coord": "1843,981,93,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "#HH./"
+        ],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "1047980444",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "68",
+        "StdName": "Lord Rayleigh",
+        "LastNames": [
+            "Rayleigh/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1047,
+                    "coord": "2025,1016,164,21",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1048,
+                    "coord": "1246,1059,58,21",
+                    "note": "",
+                    "category": "AN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1049,
+                    "coord": "1322,1059,102,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [
+            "Lord/"
+        ],
+        "Occupations": [
+            "Naturforscher/"
+        ],
+        "Other": [],
+        "Gnd": "118788019",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "69",
+        "StdName": "William Ramsay",
+        "LastNames": [
+            "Ramsay/"
+        ],
+        "FirstNames": [
+            "William/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1047,
+                    "coord": "2025,1016,164,21",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1051,
+                    "coord": "1501,1057,56,22",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1053,
+                    "coord": "1569,1057,94,22",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1054,
+                    "coord": "1681,1057,89,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Prof./"
+        ],
+        "Address": [],
+        "Occupations": [
+            "Naturforscher/"
+        ],
+        "Other": [],
+        "Gnd": "118787810",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "70",
+        "StdName": "M\u00fcnchen",
+        "LastNames": [],
+        "FirstNames": [
+            "M\u00fcnchen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1187,
+                    "coord": "1472,1746,108,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4127793-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "71",
+        "StdName": "Monbijouplatz 3 (Berlin)",
+        "LastNames": [],
+        "FirstNames": [
+            "Monbijouplatz 3/?"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1324,
+                    "coord": "1352,2311,169,25",
+                    "note": "?",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1325,
+                    "coord": "1536,2316,20,19",
+                    "note": "?",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4713839-7",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Hmmmm",
+        "type": "STR"
+    },
+    {
+        "id": "72",
+        "StdName": "Pogliaghi",
+        "LastNames": [
+            "Pogliaghi/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1410,
+                    "coord": "1443,2719,115,20",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1411,
+                    "coord": "1574,2719,109,19",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1412,
+                    "coord": "1694,2718,122,26",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1413,
+                    "coord": "1829,2719,80,18",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Professor/"
+        ],
+        "Address": [],
+        "Occupations": [
+            "Lehrer/",
+            "Bildhauer/"
+        ],
+        "Other": [],
+        "Gnd": "122136802",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "73",
+        "StdName": "Muzio",
+        "LastNames": [
+            "Muzio/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1432,
+                    "coord": "1770,2779,103,19",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1433,
+                    "coord": "1890,2779,69,19",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "K\u00fcnstler/"
+        ],
+        "Other": [],
+        "Gnd": "132603985",
+        "Gnd-security": "?",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "74",
+        "StdName": "Sozzi",
+        "LastNames": [
+            "Sozzi/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1432,
+                    "coord": "1770,2779,103,19",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1435,
+                    "coord": "2036,2780,57,19",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "K\u00fcnstler/"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "75",
+        "StdName": "Cassioli, Giuseppe",
+        "LastNames": [
+            "Cassioli/"
+        ],
+        "FirstNames": [
+            "Giuseppe/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1439,
+                    "coord": "1334,2811,107,25",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1440,
+                    "coord": "1459,2809,86,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "119159791",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "76",
+        "StdName": "Florenz",
+        "LastNames": [],
+        "FirstNames": [
+            "Florenz/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1442,
+                    "coord": "1599,2809,93,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4017581-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "77",
+        "StdName": "Quattrini",
+        "LastNames": [
+            "Quattrini/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1443,
+                    "coord": "1709,2809,106,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "122130324",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "78",
+        "StdName": "Rom",
+        "LastNames": [],
+        "FirstNames": [
+            "Rom/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1445,
+                    "coord": "1866,2808,60,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4050471-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "79",
+        "StdName": "Bianchi, Cesare",
+        "LastNames": [
+            "Bianchi/"
+        ],
+        "FirstNames": [
+            "Cesare/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1453,
+                    "coord": "1505,2840,195,19",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1454,
+                    "coord": "1713,2840,76,18",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0682.txt",
+                    "lineNo": 1455,
+                    "coord": "1803,2839,88,20",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Dombaumeisters/"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "80",
+        "StdName": "Obmann, Ferdinand",
+        "LastNames": [
+            "Obmann/"
+        ],
+        "FirstNames": [
+            "Ferdinand/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 53,
+                    "coord": "93,276,65,20",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 55,
+                    "coord": "178,276,119,19",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 56,
+                    "coord": "315,274,107,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 57,
+                    "coord": "445,275,109,20",
+                    "note": "",
+                    "category": "TL",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [
+            "Professor/"
+        ],
+        "Address": [],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "81",
+        "StdName": "Prag",
+        "LastNames": [],
+        "FirstNames": [
+            "Prag/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 62,
+                    "coord": "972,277,61,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4076310-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "82",
+        "StdName": "Hagberg",
+        "LastNames": [
+            "Hagberg/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 122,
+                    "coord": "141,485,65,20",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 124,
+                    "coord": "217,486,102,25",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Arch./"
+        ],
+        "Other": [],
+        "Gnd": "119477440",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    },
+    {
+        "id": "83",
+        "StdName": "Hartmann",
+        "LastNames": [
+            "Hartmann/"
+        ],
+        "FirstNames": [],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 128,
+                    "coord": "523,487,126,21",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "Zu viele Linkingm\u00f6glichkeiten",
+        "type": "PER"
+    },
+    {
+        "id": "84",
+        "StdName": "Spiez",
+        "LastNames": [],
+        "FirstNames": [
+            "Spiez/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 174,
+                    "coord": "778,704,59,28",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4118755-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "85",
+        "StdName": "Thunersee",
+        "LastNames": [],
+        "FirstNames": [
+            "Thunersee/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 176,
+                    "coord": "902,705,131,24",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4059993-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "86",
+        "StdName": "Alpen",
+        "LastNames": [],
+        "FirstNames": [
+            "Alpes/FR"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 226,
+                    "coord": "966,826,66,27",
+                    "note": "FR",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4001328-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "87",
+        "StdName": "Simplon",
+        "LastNames": [],
+        "FirstNames": [
+            "Simplon/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 254,
+                    "coord": "323,915,105,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4107772-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "88",
+        "StdName": "St. Gotthard",
+        "LastNames": [],
+        "FirstNames": [
+            "#St. Gothard/FR"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 256,
+                    "coord": "439,916,29,19",
+                    "note": "FR",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 258,
+                    "coord": "479,915,96,20",
+                    "note": "FR",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4077005-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "89",
+        "StdName": "Lukmanier",
+        "LastNames": [],
+        "FirstNames": [
+            "#Lukmanier_\u2014_Etude/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 260,
+                    "coord": "621,916,231,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4270018-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "90",
+        "StdName": "St. Gallen",
+        "LastNames": [],
+        "FirstNames": [
+            "St. Gallen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 272,
+                    "coord": "89,974,30,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 274,
+                    "coord": "126,975,75,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4051594-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "91",
+        "StdName": "Ostschweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "ostschweizerischen/ADJ"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 282,
+                    "coord": "809,976,221,21",
+                    "note": "ADJ",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4044106-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "92",
+        "StdName": "Westschweiz",
+        "LastNames": [],
+        "FirstNames": [
+            "Westschweiz/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 294,
+                    "coord": "145,1035,154,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4065823-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "93",
+        "StdName": "Bern",
+        "LastNames": [],
+        "FirstNames": [
+            "#Bern/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 425,
+                    "coord": "262,1427,53,17",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": false
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005762-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "94",
+        "StdName": "Doncaster",
+        "LastNames": [],
+        "FirstNames": [
+            "Doncaster/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 500,
+                    "coord": "123,1665,119,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4085465-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "95",
+        "StdName": "Glasgow",
+        "LastNames": [],
+        "FirstNames": [
+            "Glasgow/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 533,
+                    "coord": "930,1729,100,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4021159-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "96",
+        "StdName": "Aberdeen",
+        "LastNames": [],
+        "FirstNames": [
+            "Aberdeen/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 565,
+                    "coord": "886,1848,142,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4079606-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "97",
+        "StdName": "\u00d6sterreich-Ungarn",
+        "LastNames": [],
+        "FirstNames": [
+            "Oesterreich-Ungarn/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 806,
+                    "coord": "1110,1167,233,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4075613-0",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "98",
+        "StdName": "Russland",
+        "LastNames": [],
+        "FirstNames": [
+            "Russland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 811,
+                    "coord": "1109,1243,103,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4076899-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "99",
+        "StdName": "Rum\u00e4nien",
+        "LastNames": [],
+        "FirstNames": [
+            "Rum\u00e4nien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 812,
+                    "coord": "1109,1281,118,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4050939-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "100",
+        "StdName": "Italien",
+        "LastNames": [],
+        "FirstNames": [
+            "Italien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 813,
+                    "coord": "1108,1317,75,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4027833-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "101",
+        "StdName": "Skandinavien",
+        "LastNames": [],
+        "FirstNames": [
+            "Skandinavien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 814,
+                    "coord": "1108,1356,159,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4055209-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "102",
+        "StdName": "Nordamerika",
+        "LastNames": [],
+        "FirstNames": [
+            "Nord/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 815,
+                    "coord": "1109,1394,69,18",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4042483-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "103",
+        "StdName": "S\u00fcdamerika",
+        "LastNames": [],
+        "FirstNames": [
+            "S\u00fcdamerika/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 817,
+                    "coord": "1256,1394,142,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4078014-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "104",
+        "StdName": "Grossbritannien",
+        "LastNames": [],
+        "FirstNames": [
+            "Grossbritannien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 820,
+                    "coord": "1109,1431,187,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4022153-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "105",
+        "StdName": "Holland",
+        "LastNames": [],
+        "FirstNames": [
+            "Holland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 821,
+                    "coord": "1109,1469,94,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4133959-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "106",
+        "StdName": "Griechenland",
+        "LastNames": [],
+        "FirstNames": [
+            "Griechenland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 822,
+                    "coord": "1110,1506,157,21",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4022047-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "107",
+        "StdName": "Luxemburg",
+        "LastNames": [],
+        "FirstNames": [
+            "Luxemburg/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 823,
+                    "coord": "1108,1544,138,27",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4036728-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "108",
+        "StdName": "T\u00fcrkei",
+        "LastNames": [],
+        "FirstNames": [
+            "T\u00fcrkei/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 824,
+                    "coord": "1108,1582,81,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4061163-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "109",
+        "StdName": "Frankreich",
+        "LastNames": [],
+        "FirstNames": [
+            "Frankreich/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 825,
+                    "coord": "1111,1620,129,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4018145-5",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "110",
+        "StdName": "Indien",
+        "LastNames": [],
+        "FirstNames": [
+            "Indien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 826,
+                    "coord": "1109,1657,76,19",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4026722-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "111",
+        "StdName": "Serbien",
+        "LastNames": [],
+        "FirstNames": [
+            "Serbien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 827,
+                    "coord": "1108,1695,89,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4054598-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "112",
+        "StdName": "Spanien",
+        "LastNames": [],
+        "FirstNames": [
+            "Spanien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 932,
+                    "coord": "1107,1733,93,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4055964-6",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "113",
+        "StdName": "Belgien",
+        "LastNames": [],
+        "FirstNames": [
+            "Belgien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 933,
+                    "coord": "1109,1770,88,26",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4005406-8",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "114",
+        "StdName": "Bulgarien",
+        "LastNames": [],
+        "FirstNames": [
+            "Bulgarien/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 934,
+                    "coord": "1107,1808,114,25",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4008866-2",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "115",
+        "StdName": "Portugal",
+        "LastNames": [],
+        "FirstNames": [
+            "Portugal/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 935,
+                    "coord": "1106,1847,101,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4046843-4",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CTR"
+    },
+    {
+        "id": "116",
+        "StdName": "Selnau",
+        "LastNames": [],
+        "FirstNames": [
+            "Selnau/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1080,
+                    "coord": "1592,2377,88,22",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4109077-9",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "CIT"
+    },
+    {
+        "id": "117",
+        "StdName": "S\u00fcddeutschland",
+        "LastNames": [],
+        "FirstNames": [
+            "S\u00fcddeutschland/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1111,
+                    "coord": "1599,2608,193,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4078022-3",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "118",
+        "StdName": "Elsass",
+        "LastNames": [],
+        "FirstNames": [
+            "Alsace/FR",
+            "Elsass/"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1155,
+                    "coord": "1802,2759,78,20",
+                    "note": "",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ],
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1164,
+                    "coord": "1528,2787,76,20",
+                    "note": "FR",
+                    "category": "",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [],
+        "Other": [],
+        "Gnd": "4014500-1",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "GEO"
+    },
+    {
+        "id": "119",
+        "StdName": "Paur, H.",
+        "LastNames": [
+            "Paur/"
+        ],
+        "FirstNames": [
+            "H./"
+        ],
+        "Gender": "",
+        "references": [
+            [
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1191,
+                    "coord": "1749,2889,31,18",
+                    "note": "",
+                    "category": "FN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1193,
+                    "coord": "1799,2889,76,27",
+                    "note": "",
+                    "category": "LN",
+                    "no_ocr_error": true
+                },
+                {
+                    "page": "sbz-002_1895_025_0683.txt",
+                    "lineNo": 1194,
+                    "coord": "1891,2890,123,27",
+                    "note": "",
+                    "category": "OC",
+                    "no_ocr_error": true
+                }
+            ]
+        ],
+        "Titles": [],
+        "Address": [],
+        "Occupations": [
+            "Ingenieur/"
+        ],
+        "Other": [],
+        "Gnd": "",
+        "Gnd-security": "",
+        "Wiki-fallback": "",
+        "Notes": "",
+        "type": "PER"
+    }
+]
