@@ -5,6 +5,7 @@ chnobli-test
    :maxdepth: 4
 
    tag_flair
+   preprocess
    aggregation
    postprocess
    linking
