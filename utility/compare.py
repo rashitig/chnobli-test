@@ -1,3 +1,6 @@
+"""
+Comparison functions for Person entities
+"""
 import argparse
 import json
 import logging
@@ -30,8 +33,8 @@ def compare_references(entity_pre: dict, entity_post: dict) -> bool:
         entity_post (dict): The entity after code changes.
 
     Raises:
-        Exception: If any of the fields do not match, throws an exception
-        indicating where the mismatch was.
+        Exception: If any of the fields do not match, throws an exception\
+            indicating where the mismatch was.
 
     Returns:
         bool: True if nothing changed, throws an exception in all other cases.
@@ -70,9 +73,9 @@ def compare_linking_person(list_pre: list, list_post: list) -> bool:
         list_post (list): List of entities after code changes.
 
     Raises:
-        Exception: If any of the fields do not match, throws an exception
-        indicating where the mismatch was. The order of the found
-        entities matters.
+        Exception: If any of the fields do not match, throws an exception\
+            indicating where the mismatch was. The order of the found\
+            entities matters.
 
     Returns:
         bool: True if nothing changed, throws an exception in all other cases.
@@ -130,9 +133,9 @@ def compare_linking_places(list_pre: list, list_post: list) -> bool:
         list_post (list): List of entities after code changes.
 
     Raises:
-        Exception: If any of the fields do not match, throws an exception
-        indicating where the mismatch was. The order of the found
-        entities matters.
+        Exception: If any of the fields do not match, throws an exception\
+            indicating where the mismatch was. The order of the found\
+            entities matters.
 
     Returns:
         bool: True if nothing changed, throws an exception in all other cases.
@@ -164,15 +167,15 @@ def compare_linking(output_path_pre: str, output_path_post: str) -> bool:
     """Compares linking output of two jsons at the given paths.
 
     Args:
-        output_path_pre (str): Path to the linking output json before any
-         changes were made.
-        output_path_post (str): Path to the linking output json after changes
-         were made.
+        output_path_pre (str): Path to the linking output json before any\
+            changes were made.
+        output_path_post (str): Path to the linking output json after changes\
+            were made.
 
     Raises:
-        Exception: If any of the fields do not match, throws an exception
-        indicating where the mismatch was. The order of the found
-        entities matters.
+        Exception: If any of the fields do not match, throws an exception\
+            indicating where the mismatch was. The order of the found\
+            entities matters.
 
     Returns:
         bool: True if nothing changed, throws an exception in all other cases.
@@ -199,24 +202,23 @@ def compare_tagging(output_path_pre: str, output_path_post: str) -> bool:
     """Compares tagging output of two jsons at the given paths.
 
     Args:
-        output_path_pre (str): Path to the tagging output json before any
-         changes were made.
-        output_path_post (str): Path to the tagging output json after changes
-         were made.
+        output_path_pre (str): Path to the tagging output json before any\
+            changes were made.
+        output_path_post (str): Path to the tagging output json after changes\
+            were made.
 
     Raises:
-        Exception: If any of the fields do not match, throws an exception
-        indicating where the mismatch was. The order of the found
-        entities matters.
-
+        Exception: If any of the fields do not match, throws an exception\
+            indicating where the mismatch was. The order of the found\
+            entities matters.
 
     Returns:
         bool: True if nothing changed, throws an exception in all other cases.
     """
-    with open(output_path_pre, 'r') as json_file_pre:
+    with open(output_path_pre, 'r', encoding='utf-8') as json_file_pre:
         json_list_pre = list(json_file_pre)
 
-    with open(output_path_post, 'r') as json_file_post:
+    with open(output_path_post, 'r', encoding='utf-8') as json_file_post:
         json_list_post = list(json_file_post)
 
     # sanity check

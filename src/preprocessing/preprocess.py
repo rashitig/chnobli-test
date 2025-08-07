@@ -31,7 +31,10 @@ from utility import split_year
 
 @dataclass
 class PreprocessConfig:
-    ABBREVIATION_FILE: str
+    """Class for the preprocess configuration
+    """
+
+    ABBREVIATION_FILE: str = None
     ABBREVIATION_LIST: defaultdict = field(
         default_factory=lambda: defaultdict(list))
     KONJ: list = field(
@@ -45,19 +48,19 @@ class PreprocessConfig:
 
     def load_abbrevs(self) -> defaultdict:
         """
-        Load the abbreviations from a file into a set for quick checking if a
+        Load the abbreviations from a file into a set for quick checking if a\
         word is included.
 
-        Each abbreviation in the file should be on a separate line and will be
-        processed into a set where each abbreviation is associated with its
+        Each abbreviation in the file should be on a separate line and will be\
+        processed into a set where each abbreviation is associated with its\
         context (words before and after it).
 
         Args:
             infile (str): Path to the input file containing abbreviations.
 
         Returns:
-            defaultdict: A dictionary where each key is an abbreviation and
-                the value is a list of dictionaries with 'before' and 'after'
+            defaultdict: A dictionary where each key is an abbreviation and\
+                the value is a list of dictionaries with 'before' and 'after'\
                 keys indicating the context of the abbreviation.
 
         Example:
@@ -109,23 +112,23 @@ def fuse_hyphens(content: str, preprocess_data: PreprocessConfig) -> list:
     Fuse words that were split by hyphens or line breaks in OCR outputs.
 
     Args:
-        content (str): The raw text containing words and their coordinate
+        content (str): The raw text containing words and their coordinate\
             metadata.
 
     Returns:
-        list: A list of dictionaries, where each dictionary has a "word" (str)
-              and a "coord" (list) key, representing the fused token and its
+        list: A list of dictionaries, where each dictionary has a "word" (str)\
+              and a "coord" (list) key, representing the fused token and its\
               associated coordinates.
 
     Example:
-        >>> sample_text = "Hel¬ 001122\nlo 12345\nWorld 67890"
+        >>> sample_text = "Hel¬ 001122\\nlo 12345\\nWorld 67890"
         >>> fuse_hyphens(sample_text)
         [{'word': 'Hello', 'coord': ['001122', '12345']},
          {'word': 'World', 'coord': ['67890']}]
 
     Explanation:
         1. Lines with fewer than two tokens are skipped.
-        2. If a word ends with a special marker (like a trailing hyphen), the
+        2. If a word ends with a special marker (like a trailing hyphen), the\
            following token may be fused, preserving coordinate metadata.
         3. Returns the fully assembled words and their combined coordinates.
     """
@@ -424,21 +427,21 @@ def preprocess_file(infile: str, conf: dict) -> list:
     Preprocesses a file output by OCR and returns a list of sentences.
 
     Args:
-        infile (str): Path to the input file to be preprocessed.
-        conf (dict): Configuration dictionary containing the path to the
+        infile (str): Path to the input file to be preprocessed.\n
+        conf (dict): Configuration dictionary containing the path to the\
             abbreviation file.
 
     Returns:
-        list: A list of sentences, where each sentence is a list of tokens,
+        list: A list of sentences, where each sentence is a list of tokens,\
             and each token is a dictionary.
 
     Raises:
-        FileNotFoundError: If the input file does not exist.
-        KeyError: If the configuration dictionary does not contain the
+        FileNotFoundError: If the input file does not exist.\n
+        KeyError: If the configuration dictionary does not contain the\
             required keys.
 
     Example:
-        conf = {"PATH_TO_ABBREVIATION_FILE": "/path/to/abbreviation/file"}
+        conf = {"PATH_TO_ABBREVIATION_FILE": "/path/to/abbreviation/file"}\n
         sentences = preprocess_file("/path/to/input/file", conf)
     """
     preprocess_data = PreprocessConfig(
@@ -531,14 +534,21 @@ def start_preprocessing(year_directories: List[str], conf: dict):
 
 
 def execute_preprocessing(conf: dict):
-    """Executes the preprocessing on the files given in the conf dict.
+    """
+    Executes the preprocessing on the files given in the conf dict.
 
     Args:
         conf (dict): Dictionary containing various paths and settings.
 
     Yields:
-        tuple: The first entry is the year, the second entry is the dictionary
-         of preprocessed data.
+        tuple: The first entry is the year, the second entry is the dictionary\
+            of preprocessed data.
+    
+    Example:
+        bliblablub
+
+    Explanation:
+        bliblablub
     """
     if "CUSTOM_PATHS" in conf:
         # If custom paths are set (this is default pipeline behavior), we get
